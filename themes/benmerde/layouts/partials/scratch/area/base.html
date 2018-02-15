@@ -1,8 +1,10 @@
 {{ if eq .Kind "section" }}
 	{{ .Scratch.Set "area_permalink" .Permalink  }}
-	{{ $header := .Resources.GetMatch "**header*" }}
-	{{ with $header }}
-		{{ $.Scratch.Set "area_logo" .Permalink }}
+	{{ if ge .Hugo.Version 0.34 }}
+		{{ $header := .Resources.GetMatch "**header*" }}
+		{{ with $header }}
+			{{ $.Scratch.Set "area_logo" .Permalink }}
+		{{ end }}
 	{{ end }}
 	{{ .Scratch.Set "area_slogan" .Params.slogan  }}
 {{ else }}
@@ -10,9 +12,11 @@
 	{{ $area_page := .Site.GetPage "section" (printf "post/%s" $area) }}
 	{{ with $area_page }}
 		{{ $.Scratch.Set "area_permalink" .Permalink  }}
-		{{ $header := .Resources.GetMatch "**header*" }}
-		{{ with $header }}
-			{{ $.Scratch.Set "area_logo" .Permalink }}
+		{{ if ge .Hugo.Version 0.34 }}
+			{{ $header := .Resources.GetMatch "**header*" }}
+			{{ with $header }}
+				{{ $.Scratch.Set "area_logo" .Permalink }}
+			{{ end }}
 		{{ end }}
 		{{ $.Scratch.Set "area_slogan" .Params.slogan  }}
 	{{ end }}

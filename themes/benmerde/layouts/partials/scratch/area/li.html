@@ -1,5 +1,10 @@
 {{ with .Parent }}
 	{{ $.Scratch.Set "area_permalink" .Permalink  }}
-	{{ $.Scratch.Set "area_logo" (.Resources.GetMatch "**header*").Permalink }}
+	{{ if ge .Hugo.Version 0.34 }}
+		{{ $header := .Resources.GetMatch "**header*" }}
+		{{ with $header }}
+			{{ $.Scratch.Set "area_logo" .Permalink }}
+		{{ end }}
+	{{ end }}
 	{{ $.Scratch.Set "area_slogan" .Params.slogan  }}
 {{ end }}

@@ -4,7 +4,7 @@
     {{ if .IsHome }}
         <title>{{ .Site.Title }} | {{ .Site.Params.Description }}</title>
     {{  else }}
-    <title><{{ .Site.Title }} | {{ .Title }}</title>
+    <title>{{ .Site.Title }} | {{ .Title }}</title>
     {{ end }}
     <meta name="description" content="{{ .Site.Params.Description }}">
     <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
