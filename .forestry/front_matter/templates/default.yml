@@ -1,4 +1,6 @@
 ---
+pages:
+- post/canada/test-rigolo.md
 hide_body: false
 fields:
 - name: title
