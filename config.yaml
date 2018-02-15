@@ -1,4 +1,4 @@
-baseURL: "http://hopeful-wozniak.netlify.com"
+baseURL: "https://hopeful-wozniak.netlify.com"
 languageCode: "fr-fr"
 title: "Ben Merde"
 MetaDataFormat: "yaml"
