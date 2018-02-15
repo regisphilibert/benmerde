@@ -1,0 +1,6 @@
+{{ define "main" }}
+	{{ range $index, $page := (.Paginate (where .Data.Pages "Type" "post")).Pages }}
+		{{ .Render "li" }}
+	{{ end }}
+	{{ partial "pagination-wrap" . }}
+{{ end }}

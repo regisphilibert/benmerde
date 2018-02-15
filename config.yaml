@@ -1,0 +1,16 @@
+baseURL: "/"
+languageCode: "fr-fr"
+title: "Ben Merde"
+MetaDataFormat: "yaml"
+theme: benmerde
+paginate: 10
+disqusShortname: "ben-merde"
+taxonomies:
+  tag: "tags"
+  location: "locations"
+
+params:
+  FacebookId: 137223813025796
+  Description: "je suis au Canada"
+  AuthorName: "John Doe"
+  Area: "canada"

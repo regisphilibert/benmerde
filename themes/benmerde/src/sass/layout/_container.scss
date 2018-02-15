@@ -1,0 +1,13 @@
+$defaultWidth:620px;
+.bm-container{
+	margin:0 auto;
+	padding: 0 15px;
+	max-width:1150px;
+}
+
+@media screen and (min-width:$tablet){
+    .bm-container{
+        padding-right:5%;
+        padding-left:5%;
+    }
+}

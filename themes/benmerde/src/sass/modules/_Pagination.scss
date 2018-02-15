@@ -1,0 +1,42 @@
+.pagination{
+	padding:0;
+	margin:0;
+	list-style-type: none;
+	li{
+		display: inline-block;
+	}
+	a{
+		text-decoration: none;
+		color:$cRed;
+		padding:0 .3em;
+	}
+	.active{
+		
+	}
+	.disabled, .active{
+		a{
+			color:$cBlack;
+		}
+	}
+}
+.bm-Pagination{
+	padding: .3em 0;
+	font-size:0.9em;
+	.bm-grid__aside{
+		display: none;
+		text-align: right;
+	}
+	.bm-grid__main{
+		text-align: center;
+	}
+}
+@media (min-width:$desktop){
+	.bm-Pagination{
+		.bm-grid__aside{
+			display: block;
+		}
+		.bm-grid__main{
+			text-align: left;
+		}
+	}
+}

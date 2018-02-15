@@ -1,0 +1,19 @@
+<footer id="footer" class="bm-Footer">
+	<div class="bm-container">
+		<div class="bm-Brand bm-Brand--white">
+			<h1>{{ lower .Site.Title }}</h1>
+			<h2>{{ .Scratch.Get "area_slogan" }}</h2>
+		</div>
+		<a href="#header" class="footer-action">&and;</a>
+	</div>
+	<hr>
+	<div class="bm-container" style="padding-bottom:1em">
+		<div class="bm-Footer__widgets">{{ $page := . }}
+			{{ range $.Site.Data.widgets }}
+				{{ if in .locations "footer" }}
+					{{ partial (printf "widgets/%s.html" .type) (dict "Page" $page "Widget" . ) }}
+				{{ end }}
+			{{ end }}
+		</div>
+	</div>
+</footer>

@@ -1,0 +1,9 @@
+{{- $src := .Get "src" -}}
+<div class="bm-Media">
+	<img src="{{ $src }}" alt="">
+	{{ with .Get "caption" }}
+	<figcaption>
+		{{ . }}
+	</figcaption>
+	{{ end }}
+</div>

@@ -1,0 +1,42 @@
+header{
+	border-bottom:1px solid var(--layoutColor);
+}
+a.bm-Brand{
+	text-decoration: none;
+}
+.bm-Brand{
+	padding:0.5em 0;
+	h1{
+		font-size: 2.3rem;
+		line-height: 1em;
+		margin:0;
+	}
+	h2{
+		margin:0;
+		color:var(--layoutColor);
+		font-size: 1rem;
+	}
+}
+.bm-Brand__icon{
+	text-align:right;
+	
+	img{
+		max-width:3.91em;
+	}
+}
+.bm-Brand--white{
+	color:white;
+	h2{
+		color:white;
+	}
+}
+
+@media (max-width:$desktop - 1){
+	.bm-Brand{
+		display: block;
+		.bm-grid__main, .bm-grid__aside{
+			display: inline-block;
+			vertical-align: middle;
+		}
+	}
+}

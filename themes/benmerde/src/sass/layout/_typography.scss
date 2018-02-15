@@ -1,0 +1,24 @@
+
+body{
+	font-family:$ffSerif;
+	line-height:1.4;
+}
+h1{
+	font-size:150%;
+	font-weight:normal;
+}
+h1, h2{
+	font-weight:normal;
+}
+a{
+	color:inherit;
+}
+hr{
+	border:0;
+	border-top:1px solid $cRed;
+}
+@media (min-width:$tablet){
+	html{
+		font-size:23px;
+	}
+}

@@ -1,0 +1,27 @@
+.bm-Footer{
+	background-color:var(--layoutColor);
+	color:white;
+	.bm-container{
+		padding:0 1em;
+	}
+	hr{
+		border-color:white;
+	}
+}
+footer{
+    position: relative;
+    .footer-action{
+        color:white;
+        position: absolute;
+        text-decoration: none;
+        top:.5em;
+        right:.5em;
+    }
+}
+@media (min-width:$desktop){
+	.bm-Footer__widgets{
+		display:grid;
+		grid-template-columns:repeat(3, 1fr);
+		grid-gap:1em;
+	}	
+}

@@ -1,0 +1,13 @@
+[build]
+  publish = "public"
+  command = "cd themes/benmerde && npm install && grunt production && cd ../.. && hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.36"
+  HUGO_ENV = "netlify"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.36"
+
+[context.branch-deploy.environment]
+  HUGO_VERSION = "0.36"

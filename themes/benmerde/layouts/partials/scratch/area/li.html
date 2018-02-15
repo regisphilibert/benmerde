@@ -1,0 +1,5 @@
+{{ with .Parent }}
+	{{ $.Scratch.Set "area_permalink" .Permalink  }}
+	{{ $.Scratch.Set "area_logo" (.Resources.GetMatch "**header*").Permalink }}
+	{{ $.Scratch.Set "area_slogan" .Params.slogan  }}
+{{ end }}

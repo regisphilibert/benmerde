@@ -1,0 +1,22 @@
+
+@media (min-width:$desktop){
+	.bm-grid{
+		display:grid;
+		grid-gap: 1rem;
+		grid-template-columns:repeat(6, 1fr);
+		grid-template-areas:
+			"aside aside main   main   main   main";
+	}
+	.bm-grid__aside{
+		grid-area:aside;
+	}
+	.bm-grid__main{
+		grid-area:main;
+	}
+}
+@media (min-width:$xl){
+	.bm-grid{
+		grid-template-areas:
+			"aside main main main main .";
+	}
+}

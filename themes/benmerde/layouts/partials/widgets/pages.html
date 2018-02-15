@@ -1,0 +1,9 @@
+<div class="bm-Widget bm-Widget--pages">
+<h2>{{ .Widget.title }}</h2>
+{{ $limit := default 5 .Widget.limit }}
+<ul>
+{{ range first $limit (where (where .Page.Site.Pages "Type" "post") "Kind" "page") }}
+<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+{{ end }}
+</ul>
+</div>

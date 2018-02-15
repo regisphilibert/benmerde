@@ -1,0 +1,13 @@
+<div class="bm-container">
+	<div class="bm-grid bm-Pagination">
+		<div class="bm-grid__aside">Un commentaire?</div>
+		<div class="bm-grid__main">
+			{{ $date := time .Date }}
+			{{ if and ($date.Before (time "2016-12-30")) (isset .Site.Params "facebookid") }}
+				{{ partial "comments-facebook" . }}
+			{{ else }}
+			{{ template "_internal/disqus.html" . }}
+			{{ end }}
+		</div>
+	</div>
+</div>

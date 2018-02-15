@@ -1,0 +1,16 @@
+<header id="header">
+	<div class="bm-container">
+		<a href="/" class="bm-Brand bm-grid bm-grid--small">
+			<div class="bm-grid__aside">
+				<div class="bm-Brand__icon">
+					<img src='{{ .Scratch.Get "area_logo" }}' alt="">
+				</div>
+			</div>
+			<div class="bm-grid__main">
+				<h1>{{ lower .Site.Title }}</h1>
+				<h2>{{ .Scratch.Get "area_slogan" }}</h2>
+			</div>
+		</a>
+	</div>
+	<a href="#footer" class="header-action">?</a>
+</header>

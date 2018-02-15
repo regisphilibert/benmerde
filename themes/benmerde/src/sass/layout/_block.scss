@@ -1,0 +1,87 @@
+/*less/layout/_kin-block.less*/
+
+.bm-block{
+    @include clearfix;
+}
+.bm-block__main, .bm-block__aside{
+    padding:0 5%;
+}
+
+.bm-block__aside{
+    .bm-Media{
+        img{
+            margin:0 auto;
+        }
+    }
+}
+$layoutGutter:3%;
+@media screen and (min-width:$tablet){
+    .bm-block__aside{
+        padding:0;
+    }
+    .bm-block__main{
+        padding: 0;
+        float: left;
+        margin-right:$layoutGutter;
+        width:((100%/3) * 2);
+    }
+    //right K
+    .bm-block__main + .bm-block__aside{
+        padding:0;
+        float:left;
+        width:(100% / 3%) - $layoutGutter;
+    }
+}
+@media screen and (max-width:($tablet - 1)){
+    .bm-block__main{
+        .bm-Media{
+            width:110%;
+            margin-left:-5%;
+        }
+    }
+}
+@media screen and (min-width:$xl){
+    .bm-block__main{
+        padding:0;
+        width: 48%;
+        .bm-Entry--center & {
+            margin-left:100% - 48% - $layoutGutter - ((100% - 48% - $layoutGutter - $layoutGutter)/2);
+        }
+    }
+    .bm-block__aside, .bm-block__main + .bm-block__aside{
+        float:left;
+        width:((100% - 48% - $layoutGutter - $layoutGutter)/2);
+    }
+    .bm-block__aside + .bm-block__main{
+        .bm-Entry--center & {
+            margin-left:$layoutGutter;
+        }
+    }
+}
+
+@media screen and (min-width:$tablet){
+    .bm-block[data-column]{
+        margin-left:-1.5%;
+        margin-right:-1.5%;
+        .bm-column{
+            float:left;
+            width:50%;
+            padding:0 1.5%;
+        }
+    }
+    .bm-block[data-column="2"]{
+        .bm-column{
+            width:50%;
+        }
+    }
+    .bm-block[data-column="3"]{
+        .bm-column{
+            width:100/3%;
+        }
+    }
+    .bm-block[data-column="4"]{
+        .bm-column{
+            width:100/4%;
+        }
+    }
+}

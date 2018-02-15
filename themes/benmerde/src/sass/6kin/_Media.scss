@@ -1,0 +1,102 @@
+/*less/modules/_kin-Media.less*/
+
+.bm-Media, .framed, [id^='attachment_']{
+    overflow: hidden;
+    margin: 0;
+    margin-bottom:1em;
+    position: relative;
+     .bm-block__aside & {
+        margin-top:0;
+     }
+    img, .bm-Media__video{
+        display: block;
+        max-width:100%;
+    }
+    &[style]{
+        width:auto!important;
+    }
+    & > a{
+        display: block;
+    }
+    img[width]{
+        max-width: 100%;
+        height:auto!important;
+    }
+    .let-your-conscience-be-your-guide{
+        position: relative;
+        user-select:none;
+        &:before{
+            content:"";
+            position: absolute;
+            width:100%;height:100%;
+            left:0;
+            top:0;
+            display:block;
+
+        }
+    }
+    figcaption, .wp-caption-text, .caption{
+        padding:0.5em 5%;
+        font-size: 0.9em;
+        line-height: 1.4em;
+        border-width:0;
+        border-color:$cRed;
+        border-style: solid;
+        font-family: $ffSans;
+        font-style: italic;
+        position: relative;
+        .bm-Media{
+            margin-top:1em;
+        }
+
+
+    }
+    p:empty{
+        display: none;
+    }
+}
+.bm-Media__credits, p.credits{
+    font-size: 0.77em;
+    line-height: 1.3em;
+    font-family: $ffSans;
+    position: relative;
+    font-style: normal;
+    margin-top:5px;
+    margin-bottom: 0;
+    a{
+        text-decoration: none;
+    }
+}
+@media screen and (min-width:$tablet){
+    .bm-Media{
+        figcaption{
+            padding:0.5em 0;
+        }
+        .bm-column & {
+            img{
+                width:100%;
+            }
+        }
+    }
+}
+@media screen and (min-width:$tablet){
+    .bm-Media.-wide{
+        & > img, & > .let-your-conscience-be-your-guide, & > .bm-Media__video{
+            float: left;
+            width: 74.18033%;
+        }
+        & > figcaption{
+            float: right;
+            width: 22.54098%;
+            border-top-width:2px;
+            padding:0.5em 0;
+        }
+        &.-portrait{
+            .let-your-conscience-be-your-guide, .bm-Media__video{
+                width: 48.36066%;
+                margin: 0 3.27869%;
+                margin-left:25.81967%;
+            }
+        }
+    }
+}

@@ -1,0 +1,32 @@
+{{ partial "scratch/area/li" . }}
+{{ $site := .Site }}
+<article class="bm-Entry bm-Entry--center">
+    <div class="bm-container">
+        <div class="bm-grid">
+            <h1 class="bm-grid__main bm-Entry__title">
+                  <a href="{{ .Permalink }}">{{ .Title }}</a>
+            </h1>
+            {{ with .Scratch.Get "area_logo" }}
+            <div class="bm-grid__aside bm-Entry__icon">
+                 <img src='{{ . }}' alt="">
+            </div>
+            {{ end }}
+        </div>
+        <div class="bm-grid">
+            <div class="bm-grid__aside bm-Entry__meta">
+                <time class="bm-Entry__time" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+                    {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                </time>
+                {{ with .Params.locations }}
+                    <span class="coord"> à </span>
+                    {{ range . }}
+                        <a href="{{ "/locations/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                    {{ end }}
+                {{ end }}
+            </div>
+            <div class="bm-Entry__content bm-grid__main user-edit">
+                {{ .Content }}
+            </div>
+        </div>
+    </div>
+</article>

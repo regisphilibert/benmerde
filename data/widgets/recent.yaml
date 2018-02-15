@@ -1,0 +1,5 @@
+title: Articles récents
+type: pages
+limit: 5
+locations:
+  - footer
