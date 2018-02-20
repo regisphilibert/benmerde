@@ -9,6 +9,9 @@ taxonomies:
   tag: "tags"
   location: "locations"
 
+permalinks:
+  post: /:year/:month/:title/
+
 params:
   FacebookId: 137223813025796
   Description: "je suis au Canada"

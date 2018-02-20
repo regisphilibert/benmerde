@@ -1,7 +1,6 @@
 ---
 title: Japon
 slogan: je suis au Japon
-url: /japon
 ---
 
 3 x 3 mois. 2005, 2008 et 2012…
