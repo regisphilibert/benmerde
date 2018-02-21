@@ -1,19 +1,18 @@
-baseURL: "https://benmerde.com"
-languageCode: "fr-fr"
-title: "Ben Merde"
-MetaDataFormat: "yaml"
+---
+baseURL: https://benmerde.com
+languageCode: fr-fr
+title: Ben Merde
+MetaDataFormat: yaml
 theme: benmerde
 paginate: 10
-disqusShortname: "ben-merde"
-taxonomies:
-  tag: "tags"
-  location: "locations"
-
-permalinks:
-  post: /:year/:month/:title/
-
+disqusShortname: ben-merde
 params:
-  FacebookId: 137223813025796
-  Description: "je suis au Canada"
-  AuthorName: "John Doe"
-  Area: "canada"
+  area: usa
+  authorname: John Doe
+  description: je suis au Canada
+  facebookid: 137223813025796
+taxonomies:
+  tag: tags
+  location: locations
+permalinks:
+  post: "/:year/:month/:title/"
