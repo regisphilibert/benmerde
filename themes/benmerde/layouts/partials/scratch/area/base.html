@@ -12,7 +12,8 @@
 	{{ $area_page := .Site.GetPage "section" (printf "post/%s" $area) }}
 	{{ with $area_page }}
 		{{ $.Scratch.Set "area_permalink" .Permalink  }}
-		{{ if ge .Hugo.Version 0.34 }}
+		{{ $version := (float (replaceRE "([0-9]+\\.[0-9]+).*" "${1}" .Hugo.Version)) }}
+		{{ if ge $version 0.36 }}
 			{{ $header := .Resources.GetMatch "**header*" }}
 			{{ with $header }}
 				{{ $.Scratch.Set "area_logo" .Permalink }}
