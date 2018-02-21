@@ -6,7 +6,7 @@
 				{{ with .Content }}
 					{{ . }}
 				{{ else }}
-					Tous les articles écrits là-bas.
+					Tous les articles écrits {{ cond (eq (lower .Title) .Site.Params.area) "ici" "là-bas" }}.
 				{{ end }}
 			</div>
 		</div>

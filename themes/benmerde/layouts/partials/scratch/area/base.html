@@ -1,19 +1,24 @@
+{{ $version := (float (replaceRE "([0-9]+\\.[0-9]+).*" "${1}" .Hugo.Version)) }}
 {{ if eq .Kind "section" }}
 	{{ .Scratch.Set "area_permalink" .Permalink  }}
-	{{ if ge .Hugo.Version 0.34 }}
+	{{ if ge $version 0.34 }}
 		{{ $header := .Resources.GetMatch "**header*" }}
 		{{ with $header }}
 			{{ $.Scratch.Set "area_logo" .Permalink }}
 		{{ end }}
 	{{ end }}
 	{{ .Scratch.Set "area_slogan" .Params.slogan  }}
+	{{ if ne (lower .Title) .Site.Params.area }}
+		{{ with .Params.slogan_past }}
+			{{ $.Scratch.Set "area_slogan" . }}
+		{{ end }}
+	{{ end }}
 {{ else }}
 	{{ $area := .Site.Params.area }}
 	{{ $area_page := .Site.GetPage "section" (printf "post/%s" $area) }}
 	{{ with $area_page }}
 		{{ $.Scratch.Set "area_permalink" .Permalink  }}
-		{{ $version := (float (replaceRE "([0-9]+\\.[0-9]+).*" "${1}" .Hugo.Version)) }}
-		{{ if ge $version 0.36 }}
+		{{ if ge $version 0.34 }}
 			{{ $header := .Resources.GetMatch "**header*" }}
 			{{ with $header }}
 				{{ $.Scratch.Set "area_logo" .Permalink }}
