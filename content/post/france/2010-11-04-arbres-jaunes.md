@@ -14,7 +14,7 @@ locations:
   - Lyon
 
 ---
-[<img class="alignnone size-medium wp-image-959" title="arbres_jaunes" src="/uploads/2010/11/arbres_jaunes-300x300.jpg" alt="" width="300" height="300" srcset="/uploads/2010/11/arbres_jaunes-300x300.jpg 300w, /uploads/2010/11/arbres_jaunes-150x150.jpg 150w, /uploads/2010/11/arbres_jaunes-1024x1024.jpg 1024w, /uploads/2010/11/arbres_jaunes.jpg 1395w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img class="alignnone size-medium wp-image-959" title="arbres_jaunes" src="{{< aws >}}/uploads/2010/11/arbres_jaunes-300x300.jpg" alt="" width="300" height="300" srcset="{{< aws >}}/uploads/2010/11/arbres_jaunes-300x300.jpg 300w, {{< aws >}}/uploads/2010/11/arbres_jaunes-150x150.jpg 150w, {{< aws >}}/uploads/2010/11/arbres_jaunes-1024x1024.jpg 1024w, {{< aws >}}/uploads/2010/11/arbres_jaunes.jpg 1395w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
 Tous les arbres sont jaunes.
 
@@ -26,4 +26,4 @@ qu&rsquo;au plaisir (couleurs du printemps) tout le monde s&rsquo;en branle.
 
 C&rsquo;est moche.
 
- [1]: /uploads/2010/11/arbres_jaunes.jpg
+ [1]: {{< aws >}}/uploads/2010/11/arbres_jaunes.jpg

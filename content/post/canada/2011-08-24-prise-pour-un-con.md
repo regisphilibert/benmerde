@@ -20,6 +20,6 @@ locations:
   
 &mdash;Ben ça me fait chier !
 
-[<img src="/uploads/2011/07/20110714-052049.jpg" alt="20110714-052049.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2011/07/20110714-052049.jpg" alt="20110714-052049.jpg" class="alignnone size-full" />][1]
 
- [1]: /uploads/2011/07/20110714-052049.jpg
+ [1]: {{< aws >}}/uploads/2011/07/20110714-052049.jpg

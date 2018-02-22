@@ -14,6 +14,6 @@ locations:
   - Lyon
 
 ---
-[<img src="/uploads/2010/11/20101123-084814.jpg" alt="" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2010/11/20101123-084814.jpg" alt="" class="alignnone size-full" />][1]
 
- [1]: /uploads/2010/11/20101123-084814.jpg
+ [1]: {{< aws >}}/uploads/2010/11/20101123-084814.jpg

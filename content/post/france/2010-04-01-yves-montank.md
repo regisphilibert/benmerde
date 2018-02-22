@@ -16,6 +16,6 @@ locations:
   - Lyon
 
 ---
-[<img src="/uploads/2010/04/l_1600_1200_7F8E29C9-52D0-46D9-8897-278FF07713CE1.jpeg" alt="" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2010/04/l_1600_1200_7F8E29C9-52D0-46D9-8897-278FF07713CE1.jpeg" alt="" class="alignnone size-full" />][1]
 
- [1]: /uploads/2010/04/l_1600_1200_7F8E29C9-52D0-46D9-8897-278FF07713CE1.jpeg
+ [1]: {{< aws >}}/uploads/2010/04/l_1600_1200_7F8E29C9-52D0-46D9-8897-278FF07713CE1.jpeg

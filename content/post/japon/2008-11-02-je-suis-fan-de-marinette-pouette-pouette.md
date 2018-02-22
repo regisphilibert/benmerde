@@ -19,7 +19,7 @@ locations:
  
 
 <div id="attachment_496" class="wp-caption alignright" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content/uploads/img_3620.jpg"><img class="size-medium wp-image-496" title="img_3620" src="http://benmerde.com/wp-content/uploads/img_3620-300x225.jpg" alt="ici avec Camilla Parker Bowles" width="300" height="225" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3620.jpg"><img class="size-medium wp-image-496" title="img_3620" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3620-300x225.jpg" alt="ici avec Camilla Parker Bowles" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     ici avec Camilla Parker Bowles
@@ -33,7 +33,7 @@ En tout cas on en a tourné du film (surtout elle) et ça se verra sûrement dan
 Parc&rsquo;que oui j&rsquo;ai perdu Marinette Pouette Pouette les Sushi c&rsquo;est pas si Chouette, après l&rsquo;avoir soigneusement observée passer la sécurité au plus loin que les baies vitrées le permettaient, mais demain arrive la douce, arrive LA CherieBibi. Et cette nouvelle, personne n&rsquo;en doutera, me remplit de ces sentiments qui n&rsquo;apparaiteront jamais dans le blog d&rsquo;un gentleman en short. Bref Bibi Content.
 
 <div id="attachment_495" class="wp-caption alignleft" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content/uploads/img_3377.jpg"><img class="size-medium wp-image-495" title="img_3377" src="http://benmerde.com/wp-content/uploads/img_3377-300x225.jpg" alt="Muji oui Muji !" width="300" height="225" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3377.jpg"><img class="size-medium wp-image-495" title="img_3377" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3377-300x225.jpg" alt="Muji oui Muji !" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     Oui par "magasins" je veux dire Muji surtout hein.
@@ -59,7 +59,7 @@ Voilà Marinette Pouette Pouette M&rsquo;écoutez-pas-quand-je-file-au-toilettes
 Maintenant, amenez-moi Madame&#8230;
 
 <div id="attachment_494" class="wp-caption aligncenter" style="max-width: 500px">
-  <a href="http://benmerde.com/wp-content/uploads/img_4110.jpg"><img class="size-full wp-image-494" title="img_4110" src="http://benmerde.com/wp-content/uploads/img_4110.jpg" alt="De biens bonnes tranches !" width="500" height="375" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4110.jpg"><img class="size-full wp-image-494" title="img_4110" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4110.jpg" alt="De biens bonnes tranches !" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     Fan de Marinette Pouette Pouette les casques blanc c'est pas si chouette.

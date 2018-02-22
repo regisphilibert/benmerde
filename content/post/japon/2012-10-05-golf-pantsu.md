@@ -18,6 +18,6 @@ locations:
 ---
 <div class="gallery-container">
   <div class="gallery">
-    <figure class="image-frame landscape"> <img src="/uploads/2012/10/IMG_7553-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/10/IMG_7554-650x487.jpg" alt="" /> </figure>
+    <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/10/IMG_7553-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/10/IMG_7554-650x487.jpg" alt="" /> </figure>
   </div>
 </div>

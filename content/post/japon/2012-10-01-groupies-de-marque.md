@@ -20,6 +20,6 @@ C&rsquo;est pas rare de voir ça. Ils doivent se rencontrer sur des forums de la
 
 Ou alors c&rsquo;est le boss qui kiffe (celui qu&rsquo;a le plus gros sac)
 
-[<img src="/uploads/2012/09/20120929-144747.jpg" alt="20120929-144747.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2012/09/20120929-144747.jpg" alt="20120929-144747.jpg" class="alignnone size-full" />][1]
 
- [1]: /uploads/2012/09/20120929-144747.jpg
+ [1]: {{< aws >}}/uploads/2012/09/20120929-144747.jpg

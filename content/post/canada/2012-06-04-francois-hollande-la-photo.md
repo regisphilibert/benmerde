@@ -22,6 +22,6 @@ une légende 8/10, ça évitera les :
   
 &mdash; Et c&rsquo;est votre beau-frère Monsieur le Maire ?
 
-[<img src="/uploads/2012/06/20120504-hollande-president-depardon-photo-officiel.jpeg" alt="" title="Photo Officielle François Hollande" width="450" class="alignnone size-medium wp-image-1899" />][1]
+[<img src="{{< aws >}}/uploads/2012/06/20120504-hollande-president-depardon-photo-officiel.jpeg" alt="" title="Photo Officielle François Hollande" width="450" class="alignnone size-medium wp-image-1899" />][1]
 
- [1]: /uploads/2012/06/20120504-hollande-president-depardon-photo-officiel1.jpeg
+ [1]: {{< aws >}}/uploads/2012/06/20120504-hollande-president-depardon-photo-officiel1.jpeg

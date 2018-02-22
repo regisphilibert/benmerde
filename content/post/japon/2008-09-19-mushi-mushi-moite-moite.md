@@ -42,7 +42,7 @@ Par contre les prémisses sont pas mal hein, c&rsquo;est comme si on se baladait
 (J&rsquo;attends encore trois jours et j&rsquo;appelle la PORISU, ça sent vraisemblablement juste la bouffe oubliée, mais on sait qu&rsquo;entre l&rsquo;odeur de la bouffe asiat oubliée et celle d&rsquo;un cadavre, y a juste un oignon, alors je me méfie)
 
 <div id="attachment_166" class="wp-caption " style="max-width: 150px">
-  <a href="http://benmerde.com/wp-content/uploads/img_2047.jpg"><img class="size-thumbnail wp-image-166  " title="humidite" src="http://benmerde.com/wp-content/uploads/img_2047.jpg" alt="Tu pourrais prendre une douche..." width="150" height="150" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_2047.jpg"><img class="size-thumbnail wp-image-166  " title="humidite" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_2047.jpg" alt="Tu pourrais prendre une douche..." width="150" height="150" /></a>
   
   <p class="wp-caption-text">
     À la douche !

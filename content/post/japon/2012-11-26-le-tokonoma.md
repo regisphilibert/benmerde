@@ -22,19 +22,19 @@ Chaque maison traditionnelle japonaise dispose d&rsquo;une pièce dédiée à la
 
 <div class="gallery-container">
   <div class="gallery">
-    <figure class="image-frame landscape"> <img src="/uploads/2012/11/IMG_0266-650x487.jpg" alt="" /> 
+    <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/11/IMG_0266-650x487.jpg" alt="" /> 
     
     <div class="image-caption">
       Mon Takonoma/penderie en 2005 (qui n'a de Takonoma que la poutre)
     </div></figure> <figure class="image-frame portrait"> 
     
-    <img src="/uploads/2012/11/IMG_8854-650x866.jpg" alt="" /> 
+    <img src="{{< aws >}}/uploads/2012/11/IMG_8854-650x866.jpg" alt="" /> 
     
     <div class="image-caption">
       Mon Takonoma/penderie de 2012 avec étagère intégrée.
     </div></figure> <figure class="image-frame landscape"> 
     
-    <img src="/uploads/2012/11/375598014700-650x411.png" alt="" /> 
+    <img src="{{< aws >}}/uploads/2012/11/375598014700-650x411.png" alt="" /> 
     
     <div class="image-caption">
       la mother poutre ! (wikipedia)

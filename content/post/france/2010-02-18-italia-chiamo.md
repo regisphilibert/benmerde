@@ -17,6 +17,6 @@ locations:
 ---
 Si !
 
-[<img src="/uploads/2010/02/l_1600_1200_037FD043-5B47-42EE-8F16-4BBFF8D0E83C.jpeg" alt="" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2010/02/l_1600_1200_037FD043-5B47-42EE-8F16-4BBFF8D0E83C.jpeg" alt="" class="alignnone size-full" />][1]
 
- [1]: /uploads/2010/02/l_1600_1200_037FD043-5B47-42EE-8F16-4BBFF8D0E83C.jpeg
+ [1]: {{< aws >}}/uploads/2010/02/l_1600_1200_037FD043-5B47-42EE-8F16-4BBFF8D0E83C.jpeg

@@ -16,9 +16,9 @@ locations:
 ---
 Toujours plus haut mais bien plus petit que Huancayo. On est dans une petite ville péruvienne avec eau chaude et wifi. Allez je mets deux photo.
 
-[<img src="/uploads/2014/07/20140708-211623-76583825.jpg" alt="20140708-211623-76583825.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2014/07/20140708-211623-76583825.jpg" alt="20140708-211623-76583825.jpg" class="alignnone size-full" />][1]
 
-[<img src="/uploads/2014/07/20140708-211804-76684221.jpg" alt="20140708-211804-76684221.jpg" class="alignnone size-full" />][2]
+[<img src="{{< aws >}}/uploads/2014/07/20140708-211804-76684221.jpg" alt="20140708-211804-76684221.jpg" class="alignnone size-full" />][2]
 
- [1]: /uploads/2014/07/20140708-211623-76583825.jpg
- [2]: /uploads/2014/07/20140708-211804-76684221.jpg
+ [1]: {{< aws >}}/uploads/2014/07/20140708-211623-76583825.jpg
+ [2]: {{< aws >}}/uploads/2014/07/20140708-211804-76684221.jpg

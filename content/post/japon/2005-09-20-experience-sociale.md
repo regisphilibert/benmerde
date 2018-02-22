@@ -23,7 +23,7 @@ On est allé avec M. McMillan siroter une Nama Biru dans un restaurant bien trad
 parce qu&rsquo;ils font de la bouf aussi). On peut voir un peu la gueule sur la photo. (cliquez dessus pour mieux voir )
 
 <div id="attachment_2872" class="wp-caption alignnone" style="max-width: 907px">
-  <a href="/uploads/2012/09/370619941232.jpeg"><img src="/uploads/2012/09/370619941232.jpeg" alt="" title="370619941232" width="907" height="680" class="size-full wp-image-2872" srcset="/uploads/2012/09/370619941232.jpeg 907w, /uploads/2012/09/370619941232-300x224.jpeg 300w, /uploads/2012/09/370619941232-263x197.jpeg 263w, /uploads/2012/09/370619941232-650x487.jpeg 650w" sizes="(max-width: 907px) 100vw, 907px" /></a>
+  <a href="{{< aws >}}/uploads/2012/09/370619941232.jpeg"><img src="{{< aws >}}/uploads/2012/09/370619941232.jpeg" alt="" title="370619941232" width="907" height="680" class="size-full wp-image-2872" srcset="{{< aws >}}/uploads/2012/09/370619941232.jpeg 907w, {{< aws >}}/uploads/2012/09/370619941232-300x224.jpeg 300w, {{< aws >}}/uploads/2012/09/370619941232-263x197.jpeg 263w, {{< aws >}}/uploads/2012/09/370619941232-650x487.jpeg 650w" sizes="(max-width: 907px) 100vw, 907px" /></a>
   
   <p class="wp-caption-text">
     le vrai japon

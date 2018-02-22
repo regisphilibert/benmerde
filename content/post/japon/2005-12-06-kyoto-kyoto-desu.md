@@ -8,7 +8,7 @@ draft: false
 url: /2005/12/kyoto-kyoto-desu/
 enclosure:
   - |
-    http://benmerde.loc/wp-content/uploads/2012/10/gion.mp4
+    http://benmerde.loc/wp-content{{< aws >}}/uploads/2012/10/gion.mp4
     2533953
     video/mp4
     
@@ -64,8 +64,8 @@ Pas très drole comme récit ? Ben oui mais ça m&rsquo;a vraiment plus, arrive 
 
 <div class="gallery-container">
   <div class="gallery">
-    <figure class="image-frame landscape"> <img src="/uploads/2012/10/IMG_9907.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/10/IMG_0047.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/10/IMG_9967.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/10/IMG_9946.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/10/IMG_9918.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/10/IMG_9912.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/10/IMG_0014.jpg" alt="" /> </figure>
+    <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/10/IMG_9907.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/10/IMG_0047.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/10/IMG_9967.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/10/IMG_9946.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/10/IMG_9918.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/10/IMG_9912.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/10/IMG_0014.jpg" alt="" /> </figure>
   </div>
 </div>
 
- [1]: /uploads/2012/10/gion.mp4
+ [1]: {{< aws >}}/uploads/2012/10/gion.mp4

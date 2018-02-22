@@ -24,4 +24,4 @@ Mais merde ! Sans lui on en serait encore à acheter des coques pour notre Nokia
 
 ![Steve Job on Facetime][1]
 
- [1]: /uploads/2010/06/f1275935612.jpg
+ [1]: {{< aws >}}/uploads/2010/06/f1275935612.jpg

@@ -19,7 +19,7 @@ locations:
 Bon il est temps que je m&rsquo;épanche un peu sur Gareth & Al, mes colocs Anglais ! Alors ces jours j&rsquo;ai surtout cotoyé Gareth qu&rsquo;une recherche d&#8217;emploi peu fructueuse scotche dans sa petite chambre et qui a vite réalisé  que de traîner avec un winner comme moi influencerait peut-être sa motivation et son charisme.
 
 <div id="attachment_723" class="wp-caption alignright" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content/uploads/img_5403.jpg"><img class="size-medium wp-image-723" title="img_5403" src="http://benmerde.com/wp-content/uploads/img_5403.jpg" alt="Gareth devant La Résidence des Rossignols Crevés" width="300" height="225" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_5403.jpg"><img class="size-medium wp-image-723" title="img_5403" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_5403.jpg" alt="Gareth devant La Résidence des Rossignols Crevés" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     Gareth devant La Résidence des Rossignols Crevés

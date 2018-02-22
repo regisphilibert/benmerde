@@ -19,7 +19,7 @@ locations:
 C&rsquo;est l&rsquo;anniversaire de ma Moman ! Alors Bon Anniversaire Maman !
 
 <div id="attachment_468" class="wp-caption " style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content/uploads/img_39661.jpg"><img class="size-medium wp-image-468" title="img_39661" src="http://benmerde.com/wp-content/uploads/img_39661.jpg" alt="Totalement gratuit." width="300" height="222" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_39661.jpg"><img class="size-medium wp-image-468" title="img_39661" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_39661.jpg" alt="Totalement gratuit." width="300" height="222" /></a>
   
   <p class="wp-caption-text">
     Totalement gratuit.

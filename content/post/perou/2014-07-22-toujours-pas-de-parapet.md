@@ -14,6 +14,6 @@ locations:
   - Cusco
 
 ---
-[<img src="/uploads/2014/07/20140722-165618-60978349.jpg" alt="20140722-165618-60978349.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2014/07/20140722-165618-60978349.jpg" alt="20140722-165618-60978349.jpg" class="alignnone size-full" />][1]
 
- [1]: /uploads/2014/07/20140722-165618-60978349.jpg
+ [1]: {{< aws >}}/uploads/2014/07/20140722-165618-60978349.jpg

@@ -31,7 +31,7 @@ Je cite un exemple comme on m&rsquo;a appris en 3e. Les historiens portugais vie
  
 
 <div id="attachment_254" class="wp-caption alignright" style="max-width: 226px">
-  <a href="http://benmerde.com/wp-content/uploads/340x.jpg"><img class="size-medium wp-image-254" title="340x" src="http://benmerde.com/wp-content/uploads/340x-226x300.jpg" alt="Taro Aso, O le Rioglo" width="226" height="300" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/340x.jpg"><img class="size-medium wp-image-254" title="340x" src="http://benmerde.com/wp-content{{< aws >}}/uploads/340x-226x300.jpg" alt="Taro Aso, O le Rioglo" width="226" height="300" /></a>
   
   <p class="wp-caption-text">
     Pas de lunettes, mais pas d'yeux.

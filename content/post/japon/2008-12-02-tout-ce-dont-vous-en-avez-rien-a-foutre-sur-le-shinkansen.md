@@ -20,7 +20,7 @@ Alors Madame ChériBibi et moi-même, pendant notre aventure Tranquillou, on a p
 
 Avant de faire l&rsquo;aventure tranquillou, je me suis bien renseigné sur le Shinkansen. Ce « Bullet Train » ou « train de balle » dont tout le monde parle, enfin presque. Il se trouve que sur le net, à part évoquer son nom, sa rapidité, son importance dans les transports japonais, c&rsquo;est pas facile de trouver des informations pratiques sur le Shinkansen. Alors je me suis dit, que mon expérience enrichirait ce blog avec un article.
 
-[<img class="alignright size-medium wp-image-620" title="img_00321" src="http://benmerde.com/wp-content/uploads/img_00321-300x225.jpg" alt="" width="300" height="225" />][1]Pour bien comprendre la singularité du Shintruc-là il faut aller sur le quai d&rsquo;une de ses gares, et en laisser passer quelques uns. Des Shinkansen, il en passe toutes les dix minutes environ. Le quai correspond à la ligne, donc à la destination et il reste toujours le même d&rsquo;année en année. Et toutes les dix minutes, s&rsquo;arrête un Shinkansen. Il suffit de monter dans des voitures « Reserved » si on a payé pour une place attitrée ou les « Non-Reserved » si on s&rsquo;est contenté d&rsquo;acheter un billet normal.
+[<img class="alignright size-medium wp-image-620" title="img_00321" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_00321-300x225.jpg" alt="" width="300" height="225" />][1]Pour bien comprendre la singularité du Shintruc-là il faut aller sur le quai d&rsquo;une de ses gares, et en laisser passer quelques uns. Des Shinkansen, il en passe toutes les dix minutes environ. Le quai correspond à la ligne, donc à la destination et il reste toujours le même d&rsquo;année en année. Et toutes les dix minutes, s&rsquo;arrête un Shinkansen. Il suffit de monter dans des voitures « Reserved » si on a payé pour une place attitrée ou les « Non-Reserved » si on s&rsquo;est contenté d&rsquo;acheter un billet normal.
 
 Arrivé en bout de ligne, de gentils agents en bleu et en gants montent dans le train, retournent les banquettes d&rsquo;un rapide coup de bras grâce à une <a title="Pédale Discrète" href="http://img154.imageshack.us/img154/8099/pamichouoz1.jpg" target="_blank">pédale discrète</a>, nettoient, changent les petites serviettes des appuie-têtes. Dix minutes après les sièges et les allées sont propres, les fauteuils sont tous dans le sens de la circulation, on vous laisse monter.
 
@@ -38,4 +38,4 @@ Alors il y a plusieurs noms de train. C&rsquo;est pas lié au modèles des voitu
 
 Evidemment, c&rsquo;était très intéressant !
 
- [1]: http://benmerde.com/wp-content/uploads/img_00321.jpg
+ [1]: http://benmerde.com/wp-content{{< aws >}}/uploads/img_00321.jpg

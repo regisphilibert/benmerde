@@ -42,7 +42,7 @@ Pour me consoler on a pris un bon hôtel à Cusco. On une chambre au rez-de-chau
 
 Il nous reste quelques jours, je vais tenter de profiter en béquilles. Surtout que contrairement à la dernière fois, je le vis à deux, et pas avec n&rsquo;importe qui. 
 
-[<img src="/uploads/2014/07/20140727-111613-40573981.jpg" alt="20140727-111613-40573981.jpg" class="alignnone size-full" />][2]
+[<img src="{{< aws >}}/uploads/2014/07/20140727-111613-40573981.jpg" alt="20140727-111613-40573981.jpg" class="alignnone size-full" />][2]
 
  [1]: http://benmerde.loc/2005/09/mon-pied/
- [2]: /uploads/2014/07/20140727-111613-40573981.jpg
+ [2]: {{< aws >}}/uploads/2014/07/20140727-111613-40573981.jpg

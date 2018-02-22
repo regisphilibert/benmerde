@@ -16,8 +16,8 @@ locations:
 ---
 Pixels morts. 
 
-[<img src="/uploads/2011/02/20110214-041123.jpg" alt="" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2011/02/20110214-041123.jpg" alt="" class="alignnone size-full" />][1]
 
 _-Gregory Eche-_
 
- [1]: /uploads/2011/02/20110214-041123.jpg
+ [1]: {{< aws >}}/uploads/2011/02/20110214-041123.jpg

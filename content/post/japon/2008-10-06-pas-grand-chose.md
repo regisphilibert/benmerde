@@ -30,7 +30,7 @@ Voilà patipata, je vous laisse quand même avec un joli tabouret.
  
 
 <div id="attachment_294" class="wp-caption aligncenter" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content/uploads/img_2904.jpg"><img class="size-medium wp-image-294" title="img_2904" src="http://benmerde.com/wp-content/uploads/img_2904-300x262.jpg" alt="J'ai failli craqué." width="300" height="262" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_2904.jpg"><img class="size-medium wp-image-294" title="img_2904" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_2904-300x262.jpg" alt="J'ai failli craqué." width="300" height="262" /></a>
   
   <p class="wp-caption-text">
     J'ai failli craqué.

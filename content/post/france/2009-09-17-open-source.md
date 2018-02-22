@@ -14,7 +14,7 @@ locations:
   - Lyon
 
 ---
-<img class="alignnone size-medium wp-image-95" title="desirdavenir" src="/uploads/2009/09/desirdavenir-300x219.jpg" alt="desirdavenir" width="300" height="219" srcset="/uploads/2009/09/desirdavenir-300x219.jpg 300w, /uploads/2009/09/desirdavenir-1024x748.jpg 1024w, /uploads/2009/09/desirdavenir.jpg 1378w" sizes="(max-width: 300px) 100vw, 300px" />
+<img class="alignnone size-medium wp-image-95" title="desirdavenir" src="{{< aws >}}/uploads/2009/09/desirdavenir-300x219.jpg" alt="desirdavenir" width="300" height="219" srcset="{{< aws >}}/uploads/2009/09/desirdavenir-300x219.jpg 300w, {{< aws >}}/uploads/2009/09/desirdavenir-1024x748.jpg 1024w, {{< aws >}}/uploads/2009/09/desirdavenir.jpg 1378w" sizes="(max-width: 300px) 100vw, 300px" />
 
 www.desirsdavenir.com
 

@@ -8,7 +8,7 @@ draft: false
 url: /2005/10/triston-is-out/
 enclosure:
   - |
-    http://benmerde.loc/wp-content/uploads/2012/09/laposte.mp4
+    http://benmerde.loc/wp-content{{< aws >}}/uploads/2012/09/laposte.mp4
     2325242
     video/mp4
     
@@ -24,7 +24,7 @@ locations:
 ---
 Hier le Canadien, Mr. McMillan, Triston, a quitté définitivement Oji House :(
   
-Et oui quel triste envol ! On est allé posté son sac énorme à la poste (<a target="_blank" href='/uploads/2012/09/laposte.mp4'>petit clip</a>). 
+Et oui quel triste envol ! On est allé posté son sac énorme à la poste (<a target="_blank" href='{{< aws >}}/uploads/2012/09/laposte.mp4'>petit clip</a>). 
 
 Pas été trop simple, ils avaient jamais envoyé de sac avant&#8230; Remarque en France, je pense même pas qu&rsquo;ils s&#8217;embêteraient à répondre.
   

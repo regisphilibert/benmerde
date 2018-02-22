@@ -15,11 +15,11 @@ locations:
   - Washington DC
 
 ---
-[<img src="/uploads/2013/10/20131023-224340.jpg" alt="20131023-224340.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2013/10/20131023-224340.jpg" alt="20131023-224340.jpg" class="alignnone size-full" />][1]
   
 On peut déduire 2 choses de cette photo. 
 
   * C&rsquo;est pas tous les jours que Pépette trouve une statue de son pedigree.
   * Et que malgré la citation énorme gravée dans la roche, ce que les gens entendent vraiment en regardant FDK c&rsquo;est « tire sur mon doigt ».
 
- [1]: /uploads/2013/10/20131023-224340.jpg
+ [1]: {{< aws >}}/uploads/2013/10/20131023-224340.jpg

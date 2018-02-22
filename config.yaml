@@ -11,6 +11,7 @@ params:
   authorname: John Doe
   description: je suis au Canada
   facebookid: 137223813025796
+  aws_url: https://s3.us-east-2.amazonaws.com/media.benmerde.com
 taxonomies:
   tag: tags
   location: locations

@@ -19,7 +19,7 @@ locations:
  
 
 <div id="attachment_490" class="wp-caption alignright" style="max-width: 288px">
-  <a href="http://benmerde.com/wp-content/uploads/img_4537.jpg"><img class="size-medium wp-image-490" title="img_4537" src="http://benmerde.com/wp-content/uploads/img_4537-288x300.jpg" alt="Va me manquer !" width="288" height="300" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4537.jpg"><img class="size-medium wp-image-490" title="img_4537" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4537-288x300.jpg" alt="Va me manquer !" width="288" height="300" /></a>
   
   <p class="wp-caption-text">
     Va me manquer !

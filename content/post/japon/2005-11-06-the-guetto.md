@@ -22,7 +22,7 @@ Ben voilà, il l&rsquo;a fait ce malade, et c&rsquo;est très chouette, on y est
 
 <div class="gallery-container">
   <div class="gallery">
-    <figure class="image-frame landscape"> <img src="/uploads/2012/09/370682866105.jpeg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/09/370682903651.jpeg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/09/370682921640.jpeg" alt="" /> </figure>
+    <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/09/370682866105.jpeg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/09/370682903651.jpeg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/09/370682921640.jpeg" alt="" /> </figure>
   </div>
 </div>
 

@@ -36,15 +36,15 @@ Un vrai service public, pas très propre, pas très sécuritaire, pas très ponc
 
 Petite galerie :
 
-[<img src="/uploads/2014/07/20140717-111056-40256222.jpg" alt="20140717-111056-40256222.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2014/07/20140717-111056-40256222.jpg" alt="20140717-111056-40256222.jpg" class="alignnone size-full" />][1]
 
-[<img src="/uploads/2014/07/20140717-111106-40266260.jpg" alt="20140717-111106-40266260.jpg" class="alignnone size-full" />][2]
+[<img src="{{< aws >}}/uploads/2014/07/20140717-111106-40266260.jpg" alt="20140717-111106-40266260.jpg" class="alignnone size-full" />][2]
 
-[<img src="/uploads/2014/07/20140717-111055-40255258.jpg" alt="20140717-111055-40255258.jpg" class="alignnone size-full" />][3]
+[<img src="{{< aws >}}/uploads/2014/07/20140717-111055-40255258.jpg" alt="20140717-111055-40255258.jpg" class="alignnone size-full" />][3]
 
-[<img src="/uploads/2014/07/20140717-111056-40256892.jpg" alt="20140717-111056-40256892.jpg" class="alignnone size-full" />][4]
+[<img src="{{< aws >}}/uploads/2014/07/20140717-111056-40256892.jpg" alt="20140717-111056-40256892.jpg" class="alignnone size-full" />][4]
 
- [1]: /uploads/2014/07/20140717-111056-40256222.jpg
- [2]: /uploads/2014/07/20140717-111106-40266260.jpg
- [3]: /uploads/2014/07/20140717-111055-40255258.jpg
- [4]: /uploads/2014/07/20140717-111056-40256892.jpg
+ [1]: {{< aws >}}/uploads/2014/07/20140717-111056-40256222.jpg
+ [2]: {{< aws >}}/uploads/2014/07/20140717-111106-40266260.jpg
+ [3]: {{< aws >}}/uploads/2014/07/20140717-111055-40255258.jpg
+ [4]: {{< aws >}}/uploads/2014/07/20140717-111056-40256892.jpg

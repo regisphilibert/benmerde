@@ -20,7 +20,7 @@ I&rsquo;m an Alien !! I&rsquo;m a legal Alien, I&rsquo;m french man in TOKYOOOO 
   
 Ah y est j&rsquo;ai ma carte d&rsquo;Alien. Ce qui veut dire que :
 
-[<img src="/uploads/2012/09/gaijingd.jpg" alt="" title="gaijingd" width="299" height="191" class="alignnone size-full wp-image-2875" srcset="/uploads/2012/09/gaijingd.jpg 299w, /uploads/2012/09/gaijingd-263x168.jpg 263w" sizes="(max-width: 299px) 100vw, 299px" />][1]
+[<img src="{{< aws >}}/uploads/2012/09/gaijingd.jpg" alt="" title="gaijingd" width="299" height="191" class="alignnone size-full wp-image-2875" srcset="{{< aws >}}/uploads/2012/09/gaijingd.jpg 299w, {{< aws >}}/uploads/2012/09/gaijingd-263x168.jpg 263w" sizes="(max-width: 299px) 100vw, 299px" />][1]
 
   * je n&rsquo;ai plus à me trimbaler avec mon passeport.
   * je peux transgresser la loi en traversant au rouge, ou sur la voie des vélos et ne pas forcément me faire emmener au poste. 
@@ -36,4 +36,4 @@ Je vous tiens au courant !
 
 PS : là par exemple, l&rsquo;école d&rsquo;à côté répête son Kendo.
 
- [1]: /uploads/2012/09/gaijingd.jpg
+ [1]: {{< aws >}}/uploads/2012/09/gaijingd.jpg

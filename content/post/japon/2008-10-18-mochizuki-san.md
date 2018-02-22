@@ -16,7 +16,7 @@ locations:
   - Tokyo
 
 ---
-[<img class="size-full wp-image-422" title="122429395220147635" src="http://benmerde.com/wp-content/uploads/122429395220147635.jpg" alt="" width="185" height="170" />][1]
+[<img class="size-full wp-image-422" title="122429395220147635" src="http://benmerde.com/wp-content{{< aws >}}/uploads/122429395220147635.jpg" alt="" width="185" height="170" />][1]
 
 Mochizuki, c&rsquo;est le type qui se la pète avec son chapeau dans Country Desho. Il a bien sympathisé avec Triston la première fois, et après échange de numéros de téléphone, ils se voient de temps en temps pour répéter ou « performer » tous les deux. Il l&rsquo;ont fait mardi mais j&rsquo;ai décliné malgré les 50€ d&rsquo;entrée pourtant si attractifs. 
 
@@ -27,7 +27,7 @@ En observant ses regards à la John Wayne, ses pauses à la Woody de Toy Story, 
 Mochizuki lui, il observent rien (il branche même pas sa guitare quand il joue) et est un bien piètre musicien et chanteur (ref. <a title="Country Desho" href="http://www.dailymotion.com/cheribibiz/video/x6tz8y_country-desho_travel" target="_blank">Country Desho</a>, reprise&#8230; attendrissante de Sweet Memory) Il a une guitare à 5000€, un chapeau sûrement aussi cher, tout l&rsquo;attirail, mais de country, rien. 
 
 <div id="attachment_417" class="wp-caption alignright" style="max-width: 210px">
-  <a href="http://benmerde.com/wp-content/uploads/www1ttcnnejp.gif" target="_blank"><img class="size-medium wp-image-417 " title="www1ttcnnejp" src="http://benmerde.com/wp-content/uploads/www1ttcnnejp-210x300.gif" alt="Cowboy BeBop Photoshop" width="210" height="300" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/www1ttcnnejp.gif" target="_blank"><img class="size-medium wp-image-417 " title="www1ttcnnejp" src="http://benmerde.com/wp-content{{< aws >}}/uploads/www1ttcnnejp-210x300.gif" alt="Cowboy BeBop Photoshop" width="210" height="300" /></a>
   
   <p class="wp-caption-text">
     Cowboy BeBop Photoshop
@@ -46,4 +46,4 @@ On est quand même dans un pays réputé pour ses passionnés à la limite du 
 
 Pour ceux qui poussent le vice jusqu&rsquo;à se demander qui est Floyd VanLaninghan&#8230; <a title="Un hero" href="http://www.floydcountry.com/" target="_blank">tout simplement un héro !</a>
 
- [1]: http://benmerde.com/wp-content/uploads/122429395220147635.jpg
+ [1]: http://benmerde.com/wp-content{{< aws >}}/uploads/122429395220147635.jpg

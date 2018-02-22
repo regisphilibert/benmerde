@@ -23,7 +23,7 @@ Je vais pas m&rsquo;attarder sur Diver City. L&rsquo;important c&rsquo;est juste
 
 <div class="gallery-container">
   <div class="gallery">
-    <figure class="image-frame landscape"> <img src="/uploads/2012/09/IMG_7515-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/09/IMG_7517-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/09/IMG_7516-650x487.jpg" alt="" /> 
+    <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/09/IMG_7515-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/09/IMG_7517-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/09/IMG_7516-650x487.jpg" alt="" /> 
     
     <div class="image-caption">
       et sa version florale évidement...

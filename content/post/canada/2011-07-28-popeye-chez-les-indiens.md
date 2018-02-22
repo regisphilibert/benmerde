@@ -14,12 +14,12 @@ locations:
   - Montréal
 
 ---
-[<img src="/uploads/2011/07/IMG_5107-300x225.jpg" alt="" title="IMG_5107" width="300" height="225" class="aligncenter size-medium wp-image-1568" srcset="/uploads/2011/07/IMG_5107-300x225.jpg 300w, /uploads/2011/07/IMG_5107-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img src="{{< aws >}}/uploads/2011/07/IMG_5107-300x225.jpg" alt="" title="IMG_5107" width="300" height="225" class="aligncenter size-medium wp-image-1568" srcset="{{< aws >}}/uploads/2011/07/IMG_5107-300x225.jpg 300w, {{< aws >}}/uploads/2011/07/IMG_5107-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][1]
   
-[<img src="/uploads/2011/07/IMG_5109-300x225.jpg" alt="" title="IMG_5109" width="300" height="225" class="aligncenter size-medium wp-image-1569" srcset="/uploads/2011/07/IMG_5109-300x225.jpg 300w, /uploads/2011/07/IMG_5109-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][2]
+[<img src="{{< aws >}}/uploads/2011/07/IMG_5109-300x225.jpg" alt="" title="IMG_5109" width="300" height="225" class="aligncenter size-medium wp-image-1569" srcset="{{< aws >}}/uploads/2011/07/IMG_5109-300x225.jpg 300w, {{< aws >}}/uploads/2011/07/IMG_5109-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][2]
   
-[<img src="/uploads/2011/07/IMG_5112-300x225.jpg" alt="" title="IMG_5112" width="300" height="225" class="aligncenter size-medium wp-image-1570" srcset="/uploads/2011/07/IMG_5112-300x225.jpg 300w, /uploads/2011/07/IMG_5112-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][3]
+[<img src="{{< aws >}}/uploads/2011/07/IMG_5112-300x225.jpg" alt="" title="IMG_5112" width="300" height="225" class="aligncenter size-medium wp-image-1570" srcset="{{< aws >}}/uploads/2011/07/IMG_5112-300x225.jpg 300w, {{< aws >}}/uploads/2011/07/IMG_5112-1024x768.jpg 1024w" sizes="(max-width: 300px) 100vw, 300px" />][3]
 
- [1]: /uploads/2011/07/IMG_5107.jpg
- [2]: /uploads/2011/07/IMG_5109.jpg
- [3]: /uploads/2011/07/IMG_5112.jpg
+ [1]: {{< aws >}}/uploads/2011/07/IMG_5107.jpg
+ [2]: {{< aws >}}/uploads/2011/07/IMG_5109.jpg
+ [3]: {{< aws >}}/uploads/2011/07/IMG_5112.jpg

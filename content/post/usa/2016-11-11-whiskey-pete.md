@@ -27,8 +27,8 @@ Alors évidemment ma fascination pour ce genre d&rsquo;aimant à misère se nour
 
 Ces derniers jours, les évènements font qu&rsquo;on a pas forcément envie de se retrouver à Narnardland à compter les casquettes rouges. Mais bon, on va pas faire l&rsquo;autruche non plus. Maintenant qu&rsquo;on sait qu&rsquo;il en existe 59 000 000&#8230; Va falloir se résoudre à les côtoyer et quoi de mieux que le Pete pour commencer.
 
-[<img class="alignnone size-full wp-image-4080" src="/uploads/2016/11/PrimmGIF.gif" alt="primmgif" width="640" height="480" />][1]
+[<img class="alignnone size-full wp-image-4080" src="{{< aws >}}/uploads/2016/11/PrimmGIF.gif" alt="primmgif" width="640" height="480" />][1]
 
 &nbsp;
 
- [1]: /uploads/2016/11/PrimmGIF.gif
+ [1]: {{< aws >}}/uploads/2016/11/PrimmGIF.gif

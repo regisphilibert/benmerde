@@ -15,6 +15,6 @@ locations:
   - Paris
 
 ---
-[<img src="/uploads/2010/04/p_1600_1200_B4875CEF-814B-4EAD-AC53-8060FEE0375B.jpeg" alt="" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2010/04/p_1600_1200_B4875CEF-814B-4EAD-AC53-8060FEE0375B.jpeg" alt="" class="alignnone size-full" />][1]
 
- [1]: /uploads/2010/04/p_1600_1200_B4875CEF-814B-4EAD-AC53-8060FEE0375B.jpeg
+ [1]: {{< aws >}}/uploads/2010/04/p_1600_1200_B4875CEF-814B-4EAD-AC53-8060FEE0375B.jpeg

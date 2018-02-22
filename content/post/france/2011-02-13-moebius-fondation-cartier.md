@@ -16,6 +16,6 @@ locations:
 ---
 8,50€
 
-[<img src="/uploads/2011/02/20110213-124349.jpg" alt="" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2011/02/20110213-124349.jpg" alt="" class="alignnone size-full" />][1]
 
- [1]: /uploads/2011/02/20110213-124349.jpg
+ [1]: {{< aws >}}/uploads/2011/02/20110213-124349.jpg

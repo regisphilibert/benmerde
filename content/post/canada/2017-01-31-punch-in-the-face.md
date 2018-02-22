@@ -27,7 +27,7 @@ Ce qui m&rsquo;a choqué c&rsquo;est que c&rsquo;est, moi aussi, à ce moment-l�
 
 Nous ne sommes pas meilleurs que les déplorables, nous aussi vivons une injustice et sommes prets à recourir à la violence. Comme endeuillés par une tragédie inhumaine, on a envie de se battre, d&rsquo;en découdre avec tous ces connards qui méprisent ouvertement ce qui, on s&rsquo;en rend compte, nous tient à coeur !
 
-<img class="alignright size-full wp-image-4144" src="/uploads/2017/01/nW2E1sP.gif" alt="nW2E1sP" width="365" height="205" />À l&rsquo;investiture de DJ Trompette, le nationaliste blanc Richard Spencer s&rsquo;est fait « punched in the face ». C&rsquo;est pas un geste de défense hein, c&rsquo;est bien un suckerpunch qu&rsquo;on qualifierait de lâche si la victime était pas un Justin Bieber néo-nazi.
+<img class="alignright size-full wp-image-4144" src="{{< aws >}}/uploads/2017/01/nW2E1sP.gif" alt="nW2E1sP" width="365" height="205" />À l&rsquo;investiture de DJ Trompette, le nationaliste blanc Richard Spencer s&rsquo;est fait « punched in the face ». C&rsquo;est pas un geste de défense hein, c&rsquo;est bien un suckerpunch qu&rsquo;on qualifierait de lâche si la victime était pas un Justin Bieber néo-nazi.
   
 Pourtant on a tous partagé le gif en se disant qu&rsquo;il méritait même un petit machoir-trottoir à la American History X. Et pour la première fois, beaucoup des détracteurs de Trump et de la violence en général ont défendu le geste.
 

@@ -23,7 +23,7 @@ Donc ce serait très long d&rsquo;expliquer en détail tout ce qu&rsquo;ils ont/
 Le site va encore changer. Je rajouterai des trucs. Y aura une mise à jour tous les jours pour le blog et l&rsquo;objet du jour. Et puis une grosse tous les lundi avec de nouvelles conneries et les photos de la semaine.
 
 <div id="attachment_2844" class="wp-caption alignnone" style="max-width: 1024px">
-  <a href="/uploads/2012/09/370617614277.jpeg"><img class="size-large wp-image-2844" title="370617614277" src="/uploads/2012/09/370617614277-1024x768.jpeg" alt="" width="1024" height="768" srcset="/uploads/2012/09/370617614277-1024x768.jpeg 1024w, /uploads/2012/09/370617614277-300x225.jpeg 300w, /uploads/2012/09/370617614277-263x197.jpeg 263w, /uploads/2012/09/370617614277-650x487.jpeg 650w, /uploads/2012/09/370617614277.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+  <a href="{{< aws >}}/uploads/2012/09/370617614277.jpeg"><img class="size-large wp-image-2844" title="370617614277" src="{{< aws >}}/uploads/2012/09/370617614277-1024x768.jpeg" alt="" width="1024" height="768" srcset="{{< aws >}}/uploads/2012/09/370617614277-1024x768.jpeg 1024w, {{< aws >}}/uploads/2012/09/370617614277-300x225.jpeg 300w, {{< aws >}}/uploads/2012/09/370617614277-263x197.jpeg 263w, {{< aws >}}/uploads/2012/09/370617614277-650x487.jpeg 650w, {{< aws >}}/uploads/2012/09/370617614277.jpeg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
   
   <p class="wp-caption-text">
     Allez ce sera votre pan de mur&#8230;

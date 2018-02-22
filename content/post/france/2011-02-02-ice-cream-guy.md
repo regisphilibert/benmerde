@@ -14,7 +14,7 @@ locations:
   - Lyon
 
 ---
-<img src="/uploads/2011/02/chivery-thursday-302.jpeg" alt="" title="chivery-thursday-302" width="500" height="336" class="alignnone size-full wp-image-1192" srcset="/uploads/2011/02/chivery-thursday-302.jpeg 500w, /uploads/2011/02/chivery-thursday-302-300x201.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
+<img src="{{< aws >}}/uploads/2011/02/chivery-thursday-302.jpeg" alt="" title="chivery-thursday-302" width="500" height="336" class="alignnone size-full wp-image-1192" srcset="{{< aws >}}/uploads/2011/02/chivery-thursday-302.jpeg 500w, {{< aws >}}/uploads/2011/02/chivery-thursday-302-300x201.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />
 
 Bon, ben le Washington Post l&rsquo;aura rendu [célèbre][1]. 
 

@@ -56,7 +56,7 @@ Bref Jessie veut écrire ses propres chansons, Marcy culpabilise de s&rsquo;êtr
 do &#8211; do &#8211; ré ? &#8211; mi &#8211; mi &#8211; ré &#8211; rééééééééé!!!!!!!
 
 <div id="attachment_4041" class="wp-caption alignnone" style="max-width: 1024px">
-  <img class="size-large wp-image-4041" src="/uploads/2016/10/IMG-6257-1024x496.jpg" alt="Ça s'est dégagé peu après la rédaction de cet article..." width="1024" height="496" srcset="/uploads/2016/10/IMG-6257-1024x496.jpg 1024w, /uploads/2016/10/IMG-6257-300x145.jpg 300w, /uploads/2016/10/IMG-6257-263x127.jpg 263w, /uploads/2016/10/IMG-6257-650x315.jpg 650w" sizes="(max-width: 1024px) 100vw, 1024px" />
+  <img class="size-large wp-image-4041" src="{{< aws >}}/uploads/2016/10/IMG-6257-1024x496.jpg" alt="Ça s'est dégagé peu après la rédaction de cet article..." width="1024" height="496" srcset="{{< aws >}}/uploads/2016/10/IMG-6257-1024x496.jpg 1024w, {{< aws >}}/uploads/2016/10/IMG-6257-300x145.jpg 300w, {{< aws >}}/uploads/2016/10/IMG-6257-263x127.jpg 263w, {{< aws >}}/uploads/2016/10/IMG-6257-650x315.jpg 650w" sizes="(max-width: 1024px) 100vw, 1024px" />
   
   <p class="wp-caption-text">
     Ça s&rsquo;est dégagé peu après la rédaction de cet article&#8230;

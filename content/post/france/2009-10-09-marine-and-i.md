@@ -14,7 +14,7 @@ locations:
   - Lyon
 
 ---
-[<img class="alignnone size-full wp-image-107" title="Yury Toroptsov" src="/uploads/2009/10/yury.jpg" alt="Yury Toroptsov" width="291" height="371" srcset="/uploads/2009/10/yury.jpg 291w, /uploads/2009/10/yury-235x300.jpg 235w" sizes="(max-width: 291px) 100vw, 291px" />][1]
+[<img class="alignnone size-full wp-image-107" title="Yury Toroptsov" src="{{< aws >}}/uploads/2009/10/yury.jpg" alt="Yury Toroptsov" width="291" height="371" srcset="{{< aws >}}/uploads/2009/10/yury.jpg 291w, {{< aws >}}/uploads/2009/10/yury-235x300.jpg 235w" sizes="(max-width: 291px) 100vw, 291px" />][1]
 
 Ai vu sur un vingt minute abandonné là, le visage de Mitterrand dans une mauvaise capture d&rsquo;écran d&rsquo;un mauvais JT.
 

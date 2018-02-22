@@ -20,6 +20,6 @@ Ben oui ici, ils ont des plots rigolos&#8230;
 
 <div class="gallery-container">
   <div class="gallery">
-    <figure class="image-frame landscape"> <img src="/uploads/2012/11/IMG_7650-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/11/IMG_8192-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/11/IMG_8173-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/11/IMG_7605-650x431.jpg" alt="" /> </figure>
+    <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/11/IMG_7650-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/11/IMG_8192-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/11/IMG_8173-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/11/IMG_7605-650x431.jpg" alt="" /> </figure>
   </div>
 </div>

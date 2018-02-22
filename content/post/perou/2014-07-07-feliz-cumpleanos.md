@@ -25,6 +25,6 @@ Ha nacido el divino niño,
 
 <div class="gallery-container">
   <div class="gallery">
-    <figure class="image-frame landscape"> <img src="/uploads/2014/07/20140707-201647-73007257-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2014/07/20140707-201824-73104681-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2014/07/20140707-201824-73104159-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2014/07/20140707-202003-73203211-650x487.jpg" alt="" /> </figure>
+    <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2014/07/20140707-201647-73007257-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2014/07/20140707-201824-73104681-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2014/07/20140707-201824-73104159-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2014/07/20140707-202003-73203211-650x487.jpg" alt="" /> </figure>
   </div>
 </div>

@@ -15,6 +15,6 @@ locations:
   - Montréal
 
 ---
-[<img class="alignnone size-full wp-image-262" title="BK-4768-Bourbon-Homepage" src="/uploads/2010/01/BK-4768-Bourbon-Homepage.jpg" alt="" width="400" srcset="/uploads/2010/01/BK-4768-Bourbon-Homepage.jpg 565w, /uploads/2010/01/BK-4768-Bourbon-Homepage-300x212.jpg 300w" sizes="(max-width: 565px) 100vw, 565px" />][1]
+[<img class="alignnone size-full wp-image-262" title="BK-4768-Bourbon-Homepage" src="{{< aws >}}/uploads/2010/01/BK-4768-Bourbon-Homepage.jpg" alt="" width="400" srcset="{{< aws >}}/uploads/2010/01/BK-4768-Bourbon-Homepage.jpg 565w, {{< aws >}}/uploads/2010/01/BK-4768-Bourbon-Homepage-300x212.jpg 300w" sizes="(max-width: 565px) 100vw, 565px" />][1]
 
- [1]: /uploads/2010/01/BK-4768-Bourbon-Homepage.jpg
+ [1]: {{< aws >}}/uploads/2010/01/BK-4768-Bourbon-Homepage.jpg

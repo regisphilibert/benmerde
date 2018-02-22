@@ -14,4 +14,4 @@ locations:
   - Lyon
 
 ---
-<img class="alignnone size-full wp-image-1169" title="benmerde-visa-05" src="/uploads/2011/01/benmerde-visa-05.png" alt="" width="450" height="301" />
+<img class="alignnone size-full wp-image-1169" title="benmerde-visa-05" src="{{< aws >}}/uploads/2011/01/benmerde-visa-05.png" alt="" width="450" height="301" />

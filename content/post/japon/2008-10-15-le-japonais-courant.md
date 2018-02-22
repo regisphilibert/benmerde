@@ -29,7 +29,7 @@ Alors beaucoup se demande où en est mon Japonais (il court, il court&#8230; hé
 Les petits restos je les fais avec Triston, mais il travaille quand même toute la semaine, et j&rsquo;ai bien envie de le faire aussi avec Marie et Mariane. On va surtout pas mal se bagnoder avec Mariane et vu le niveau de communication internationale dans la capitale, le reste du pays où certaines lignes de trains n&rsquo;indiquent même pas leurs stations dans notre alphabet va moins nous faire rigoler. Alors, je m&rsquo;éxerce dans ces optiques-là. C&rsquo;est pas du vrai Japonais, mais un début.
 
 <div id="attachment_367" class="wp-caption alignright" style="max-width: 220px">
-  <a href="http://benmerde.com/wp-content/uploads/japonaiscourant.jpg" target="blank"><img class="size-medium wp-image-367" title="japonaiscourant" src="http://benmerde.com/wp-content/uploads/japonaiscourant-220x300.jpg" alt="En videocassettes et DVD !" width="220" height="300" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/japonaiscourant.jpg" target="blank"><img class="size-medium wp-image-367" title="japonaiscourant" src="http://benmerde.com/wp-content{{< aws >}}/uploads/japonaiscourant-220x300.jpg" alt="En videocassettes et DVD !" width="220" height="300" /></a>
   
   <p class="wp-caption-text">
     En videocassettes et DVD !

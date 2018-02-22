@@ -25,6 +25,6 @@ L&rsquo;homme japonais, encore une fois précurseur, a adopté le man purse !
 
 <div class="gallery-container">
   <div class="gallery">
-    <figure class="image-frame portrait"> <img src="/uploads/2012/09/IMG_7142-650x724.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/09/IMG_7143-650x627.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/09/IMG_7147-650x545.jpg" alt="" /> </figure>
+    <figure class="image-frame portrait"> <img src="{{< aws >}}/uploads/2012/09/IMG_7142-650x724.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/09/IMG_7143-650x627.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/09/IMG_7147-650x545.jpg" alt="" /> </figure>
   </div>
 </div>

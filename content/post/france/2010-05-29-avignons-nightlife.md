@@ -15,6 +15,6 @@ locations:
   - Avignon
 
 ---
-[<img src="/uploads/2010/05/l_1600_1200_D8FC81B6-11B8-4F9B-B208-9892EEC7BD32.jpeg" alt="" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2010/05/l_1600_1200_D8FC81B6-11B8-4F9B-B208-9892EEC7BD32.jpeg" alt="" class="alignnone size-full" />][1]
 
- [1]: /uploads/2010/05/l_1600_1200_D8FC81B6-11B8-4F9B-B208-9892EEC7BD32.jpeg
+ [1]: {{< aws >}}/uploads/2010/05/l_1600_1200_D8FC81B6-11B8-4F9B-B208-9892EEC7BD32.jpeg

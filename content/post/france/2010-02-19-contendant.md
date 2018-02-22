@@ -16,6 +16,6 @@ locations:
 ---
 C&rsquo;est vrai que ça donne envie de le balancer sur quelqu&rsquo;un. 
 
-[<img src="/uploads/2010/02/l_1600_1200_10D88071-4A78-4CBB-A456-C5BE61657CB1.jpeg" alt="" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2010/02/l_1600_1200_10D88071-4A78-4CBB-A456-C5BE61657CB1.jpeg" alt="" class="alignnone size-full" />][1]
 
- [1]: /uploads/2010/02/l_1600_1200_10D88071-4A78-4CBB-A456-C5BE61657CB1.jpeg
+ [1]: {{< aws >}}/uploads/2010/02/l_1600_1200_10D88071-4A78-4CBB-A456-C5BE61657CB1.jpeg

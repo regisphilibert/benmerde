@@ -22,7 +22,7 @@ locations:
 
 ---
 <div id="attachment_133" class="wp-caption " style="max-width: 210px">
-  <a href="http://benmerde.com/wp-content/uploads/photo.jpg"><img class="size-medium wp-image-133 " title="Michey Insomnie" src="http://benmerde.com/wp-content/uploads/photo.jpg" alt="Lui non plus..." width="210" height="158" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/photo.jpg"><img class="size-medium wp-image-133 " title="Michey Insomnie" src="http://benmerde.com/wp-content{{< aws >}}/uploads/photo.jpg" alt="Lui non plus..." width="210" height="158" /></a>
   
   <p class="wp-caption-text">
     Lui non plus...

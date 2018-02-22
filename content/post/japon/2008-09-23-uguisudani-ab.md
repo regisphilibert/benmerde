@@ -27,7 +27,7 @@ locations:
 Une petite brève sur les habitants des Sakura Uguisudani. Déjà voilà comme c&rsquo;est foutu :
 
 <div id="attachment_191" class="wp-caption " style="max-width: 192px">
-  <a href="http://benmerde.com/wp-content/uploads/img_2049.jpg" target="blank"><img class="size-medium wp-image-191   " title="img_2049" src="http://benmerde.com/wp-content/uploads/img_2049.jpg" alt="Ah non mais j'aime hein !" width="192" height="144" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_2049.jpg" target="blank"><img class="size-medium wp-image-191   " title="img_2049" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_2049.jpg" alt="Ah non mais j'aime hein !" width="192" height="144" /></a>
   
   <p class="wp-caption-text">
     Ah non mais j'aime hein ?
@@ -57,7 +57,7 @@ Alors par contre ça ne m&#8217;embête aucunement hein. J&rsquo;ai déjà des
 C&rsquo;était quand même un sacre pari&#8230; J&rsquo;ai gagné. Ouais !
 
 <div id="attachment_193" class="wp-caption aligncenter" style="max-width: 400px">
-  <a href="http://benmerde.com/wp-content/uploads/img_20871.jpg" target="blank"><img class="size-full wp-image-193 " title="img_20871" src="http://benmerde.com/wp-content/uploads/img_20871.jpg" alt="La nuit c'est tout de suite plus joli." width="400" height="210" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_20871.jpg" target="blank"><img class="size-full wp-image-193 " title="img_20871" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_20871.jpg" alt="La nuit c'est tout de suite plus joli." width="400" height="210" /></a>
   
   <p class="wp-caption-text">
     La nuit c'est tout de suite plus joli.

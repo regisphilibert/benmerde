@@ -19,7 +19,7 @@ locations:
 Bonjour à vous les copains de Chéri Bibi.
 
 <div id="attachment_446" class="wp-caption alignright" style="max-width: 225px">
-  <a href="http://benmerde.com/wp-content/uploads/img_3454.jpg"><img class="size-medium wp-image-446" title="img_3454" src="http://benmerde.com/wp-content/uploads/img_3454.jpg" alt="Oh la belle prise." width="225" height="300" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3454.jpg"><img class="size-medium wp-image-446" title="img_3454" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3454.jpg" alt="Oh la belle prise." width="225" height="300" /></a>
   
   <p class="wp-caption-text">
     Oh la belle prise.

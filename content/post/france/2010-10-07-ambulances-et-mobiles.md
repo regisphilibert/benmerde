@@ -16,6 +16,6 @@ locations:
 ---
 je trouve ça apaisant&#8230;
 
-[<img class="alignnone size-full wp-image-907" title="mobilelawsuits-rvs-460" src="/uploads/2010/10/mobilelawsuits-rvs-460.png" alt="" width="460" height="436" srcset="/uploads/2010/10/mobilelawsuits-rvs-460.png 460w, /uploads/2010/10/mobilelawsuits-rvs-460-300x284.png 300w" sizes="(max-width: 460px) 100vw, 460px" />][1]
+[<img class="alignnone size-full wp-image-907" title="mobilelawsuits-rvs-460" src="{{< aws >}}/uploads/2010/10/mobilelawsuits-rvs-460.png" alt="" width="460" height="436" srcset="{{< aws >}}/uploads/2010/10/mobilelawsuits-rvs-460.png 460w, {{< aws >}}/uploads/2010/10/mobilelawsuits-rvs-460-300x284.png 300w" sizes="(max-width: 460px) 100vw, 460px" />][1]
 
- [1]: /uploads/2010/10/mobilelawsuits-rvs-460.png
+ [1]: {{< aws >}}/uploads/2010/10/mobilelawsuits-rvs-460.png

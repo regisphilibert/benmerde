@@ -30,7 +30,7 @@ Ben oui : A pied ! Ça faisait longtemps que je voulais traverser Tokyo à pied.
 Donc muni de ma petite sacoche pleine de&#8230; pas grand chose ! Je suis parti ! Sur ce lien tout laid y a un peu plus d&rsquo;infos sur l&rsquo;aventure&#8230;
 
 <div id="attachment_3060" class="wp-caption alignnone" style="max-width: 594px">
-  <a href="/uploads/2012/09/370685807917.gif"><img src="/uploads/2012/09/370685807917.gif" alt="" title="370685807917" width="594" height="744" class="size-full wp-image-3060" srcset="/uploads/2012/09/370685807917.gif 594w, /uploads/2012/09/370685807917-239x300.gif 239w, /uploads/2012/09/370685807917-263x329.gif 263w" sizes="(max-width: 594px) 100vw, 594px" /></a>
+  <a href="{{< aws >}}/uploads/2012/09/370685807917.gif"><img src="{{< aws >}}/uploads/2012/09/370685807917.gif" alt="" title="370685807917" width="594" height="744" class="size-full wp-image-3060" srcset="{{< aws >}}/uploads/2012/09/370685807917.gif 594w, {{< aws >}}/uploads/2012/09/370685807917-239x300.gif 239w, {{< aws >}}/uploads/2012/09/370685807917-263x329.gif 263w" sizes="(max-width: 594px) 100vw, 594px" /></a>
   
   <p class="wp-caption-text">
     Ouais avec ça on se rend mieux compte

@@ -16,4 +16,4 @@ locations:
 ---
 &#8230;et l&rsquo;autobus.
   
-<img style="display:none" src="/uploads/2011/06/screen-capture-22-150x150.png" alt="" title="screen-capture-22" width="150" height="150" class="alignnone size-thumbnail wp-image-1425" />
+<img style="display:none" src="{{< aws >}}/uploads/2011/06/screen-capture-22-150x150.png" alt="" title="screen-capture-22" width="150" height="150" class="alignnone size-thumbnail wp-image-1425" />

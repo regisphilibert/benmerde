@@ -17,7 +17,7 @@ locations:
   - Montréal
 
 ---
-Qu&rsquo;est-ce qu&rsquo;ils ont à <a href="http://golem13.fr/wp-content/uploads/2014/09/mercei-pour-ce-moment-libraires-revolte.jpg" target="_blank&quot;">s&rsquo;acharner contre Trierweiler</a> les libraires ? On les a jamais entendu l&rsquo;ouvrir contre la bio de Greg le Millionnaire, Cécilia Sarkozy ou Monica Lewinsky ?
+Qu&rsquo;est-ce qu&rsquo;ils ont à <a href="http://golem13.fr/wp-content{{< aws >}}/uploads/2014/09/mercei-pour-ce-moment-libraires-revolte.jpg" target="_blank&quot;">s&rsquo;acharner contre Trierweiler</a> les libraires ? On les a jamais entendu l&rsquo;ouvrir contre la bio de Greg le Millionnaire, Cécilia Sarkozy ou Monica Lewinsky ?
 
 Et qu&rsquo;est-ce que c&rsquo;est cette condescendance de merde qui met en avant Balzac et Dumas ? Le pédant et sa petite pancarte avait pas des noms un peu moins bateau à nous suggérer ?
 

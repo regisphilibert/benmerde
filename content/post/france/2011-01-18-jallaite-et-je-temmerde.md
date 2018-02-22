@@ -22,6 +22,6 @@ C&rsquo;est un peu comme si les enfants revendiquaient le droit d&rsquo;être bo
 
 M&rsquo;enfin je les soutiens hein, moi aussi je porte mon badge.
   
-[<img src="/uploads/2011/01/badge_nib.jpg" alt="" title="badge_nib" width="300" height="297" class="alignnone size-full wp-image-1072" srcset="/uploads/2011/01/badge_nib.jpg 300w, /uploads/2011/01/badge_nib-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img src="{{< aws >}}/uploads/2011/01/badge_nib.jpg" alt="" title="badge_nib" width="300" height="297" class="alignnone size-full wp-image-1072" srcset="{{< aws >}}/uploads/2011/01/badge_nib.jpg 300w, {{< aws >}}/uploads/2011/01/badge_nib-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
- [1]: /uploads/2011/01/badge_nib.jpg
+ [1]: {{< aws >}}/uploads/2011/01/badge_nib.jpg

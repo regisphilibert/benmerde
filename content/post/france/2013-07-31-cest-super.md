@@ -16,6 +16,6 @@ locations:
 ---
 Quel bonheur. 
 
-[<img src="/uploads/2013/07/20130731-082724.jpg" alt="20130731-082724.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2013/07/20130731-082724.jpg" alt="20130731-082724.jpg" class="alignnone size-full" />][1]
 
- [1]: /uploads/2013/07/20130731-082724.jpg
+ [1]: {{< aws >}}/uploads/2013/07/20130731-082724.jpg

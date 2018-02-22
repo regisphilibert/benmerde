@@ -21,7 +21,7 @@ Au Canada quand les enfants des petites classes sont de sortie, plutôt que de l
 Ici, pas de chanson, pas de chenille, juste une instit qui pousse laborieusement un chariot rempli de têtes.
 
 <div id="attachment_2279" class="wp-caption alignnone" style="max-width: 1024px">
-  <a href="/uploads/2012/09/IMG_7391.jpg"><img class="size-large wp-image-2279" title="IMG_7391" src="/uploads/2012/09/IMG_7391-1024x768.jpg" alt="" width="1024" height="768" srcset="/uploads/2012/09/IMG_7391-1024x768.jpg 1024w, /uploads/2012/09/IMG_7391-300x225.jpg 300w, /uploads/2012/09/IMG_7391-263x197.jpg 263w, /uploads/2012/09/IMG_7391-650x487.jpg 650w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
+  <a href="{{< aws >}}/uploads/2012/09/IMG_7391.jpg"><img class="size-large wp-image-2279" title="IMG_7391" src="{{< aws >}}/uploads/2012/09/IMG_7391-1024x768.jpg" alt="" width="1024" height="768" srcset="{{< aws >}}/uploads/2012/09/IMG_7391-1024x768.jpg 1024w, {{< aws >}}/uploads/2012/09/IMG_7391-300x225.jpg 300w, {{< aws >}}/uploads/2012/09/IMG_7391-263x197.jpg 263w, {{< aws >}}/uploads/2012/09/IMG_7391-650x487.jpg 650w" sizes="(max-width: 1024px) 100vw, 1024px" /></a>
   
   <p class="wp-caption-text">
     On peut siffler les 7 nains pour égayer, mais l&rsquo;image des camps de travail nippons pèse.

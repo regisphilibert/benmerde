@@ -14,10 +14,10 @@ locations:
   - Paris
 
 ---
-[<img src="/uploads/2011/02/20110211-092537.jpg" alt="" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2011/02/20110211-092537.jpg" alt="" class="alignnone size-full" />][1]
 
 Des verres tellement dégueulasses qu&rsquo;on y mettrait pas une bougie. 
 
 Mais c&rsquo;était bon.
 
- [1]: /uploads/2011/02/20110211-092537.jpg
+ [1]: {{< aws >}}/uploads/2011/02/20110211-092537.jpg

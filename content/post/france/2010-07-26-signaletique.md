@@ -16,6 +16,6 @@ locations:
 ---
 Siège réservé aux handicapés, aux aveugles, aux sourds et aux&#8230; comédiens ?
 
-[<img class="alignnone size-full" src="/uploads/2010/07/p_2592_1936_4A2BCD10-348B-4C3C-B0A7-61386C83ACA0.jpeg" alt="" />][1]
+[<img class="alignnone size-full" src="{{< aws >}}/uploads/2010/07/p_2592_1936_4A2BCD10-348B-4C3C-B0A7-61386C83ACA0.jpeg" alt="" />][1]
 
- [1]: /uploads/2010/07/p_2592_1936_4A2BCD10-348B-4C3C-B0A7-61386C83ACA0.jpeg
+ [1]: {{< aws >}}/uploads/2010/07/p_2592_1936_4A2BCD10-348B-4C3C-B0A7-61386C83ACA0.jpeg

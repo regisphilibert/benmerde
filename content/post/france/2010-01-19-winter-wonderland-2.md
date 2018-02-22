@@ -15,6 +15,6 @@ locations:
   - Montréal
 
 ---
-[<img class="alignnone size-medium wp-image-248" title="IMG_1257" src="/uploads/2010/01/IMG_12571-300x225.jpg" alt="" width="300" height="225" srcset="/uploads/2010/01/IMG_12571-300x225.jpg 300w, /uploads/2010/01/IMG_12571-1024x768.jpg 1024w, /uploads/2010/01/IMG_12571.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />][1]
+[<img class="alignnone size-medium wp-image-248" title="IMG_1257" src="{{< aws >}}/uploads/2010/01/IMG_12571-300x225.jpg" alt="" width="300" height="225" srcset="{{< aws >}}/uploads/2010/01/IMG_12571-300x225.jpg 300w, {{< aws >}}/uploads/2010/01/IMG_12571-1024x768.jpg 1024w, {{< aws >}}/uploads/2010/01/IMG_12571.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" />][1]
 
- [1]: /uploads/2010/01/IMG_12571.jpg
+ [1]: {{< aws >}}/uploads/2010/01/IMG_12571.jpg

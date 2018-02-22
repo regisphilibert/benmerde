@@ -33,6 +33,6 @@ Bref, on vient de se prendre 2 jours d&rsquo;inconnu naïf dans les yeux, on dig
 
 <div class="gallery-container">
   <div class="gallery">
-    <figure class="image-frame portrait"> <img src="/uploads/2016/11/IMG-5235-650x867.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2016/11/IMG-7038-650x650.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2016/11/IMG-2189-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2016/11/IMG-6022-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2016/11/IMG-6984-650x650.jpg" alt="" /> </figure>
+    <figure class="image-frame portrait"> <img src="{{< aws >}}/uploads/2016/11/IMG-5235-650x867.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2016/11/IMG-7038-650x650.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2016/11/IMG-2189-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2016/11/IMG-6022-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2016/11/IMG-6984-650x650.jpg" alt="" /> </figure>
   </div>
 </div>

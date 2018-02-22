@@ -14,6 +14,6 @@ locations:
   - Lyon
 
 ---
-<img src="/uploads/2010/12/assange_con.jpg" alt="ce con d'assange" title="assange_con" width="415" height="206" class="alignnone size-full wp-image-1032" srcset="/uploads/2010/12/assange_con.jpg 415w, /uploads/2010/12/assange_con-300x148.jpg 300w" sizes="(max-width: 415px) 100vw, 415px" />
+<img src="{{< aws >}}/uploads/2010/12/assange_con.jpg" alt="ce con d'assange" title="assange_con" width="415" height="206" class="alignnone size-full wp-image-1032" srcset="{{< aws >}}/uploads/2010/12/assange_con.jpg 415w, {{< aws >}}/uploads/2010/12/assange_con-300x148.jpg 300w" sizes="(max-width: 415px) 100vw, 415px" />
   
 qu&rsquo;il posait toujours comme un connard !

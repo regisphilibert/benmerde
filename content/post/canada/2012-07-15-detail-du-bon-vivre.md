@@ -22,7 +22,7 @@ On passe du trottoir à la pelouse, de la routine à la détente, du travail au 
   
 En y pique-niquant jusqu&rsquo;à tard dans la nuit, en s&rsquo;y arrêtant cinq minutes pour attendre le bus ou en y faisant sa gym on s&rsquo;approprie vraiments ces aires « protégées ». 
 
-[<img src="/uploads/2012/05/IMG_23491.jpg" alt="" title="IMG_2349" width="450" height="217" class="aligncenter size-full wp-image-1884" srcset="/uploads/2012/05/IMG_23491.jpg 450w, /uploads/2012/05/IMG_23491-300x144.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />][1]
+[<img src="{{< aws >}}/uploads/2012/05/IMG_23491.jpg" alt="" title="IMG_2349" width="450" height="217" class="aligncenter size-full wp-image-1884" srcset="{{< aws >}}/uploads/2012/05/IMG_23491.jpg 450w, {{< aws >}}/uploads/2012/05/IMG_23491-300x144.jpg 300w" sizes="(max-width: 450px) 100vw, 450px" />][1]
 
 Non seulement ça intègre mieux les parcs dans l&rsquo;urbain, leur donnant une véritable dimension d&rsquo;espaces vert, mais leurs bête accessibilité et l&rsquo;absence de règles y étant associées marquent leur appartenance non à une impalpable gouvernance municipale mais bien aux citadins-contribuables, principaux financiers et donc juste bénéficiaires de ces parcs publics.
 
@@ -30,4 +30,4 @@ Bref un style un peu ampoulé pour reconnaître que quand on lâche un peu, au r
 
 Quand on ne lâche rien, comme en France, un parc, ça se traverse.
 
- [1]: /uploads/2012/05/IMG_23491.jpg
+ [1]: {{< aws >}}/uploads/2012/05/IMG_23491.jpg

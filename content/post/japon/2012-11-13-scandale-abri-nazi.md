@@ -18,6 +18,6 @@ locations:
 ---
 La prochaine fois que je vois une cabine téléphonique nazi (hors service), j&rsquo;appelle les Rosenthal !
 
-[<img src="/uploads/2012/09/IMG_7498-1024x747.jpg" alt="" title="IMG_7498" width="1024" height="747" class="alignnone size-large wp-image-2331" srcset="/uploads/2012/09/IMG_7498-1024x747.jpg 1024w, /uploads/2012/09/IMG_7498-300x219.jpg 300w, /uploads/2012/09/IMG_7498-263x192.jpg 263w, /uploads/2012/09/IMG_7498-650x474.jpg 650w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+[<img src="{{< aws >}}/uploads/2012/09/IMG_7498-1024x747.jpg" alt="" title="IMG_7498" width="1024" height="747" class="alignnone size-large wp-image-2331" srcset="{{< aws >}}/uploads/2012/09/IMG_7498-1024x747.jpg 1024w, {{< aws >}}/uploads/2012/09/IMG_7498-300x219.jpg 300w, {{< aws >}}/uploads/2012/09/IMG_7498-263x192.jpg 263w, {{< aws >}}/uploads/2012/09/IMG_7498-650x474.jpg 650w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
 
- [1]: /uploads/2012/09/IMG_7498.jpg
+ [1]: {{< aws >}}/uploads/2012/09/IMG_7498.jpg

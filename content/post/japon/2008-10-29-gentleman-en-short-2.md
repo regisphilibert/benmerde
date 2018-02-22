@@ -23,7 +23,7 @@ locations:
 Cher lectrice, je vais vous répondre&#8230;
 
 <p style="text-align: left;">
-  <strong><a href="http://benmerde.com/wp-content/uploads/img_1544.jpg"><img class="alignright size-medium wp-image-481" title="img_1544" src="http://benmerde.com/wp-content/uploads/img_1544-243x300.jpg" alt="" width="243" height="300" /></a></strong>
+  <strong><a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_1544.jpg"><img class="alignright size-medium wp-image-481" title="img_1544" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_1544-243x300.jpg" alt="" width="243" height="300" /></a></strong>
 </p>
 
 [][1]
@@ -45,7 +45,7 @@ Mais j&rsquo;ai préféré repartir, emmenant ma cousine sous le bras avec la pr
 Sinon qu&rsquo;est-ce qu&rsquo;on a fait ces jours où rien, absolument rien, n&rsquo;a paru sur le Belogue ? Disons qu&rsquo;entre Disney et des magasins, on est allé à Enoshima. C&rsquo;est une île au sud de la baie de Tokyo que l&rsquo;on peut comparer à Pérouge, la petite balade des Tokyonos qui amuse le week-end. C&rsquo;est relié au continent par un pont qu&rsquo;on peut facilement traverser à pied, et ensuite on crapahute dans les collines qui constituent l&rsquo;île et on visite ses temples. L&rsquo;attraction phare, c&rsquo;est de prendre un ticket à 350Y pour l&rsquo; ESKARA ou plutôt l&rsquo;escalator.
 
 <div id="attachment_482" class="wp-caption alignleft" style="max-width: 210px">
-  <a href="http://benmerde.com/wp-content/uploads/img_4167.jpg"><img class="size-medium wp-image-482 " title="img_4167" src="http://benmerde.com/wp-content/uploads/img_4167-300x225.jpg" alt="Vraiment typique." width="210" height="158" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4167.jpg"><img class="size-medium wp-image-482 " title="img_4167" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4167-300x225.jpg" alt="Vraiment typique." width="210" height="158" /></a>
   
   <p class="wp-caption-text">
     Vraiment typique.
@@ -58,4 +58,4 @@ Y avait bien un étage unisexe A POIL, mais nous avons décliné, en effet tous 
 
 Pour conclure on a pas eu le temps de s&rsquo;ennuyer, et alors qu&rsquo;aujourd&rsquo;hui on voulait lever le pied, ben on est quand même rentrés à 11h. On est bien fatigué. [audio:tsointsoin.mp3]
 
- [1]: http://benmerde.com/wp-content/uploads/img_1544.jpg
+ [1]: http://benmerde.com/wp-content{{< aws >}}/uploads/img_1544.jpg

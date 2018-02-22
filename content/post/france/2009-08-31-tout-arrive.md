@@ -23,6 +23,6 @@ Maintenant, alors qu&rsquo;on nous déconseille de serrer des mains, est-ce que 
 
 Pour après alors. 
 
-[<img src="/uploads/2009/08/p_1600_1200_A2ADC529-8CCC-45BC-8845-F58A2EB6B4E5.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" />][1]
+[<img src="{{< aws >}}/uploads/2009/08/p_1600_1200_A2ADC529-8CCC-45BC-8845-F58A2EB6B4E5.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" />][1]
 
- [1]: /uploads/2009/08/p_1600_1200_A2ADC529-8CCC-45BC-8845-F58A2EB6B4E5.jpeg
+ [1]: {{< aws >}}/uploads/2009/08/p_1600_1200_A2ADC529-8CCC-45BC-8845-F58A2EB6B4E5.jpeg

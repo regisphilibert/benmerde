@@ -21,7 +21,7 @@ Et ben alors ? Côté virus on serait mieux au Japon ? Héhé&#8230;
 Hier grande journée ! Ca fait 15 jours que j&rsquo;ai plus de pied, et pour fêter ça je suis allé faire des courses dans mon supermarché favori ! C&rsquo;était une grosse sortie, ma réunion avec le Japon que j&rsquo;aime bien fait de choses simples et de gens cons.
 
 <div id="attachment_2918" class="wp-caption alignnone" style="max-width: 600px">
-  <a href="/uploads/2012/09/370653026622.jpeg"><img src="/uploads/2012/09/370653026622.jpeg" alt="" title="370653026622" width="600" height="450" class="size-full wp-image-2918" srcset="/uploads/2012/09/370653026622.jpeg 600w, /uploads/2012/09/370653026622-300x225.jpeg 300w, /uploads/2012/09/370653026622-263x197.jpeg 263w" sizes="(max-width: 600px) 100vw, 600px" /></a>
+  <a href="{{< aws >}}/uploads/2012/09/370653026622.jpeg"><img src="{{< aws >}}/uploads/2012/09/370653026622.jpeg" alt="" title="370653026622" width="600" height="450" class="size-full wp-image-2918" srcset="{{< aws >}}/uploads/2012/09/370653026622.jpeg 600w, {{< aws >}}/uploads/2012/09/370653026622-300x225.jpeg 300w, {{< aws >}}/uploads/2012/09/370653026622-263x197.jpeg 263w" sizes="(max-width: 600px) 100vw, 600px" /></a>
   
   <p class="wp-caption-text">
     ah mon supermarché SMIT (plutôt samit, comprendre summit)

@@ -14,9 +14,9 @@ locations:
   - Montréal
 
 ---
-[<img src="/uploads/2011/08/20110803-080829.jpg" alt="20110803-080829.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2011/08/20110803-080829.jpg" alt="20110803-080829.jpg" class="alignnone size-full" />][1]
 
-[<img src="/uploads/2011/08/20110803-080841.jpg" alt="20110803-080841.jpg" class="alignnone size-full" />][2]
+[<img src="{{< aws >}}/uploads/2011/08/20110803-080841.jpg" alt="20110803-080841.jpg" class="alignnone size-full" />][2]
 
- [1]: /uploads/2011/08/20110803-080829.jpg
- [2]: /uploads/2011/08/20110803-080841.jpg
+ [1]: {{< aws >}}/uploads/2011/08/20110803-080829.jpg
+ [2]: {{< aws >}}/uploads/2011/08/20110803-080841.jpg

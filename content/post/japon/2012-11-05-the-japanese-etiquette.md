@@ -23,7 +23,7 @@ Je fouillais tranquillement les rayons du [Good Day Books][1] (rare magazin de l
 
 <div class="gallery-container">
   <div class="gallery">
-    <figure class="image-frame portrait"> <img src="/uploads/2012/11/IMG_2806-650x870.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/11/IMG_2809-650x485.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="/uploads/2012/11/IMG_2807-650x485.jpg" alt="" /> </figure>
+    <figure class="image-frame portrait"> <img src="{{< aws >}}/uploads/2012/11/IMG_2806-650x870.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/11/IMG_2809-650x485.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/11/IMG_2807-650x485.jpg" alt="" /> </figure>
   </div>
 </div>
 

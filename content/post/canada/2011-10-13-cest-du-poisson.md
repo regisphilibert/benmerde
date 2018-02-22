@@ -18,6 +18,6 @@ C&rsquo;est un fléau ici en Amérique du nord. Le gentil consommateur qui, au m
 
 Heureusement, grâce au macaron officiel **poisson**, cette injustice n&rsquo;arrivera plus. 
 
-[<img src="/uploads/2011/10/20111013-111019.jpg" alt="20111013-111019.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2011/10/20111013-111019.jpg" alt="20111013-111019.jpg" class="alignnone size-full" />][1]
 
- [1]: /uploads/2011/10/20111013-111019.jpg
+ [1]: {{< aws >}}/uploads/2011/10/20111013-111019.jpg

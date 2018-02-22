@@ -25,7 +25,7 @@ locations:
 Hier, je suis allé à Ginza, 1923.
 
 <div id="attachment_306" class="wp-caption aligncenter" style="max-width: 400px">
-  <a href="http://benmerde.com/wp-content/uploads/img_3063.jpg"><img class="size-full wp-image-306 " title="img_3063" src="http://benmerde.com/wp-content/uploads/img_3063.jpg" alt="Faisait beau." width="400" height="270" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3063.jpg"><img class="size-full wp-image-306 " title="img_3063" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3063.jpg" alt="Faisait beau." width="400" height="270" /></a>
   
   <p class="wp-caption-text">
     Faisait beau.

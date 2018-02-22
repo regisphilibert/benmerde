@@ -17,6 +17,6 @@ locations:
 ---
 On se pelle le cul.
   
-[<img src="/uploads/2011/07/20110727-0723471.jpg" alt="20110727-072347.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2011/07/20110727-0723471.jpg" alt="20110727-072347.jpg" class="alignnone size-full" />][1]
 
- [1]: /uploads/2011/07/20110727-0723471.jpg
+ [1]: {{< aws >}}/uploads/2011/07/20110727-0723471.jpg

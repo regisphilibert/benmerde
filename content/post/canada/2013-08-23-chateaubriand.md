@@ -17,4 +17,4 @@ locations:
   - Montréal
 
 ---
-<img src="/uploads/2013/08/20130823-144453.jpg" alt="20130823-144453.jpg" class="alignnone size-full" />
+<img src="{{< aws >}}/uploads/2013/08/20130823-144453.jpg" alt="20130823-144453.jpg" class="alignnone size-full" />

@@ -16,7 +16,7 @@ locations:
   - Tokyo
 
 ---
-[<img src="/uploads/2012/09/370679651895.jpeg" alt="" title="370679651895" width="1024" height="768" class="alignnone size-full wp-image-2971" srcset="/uploads/2012/09/370679651895.jpeg 1024w, /uploads/2012/09/370679651895-300x225.jpeg 300w, /uploads/2012/09/370679651895-263x197.jpeg 263w, /uploads/2012/09/370679651895-650x487.jpeg 650w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+[<img src="{{< aws >}}/uploads/2012/09/370679651895.jpeg" alt="" title="370679651895" width="1024" height="768" class="alignnone size-full wp-image-2971" srcset="{{< aws >}}/uploads/2012/09/370679651895.jpeg 1024w, {{< aws >}}/uploads/2012/09/370679651895-300x225.jpeg 300w, {{< aws >}}/uploads/2012/09/370679651895-263x197.jpeg 263w, {{< aws >}}/uploads/2012/09/370679651895-650x487.jpeg 650w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
 
 Aujourd&rsquo;hui ohlalala, grande journée ! On a mangé des Cup Noodles Cheese Curry. 
 
@@ -30,4 +30,4 @@ Des spaguettis, des tagliatelles, des salades etc&#8230; Et il n&rsquo;est pas r
 
 Dédicace personnelle : FREUE GEBURSTAG, SARAH
 
- [1]: /uploads/2012/09/370679651895.jpeg
+ [1]: {{< aws >}}/uploads/2012/09/370679651895.jpeg

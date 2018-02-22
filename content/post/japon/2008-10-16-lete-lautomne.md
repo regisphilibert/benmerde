@@ -24,7 +24,7 @@ locations:
 Ca y est, c&rsquo;est l&rsquo;automne. Alors l&rsquo;automne ici ça consiste en quoi ? Ben il fait pas vraiment moins chaud, ni même plus froid, pleut pas mal mais sans plus. En fait l&rsquo;automne c&rsquo;est surtout la fin de l&rsquo;été et avec celle-ci le Japon passe en mode « hiver ».
 
 <div id="attachment_341" class="wp-caption alignright" style="max-width: 201px">
-  <a href="http://www.japanesestreets.com/"><img class="size-medium wp-image-341" title="80906-4338" src="http://benmerde.com/wp-content/uploads/80906-4338-201x300.jpg" alt="Non, c'est pas moi qui l'ai prise ne photo." width="201" height="300" /></a>
+  <a href="http://www.japanesestreets.com/"><img class="size-medium wp-image-341" title="80906-4338" src="http://benmerde.com/wp-content{{< aws >}}/uploads/80906-4338-201x300.jpg" alt="Non, c'est pas moi qui l'ai prise ne photo." width="201" height="300" /></a>
   
   <p class="wp-caption-text">
     Non, c'est pas moi qui l'ai prise.
@@ -46,7 +46,7 @@ Ils font tous des petites escapades <a title="Onsen" href="http://fr.wikipedia.
 Enfin voilà prenez quand même un bonnet à pompon les filles !
 
 <div id="attachment_342" class="wp-caption aligncenter" style="max-width: 500px">
-  <a href="http://benmerde.com/wp-content/uploads/img_3159.jpg"><img class="size-full wp-image-342" title="img_3159" src="http://benmerde.com/wp-content/uploads/img_3159.jpg" alt="Ca va..." width="500" height="224" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3159.jpg"><img class="size-full wp-image-342" title="img_3159" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3159.jpg" alt="Ca va..." width="500" height="224" /></a>
   
   <p class="wp-caption-text">
     Aime pas plus l'automne que l'hiver Tommy.

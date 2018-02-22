@@ -14,6 +14,6 @@ locations:
   - Lyon
 
 ---
-[<img src="/uploads/2010/12/rice_anonyme.jpg" alt="" title="rice_anonyme" width="475" height="130" class="alignnone size-full wp-image-1038" srcset="/uploads/2010/12/rice_anonyme.jpg 480w, /uploads/2010/12/rice_anonyme-300x81.jpg 300w" sizes="(max-width: 475px) 100vw, 475px" />][1]
+[<img src="{{< aws >}}/uploads/2010/12/rice_anonyme.jpg" alt="" title="rice_anonyme" width="475" height="130" class="alignnone size-full wp-image-1038" srcset="{{< aws >}}/uploads/2010/12/rice_anonyme.jpg 480w, {{< aws >}}/uploads/2010/12/rice_anonyme-300x81.jpg 300w" sizes="(max-width: 475px) 100vw, 475px" />][1]
 
- [1]: /uploads/2010/12/rice_anonyme.jpg
+ [1]: {{< aws >}}/uploads/2010/12/rice_anonyme.jpg

@@ -14,7 +14,7 @@ locations:
   - Lyon
 
 ---
-[<img class="alignnone size-full wp-image-855" title="24empire_ch-custom3" src="/uploads/2010/08/24empire_ch-custom3.jpg" alt="" width="600" height="330" srcset="/uploads/2010/08/24empire_ch-custom3.jpg 600w, /uploads/2010/08/24empire_ch-custom3-300x165.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />][1]
+[<img class="alignnone size-full wp-image-855" title="24empire_ch-custom3" src="{{< aws >}}/uploads/2010/08/24empire_ch-custom3.jpg" alt="" width="600" height="330" srcset="{{< aws >}}/uploads/2010/08/24empire_ch-custom3.jpg 600w, {{< aws >}}/uploads/2010/08/24empire_ch-custom3-300x165.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />][1]
 
 J&rsquo;aime bien le cri d&rsquo;alerte lancé juste par les propriétaires de l&rsquo;Empire State Building. Ils s&rsquo;indignent de la construction d&rsquo;un immeuble voisin aussi haut dans les prochaines années !
 
@@ -26,5 +26,5 @@ Je vérifie juste que tout le monde a bien compris.
 
 Moi je trouve qu&rsquo;ils vont bien ensemble lui et [sa nouvelle blonde][2] !
 
- [1]: /uploads/2010/08/24empire_ch-custom3.jpg
+ [1]: {{< aws >}}/uploads/2010/08/24empire_ch-custom3.jpg
  [2]: http://www.nytimes.com/2010/08/24/nyregion/24empire.html

@@ -14,6 +14,6 @@ locations:
   - Montréal
 
 ---
-[<img src="/uploads/2010/01/p_1600_1200_46A924B1-D94C-4DA7-AB8B-F343250CF9E9.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" />][1]
+[<img src="{{< aws >}}/uploads/2010/01/p_1600_1200_46A924B1-D94C-4DA7-AB8B-F343250CF9E9.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" />][1]
 
- [1]: /uploads/2010/01/p_1600_1200_46A924B1-D94C-4DA7-AB8B-F343250CF9E9.jpeg
+ [1]: {{< aws >}}/uploads/2010/01/p_1600_1200_46A924B1-D94C-4DA7-AB8B-F343250CF9E9.jpeg

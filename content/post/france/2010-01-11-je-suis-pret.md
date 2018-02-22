@@ -14,6 +14,6 @@ locations:
   - Lyon
 
 ---
-[<img class="alignnone size-full wp-image-151" title="9782841113934FS" src="/uploads/2010/01/9782841113934FS.gif" alt="" width="296" height="475" />][1]
+[<img class="alignnone size-full wp-image-151" title="9782841113934FS" src="{{< aws >}}/uploads/2010/01/9782841113934FS.gif" alt="" width="296" height="475" />][1]
 
  [1]: http://www.amazon.fr/Mémoires-Chaque-pas-doit-être/dp/2841113930/ref=sr_1_1?ie=UTF8&s=books&qid=1263203069&sr=1-1

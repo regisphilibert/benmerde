@@ -36,7 +36,7 @@ J&rsquo;ai pris le temps d&rsquo;observer. J&rsquo;avais déjà remarqué le mat
 
 Bref, Marie était là, bougeant sont bassin des quelques centimètres réglementaires en poussant un Japono chretien du meilleur goût.
 
-[<img class="aligncenter size-full wp-image-745" title="img_30101" src="http://benmerde.com/wp-content/uploads/img_30101.jpg" alt="" width="500" height="279" />][1]
+[<img class="aligncenter size-full wp-image-745" title="img_30101" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_30101.jpg" alt="" width="500" height="279" />][1]
 
 Et encore une fois : que des clodos ! Pas un seul fidèle du milieu actif ! Jour de semaine, jour férié, Noël, 11 septembre, que des clochards pour paroissiens !
 
@@ -53,7 +53,7 @@ Ben ouais. Les Japonais dans leurs pratiques des nombreux cultes qui sont venus 
 Comme dans l&rsquo;antiquité on donnaient aux dieux, ou en tout cas à leur reproduction statuaire des fruits, du riz et que ces rites sont inchangés, il est devenu normal, à l&rsquo;arrivée des monnaies battues, de leur donner de l&rsquo;argent pour s&rsquo;assurer réussite et bonheur. On commande donc aux prêtre des prières, qu&rsquo;on lui paye comme un service. On jette systématiquement des pièces dans l&rsquo;un des dix troncs commun des temples avant de prier. L&rsquo;argent semble être partout.
 
 <div id="attachment_749" class="wp-caption alignright" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content/uploads/img_5528.jpg"><img src="http://benmerde.com/wp-content/uploads/img_5528-300x225.jpg" alt="C&#039;est là qu&#039;on paie/prie !" title="img_5528" width="300" height="225" class="size-medium wp-image-749" /></a>
+  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_5528.jpg"><img src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_5528-300x225.jpg" alt="C&#039;est là qu&#039;on paie/prie !" title="img_5528" width="300" height="225" class="size-medium wp-image-749" /></a>
   
   <p class="wp-caption-text">
     C'est là qu'on paie/prie !
@@ -82,4 +82,4 @@ Donc Chrétien persécutés, quelques martyrs, nianiania, et du coup une religio
 
 Donc faut pas venir se plaindre si les prosélytes locaux emploient des méthodes que l&rsquo;on qualifierait sans gêne de peu catholique. En tout cas moi j&rsquo;ai enfin trouvé à quoi correspondait cette réunion de miséreux, je suis content d&rsquo;avoir cerné la Messe des Clodos à Ueno !
 
- [1]: http://benmerde.com/wp-content/uploads/img_30101.jpg
+ [1]: http://benmerde.com/wp-content{{< aws >}}/uploads/img_30101.jpg

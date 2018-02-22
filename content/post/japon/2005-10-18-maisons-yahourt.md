@@ -31,7 +31,7 @@ Vont pouvoir en faire ce qu&rsquo;ils veulent&#8230;
 Allez, j&rsquo;ai mis une photo d&rsquo;un gros con qui m&rsquo;a battu au « je te tiens par les lorgnettes » dans un grand magaz&#8230; 
 
 <div id="attachment_2939" class="wp-caption alignnone" style="max-width: 599px">
-  <a href="/uploads/2012/09/370676068629.jpeg"><img src="/uploads/2012/09/370676068629.jpeg" alt="" title="370676068629" width="599" height="515" class="size-full wp-image-2939" srcset="/uploads/2012/09/370676068629.jpeg 599w, /uploads/2012/09/370676068629-300x257.jpeg 300w, /uploads/2012/09/370676068629-263x226.jpeg 263w" sizes="(max-width: 599px) 100vw, 599px" /></a>
+  <a href="{{< aws >}}/uploads/2012/09/370676068629.jpeg"><img src="{{< aws >}}/uploads/2012/09/370676068629.jpeg" alt="" title="370676068629" width="599" height="515" class="size-full wp-image-2939" srcset="{{< aws >}}/uploads/2012/09/370676068629.jpeg 599w, {{< aws >}}/uploads/2012/09/370676068629-300x257.jpeg 300w, {{< aws >}}/uploads/2012/09/370676068629-263x226.jpeg 263w" sizes="(max-width: 599px) 100vw, 599px" /></a>
   
   <p class="wp-caption-text">
     Il se foutait de ma gueule, je l&rsquo;aurais bouffé ce CON !

@@ -17,6 +17,6 @@ locations:
 ---
 C&rsquo;est Diddy qu&rsquo;a inspiré la pose ?
 
-[<img src="/uploads/2013/10/20131023-224821.jpg" alt="20131023-224821.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2013/10/20131023-224821.jpg" alt="20131023-224821.jpg" class="alignnone size-full" />][1]
 
- [1]: /uploads/2013/10/20131023-224821.jpg
+ [1]: {{< aws >}}/uploads/2013/10/20131023-224821.jpg

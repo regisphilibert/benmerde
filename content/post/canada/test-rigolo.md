@@ -6,4 +6,4 @@ draft: true
 ---
 On essaye c'est **tout**...
 
-![](/uploads/2018/02/15/Margo Balcon.jpg "Balcon")
+![]({{< aws >}}/uploads/2018/02/15/Margo Balcon.jpg "Balcon")

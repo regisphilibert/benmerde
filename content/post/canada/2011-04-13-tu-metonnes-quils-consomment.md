@@ -28,6 +28,6 @@ paye des 2$ de livraison.
 
 Tout une vie à la « posez ça là&#8230; »
 
-[<img class="alignnone size-full wp-image-1342" title="IMG_3886" src="/uploads/2011/04/IMG_3886.jpg" alt="" width="500" height="667" srcset="/uploads/2011/04/IMG_3886.jpg 500w, /uploads/2011/04/IMG_3886-224x300.jpg 224w" sizes="(max-width: 500px) 100vw, 500px" />][1]
+[<img class="alignnone size-full wp-image-1342" title="IMG_3886" src="{{< aws >}}/uploads/2011/04/IMG_3886.jpg" alt="" width="500" height="667" srcset="{{< aws >}}/uploads/2011/04/IMG_3886.jpg 500w, {{< aws >}}/uploads/2011/04/IMG_3886-224x300.jpg 224w" sizes="(max-width: 500px) 100vw, 500px" />][1]
 
- [1]: /uploads/2011/04/IMG_3886.jpg
+ [1]: {{< aws >}}/uploads/2011/04/IMG_3886.jpg

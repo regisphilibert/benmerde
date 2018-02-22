@@ -14,6 +14,6 @@ locations:
   - Montréal
 
 ---
-[<img src="/uploads/2011/07/20110729-075056.jpg" alt="20110729-075056.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2011/07/20110729-075056.jpg" alt="20110729-075056.jpg" class="alignnone size-full" />][1]
 
- [1]: /uploads/2011/07/20110729-075056.jpg
+ [1]: {{< aws >}}/uploads/2011/07/20110729-075056.jpg

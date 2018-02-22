@@ -19,6 +19,6 @@ locations:
 ---
 Parcqu&rsquo;il y a encore des artistes québecois non exportés. Je me permets de présenter au moins leur &lsquo;album covaire,
 
-[<img src="/uploads/2009/07/p-800-600-9529472a-fe2f-41a2-87e0-a0765b191fcb.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" />][1]
+[<img src="{{< aws >}}/uploads/2009/07/p-800-600-9529472a-fe2f-41a2-87e0-a0765b191fcb.jpeg" alt="" width="225" height="300" class="alignnone size-full wp-image-364" />][1]
 
- [1]: /uploads/2009/07/p-800-600-9529472a-fe2f-41a2-87e0-a0765b191fcb.jpeg
+ [1]: {{< aws >}}/uploads/2009/07/p-800-600-9529472a-fe2f-41a2-87e0-a0765b191fcb.jpeg

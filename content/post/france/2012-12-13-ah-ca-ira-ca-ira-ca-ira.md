@@ -14,6 +14,6 @@ locations:
   - Lyon
 
 ---
-[<img src="/uploads/2012/12/IMG_2869-1024x764.jpg" alt="" title="IMG_2869" width="1024" height="764" class="alignleft size-large wp-image-3400" srcset="/uploads/2012/12/IMG_2869-1024x764.jpg 1024w, /uploads/2012/12/IMG_2869-300x224.jpg 300w, /uploads/2012/12/IMG_2869-263x196.jpg 263w, /uploads/2012/12/IMG_2869-650x485.jpg 650w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
+[<img src="{{< aws >}}/uploads/2012/12/IMG_2869-1024x764.jpg" alt="" title="IMG_2869" width="1024" height="764" class="alignleft size-large wp-image-3400" srcset="{{< aws >}}/uploads/2012/12/IMG_2869-1024x764.jpg 1024w, {{< aws >}}/uploads/2012/12/IMG_2869-300x224.jpg 300w, {{< aws >}}/uploads/2012/12/IMG_2869-263x196.jpg 263w, {{< aws >}}/uploads/2012/12/IMG_2869-650x485.jpg 650w" sizes="(max-width: 1024px) 100vw, 1024px" />][1]
 
- [1]: /uploads/2012/12/IMG_2869.jpg
+ [1]: {{< aws >}}/uploads/2012/12/IMG_2869.jpg

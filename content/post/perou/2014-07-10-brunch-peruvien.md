@@ -14,6 +14,6 @@ locations:
   - Huancavelica
 
 ---
-[<img src="/uploads/2014/07/20140710-102133-37293583.jpg" alt="20140710-102133-37293583.jpg" class="alignnone size-full" />][1]
+[<img src="{{< aws >}}/uploads/2014/07/20140710-102133-37293583.jpg" alt="20140710-102133-37293583.jpg" class="alignnone size-full" />][1]
 
- [1]: /uploads/2014/07/20140710-102133-37293583.jpg
+ [1]: {{< aws >}}/uploads/2014/07/20140710-102133-37293583.jpg
