@@ -16,7 +16,6 @@
         text-decoration: none;
     }
 }
-
 .bm-Entry__title{
     font-size: 1.5rem;
     margin-top:0;
@@ -43,12 +42,20 @@
         display: inline-block;
     }
 }
+.bm-Entry__thumb{
+    margin-bottom:1em;
+    img{
+        max-width:100%;
+        display: inline-block;
+    }
+}
 @media screen and (max-width:$desktop - 1){
     .bm-Entry__head{
         position: relative;
     }
     .bm-Entry__title{
         padding-right:45px;
+        margin-bottom:0;
     }
     .bm-Entry__meta{
         display: inline-block;
@@ -85,8 +92,19 @@
     .bm-Entry__time{
         display: block;
     }
+    .bm-Entry__thumb{
+        margin-top:1em;
+        img{
+            max-width:10000px;
+        }
+    }
 }
-
+@media (min-width:1370px){
+    .bm-Entry__thumb{
+        position:absolute;
+        right:0;
+    }
+}
 .bm-Entry__tax{
     font-family: $ffSans;
     text-transform: uppercase;

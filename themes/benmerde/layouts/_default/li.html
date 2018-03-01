@@ -23,8 +23,14 @@
                         <a href="{{ "/locations/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
                     {{ end }}
                 {{ end }}
+                {{ with .Scratch.Get "thumb" }}
+                    <div class="desktop-block bm-Entry__thumb"><img src="{{ (.Resize "300x").Permalink }}" alt=""></div>
+                {{ end }}
             </div>
             <div class="bm-Entry__content bm-grid__main user-edit">
+                {{ with .Scratch.Get "thumb" }}
+                    <div class="mobile-block tablet-block bm-Entry__thumb"><img src="{{ (.Resize "500x").Permalink }}" alt=""></div>
+                {{ end }}
                 {{ .Content }}
             </div>
         </div>
