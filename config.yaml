@@ -6,6 +6,9 @@ MetaDataFormat: yaml
 theme: benmerde
 paginate: 10
 disqusShortname: ben-merde
+
+outputs:
+  page: [HTML,"json"]
 params:
   area: canada
   authorname: John Doe
