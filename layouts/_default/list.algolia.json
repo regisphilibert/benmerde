@@ -3,7 +3,7 @@
 {{- $section := $.Site.GetPage "section" .Section }}
 {{- $validVars := $.Param "algolia.vars" | default slice -}}
 {{- $validParams := $.Param "algolia.params" | default slice -}}
-{{- range $i, $hit := .Site.AllPages -}}
+{{- range $i, $hit := where .Site.AllPages "Title" "!=" "" -}}
   {{- $dot := . -}}
   {{- if or (and ($hit.IsDescendant $section) (and (not $hit.Draft) (not $hit.Params.private))) $section.IsHome -}}
     {{/* Set the hit's objectID */}}
