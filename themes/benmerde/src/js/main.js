@@ -15,7 +15,6 @@ const options = {
   urlSync: false
 }
 if(!showOnLoad){
-  $('.header-search').show();
   options.searchFunction = function(helper) {
     var searchResults = $('.bm-Search__results');
     if (helper.state.query === '') {
@@ -25,6 +24,8 @@ if(!showOnLoad){
     helper.search();
     searchResults.show();
   }
+} else {
+    $('.bm-Search').show();
 }
 const search = instantsearch(options);
 
@@ -80,7 +81,7 @@ search.addWidget(
       root:'bm-Search__pagination__list',
       item:'bm-Pagination__item',
       active: 'bm-Pagination__item--active',
-      disabled:'bm-Pagination__item--active',
+      disabled:'bm-Pagination__item--disabled',
       link:'bm-Pagination__item__link'
     },
     labels: {

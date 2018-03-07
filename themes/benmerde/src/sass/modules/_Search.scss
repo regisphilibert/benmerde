@@ -6,6 +6,23 @@
 .bm-Search__pagination.hide{
 	display: none;
 }
+.bm-Search__sponsor{
+	position: absolute;
+	left:0;
+	bottom:100%;
+	padding:0 10px;
+    font-size: 0.7em;
+    color:$cGray;
+	z-index: 50;
+	& > span, svg{
+		display: inline-block;
+		vertical-align: middle;
+	}
+	svg{
+		fill:$cGray;
+		width:1em;
+	}
+}
 .bm-Search__pagination__list{
 	margin:0;
 	padding:0;
@@ -22,8 +39,9 @@
 			text-decoration: none;
 		}
 	}
-	.bm-Pagination__item--active{
-		opacity: 0.5;
+	.bm-Pagination__item--active:not(.bm-Pagination__item--disabled){
+		color:$cRed;
+		transform:scale(1.8)
 	}
 	.bm-Pagination__item--disabled{
 		opacity:0.5;
@@ -71,7 +89,7 @@
 
 .bm-Search__results{
 	position: absolute;
-	background-color:rgba(255,255,255,0.9);
+	background-color:white;
 	width:100%;
 	top:calc(100% + 1px);
 	left:0;
