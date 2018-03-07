@@ -18,7 +18,7 @@ params:
   aws_url: https://s3.us-east-2.amazonaws.com/media.benmerde.com
 
   algolia:
-    vars: ["title", "summary", "permalink"]
+    vars: ["title", "summary", "permalink", "relpermalink", "area", "humanDate"]
     params: ["locations", "categories"]
 
 taxonomies:
