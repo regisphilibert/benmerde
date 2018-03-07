@@ -1,6 +1,7 @@
 $('.header-search').click(function(){
   $('.bm-Search').addClass('animating').slideToggle(200, function(){
     $(this).removeClass('animating')
+    $('.header-search').toggleClass('is-active')
   })
 })
 
@@ -63,7 +64,6 @@ search.addWidget(
 
 var hidePaginationWhenNoResults = {
   render: function(data) {
-    console.log(data.results.nbPages)
     if (data.results.nbPages < 2) {
       document.querySelector('#pagination').classList.add('hide');
     } else {

@@ -25,16 +25,28 @@ header{
     }
     .header-search{
         color:$cRed;
+        cursor:pointer;
         position: absolute;
         text-decoration: none;
-        bottom:.5em;
+        bottom:.1em;
         right:.5em;
-        width:1em;
         text-align: right;
+        white-space:nowrap;
+        span{
+            display: none;
+        }
         svg{
             width:0.7em;
             height:0.7em;
             fill:$cRed;
+        }
+        &.is-active{
+            svg{
+                display: none;
+            }
+            span{
+                display: inline;
+            }
         }
     }
 }
