@@ -28,7 +28,7 @@ C&rsquo;est pas ma faute ! Il a fait moche depuis le retour de camping, un crach
 Une visite de musée spontanée (sur ce bon vieux Empereur Meiji) s&rsquo;est soldé par un « Museum is Open on Saturday and Sunday Only » Classe, classe.
 
 <div id="attachment_262" class="wp-caption alignright" style="max-width: 240px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_1955.jpg"><img class="size-medium wp-image-262 " title="img_1955" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_1955-300x225.jpg" alt="le Bill Murray du moment." width="240" height="180" /></a>
+  <a href="{{< aws >}}/uploads/img_1955.jpg"><img class="size-medium wp-image-262 " title="img_1955" src="{{< aws >}}/uploads/img_1955-300x225.jpg" alt="le Bill Murray du moment." width="240" height="180" /></a>
   
   <p class="wp-caption-text">
     Tommy Bill Murray.

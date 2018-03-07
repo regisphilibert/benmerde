@@ -16,7 +16,7 @@ locations:
   - Tokyo
 
 ---
-<a style="text-decoration: none;" href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_00331.jpg"><span style="color: #000000;"><br /> </span><img class="aligncenter size-full wp-image-517" style="text-decoration: underline;" title="img_00331" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_00331.jpg" alt="" width="400" height="533" /></a>
+<a style="text-decoration: none;" href="{{< aws >}}/uploads/img_00331.jpg"><span style="color: #000000;"><br /> </span><img class="aligncenter size-full wp-image-517" style="text-decoration: underline;" title="img_00331" src="{{< aws >}}/uploads/img_00331.jpg" alt="" width="400" height="533" /></a>
 
  
 
@@ -41,7 +41,7 @@ C&rsquo;est donc rouge de volonté, qu&rsquo;après notre visite du Ghibli Museu
  
 
 <div id="attachment_518" class="wp-caption alignright" style="max-width: 210px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4679.jpg"><img class="size-medium wp-image-518 " title="img_4679" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4679-300x225.jpg" alt="Pantone ?" width="210" height="158" /></a>
+  <a href="{{< aws >}}/uploads/img_4679.jpg"><img class="size-medium wp-image-518 " title="img_4679" src="{{< aws >}}/uploads/img_4679-300x225.jpg" alt="Pantone ?" width="210" height="158" /></a>
   
   <p class="wp-caption-text">
     Pantone ?

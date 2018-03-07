@@ -17,7 +17,7 @@ locations:
 
 ---
 <div id="attachment_508" class="wp-caption aligncenter" style="max-width: 400px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4673.jpg" target="_blank"><img class="size-full wp-image-508" title="img_4673" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4673.jpg" alt="" width="400" height="300" /></a>
+  <a href="{{< aws >}}/uploads/img_4673.jpg" target="_blank"><img class="size-full wp-image-508" title="img_4673" src="{{< aws >}}/uploads/img_4673.jpg" alt="" width="400" height="300" /></a>
   
   <p class="wp-caption-text">
     On me croira ou pas, mais elle a amené ses crayons de couleurs.
@@ -31,7 +31,7 @@ Mariane a bien compris qu&rsquo;elle ne s&rsquo;était pas tapé 12 heures d&rsq
 BUBBA GUMP ! 
 
 <div id="attachment_509" class="wp-caption alignright" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4616.jpg" target="_blank"><img class="size-medium wp-image-509 " title="img_4616" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4616-300x225.jpg" alt="non, là c'est pas des crevettes." width="300" height="225" /></a>
+  <a href="{{< aws >}}/uploads/img_4616.jpg" target="_blank"><img class="size-medium wp-image-509 " title="img_4616" src="{{< aws >}}/uploads/img_4616-300x225.jpg" alt="non, là c'est pas des crevettes." width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     Non, là c'est pas des crevettes...

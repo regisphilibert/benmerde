@@ -24,7 +24,7 @@ locations:
 C&rsquo;est mon quartier ! C&rsquo;est là où j&rsquo;habite !
 
 <div id="attachment_226" class="wp-caption aligncenter" style="max-width: 400px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_24501.jpg"><img class="size-full wp-image-226 " title="img_24501" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_24501.jpg" alt="La gare. Sans ça, y a pas de quartier." width="400" height="248" /></a>
+  <a href="{{< aws >}}/uploads/img_24501.jpg"><img class="size-full wp-image-226 " title="img_24501" src="{{< aws >}}/uploads/img_24501.jpg" alt="La gare. Sans ça, y a pas de quartier." width="400" height="248" /></a>
   
   <p class="wp-caption-text">
     La gare. Sans ça, y a pas de quartier.

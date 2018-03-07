@@ -35,7 +35,7 @@ Alors oui : une chambre de Love Hotel lambris de sapin aussi kitch qu&rsquo;Evel
  
 
 <div id="attachment_543" class="wp-caption aligncenter" style="max-width: 500px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4808.jpg"><img class="size-full wp-image-543 " title="img_4808" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4808.jpg" alt="La Photo du Jour" width="500" height="375" /></a>
+  <a href="{{< aws >}}/uploads/img_4808.jpg"><img class="size-full wp-image-543 " title="img_4808" src="{{< aws >}}/uploads/img_4808.jpg" alt="La Photo du Jour" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     La Photo du Jour

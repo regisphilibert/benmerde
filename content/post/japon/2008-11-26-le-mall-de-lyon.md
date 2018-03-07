@@ -21,7 +21,7 @@ Alors depuis près de deux ans et demi il y a une chose que je dois faire impér
  
 
 <div id="attachment_717" class="wp-caption alignright" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_5342.jpg"><img class="size-medium wp-image-717" title="img_5342" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_5342.jpg" alt="Venus Fort à Odaiba" width="300" height="225" /></a>
+  <a href="{{< aws >}}/uploads/img_5342.jpg"><img class="size-medium wp-image-717" title="img_5342" src="{{< aws >}}/uploads/img_5342.jpg" alt="Venus Fort à Odaiba" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     Venus Fort à Odaiba (c'est pas Lyon ça...)

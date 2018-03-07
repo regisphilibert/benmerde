@@ -31,7 +31,7 @@ Le Japon ne décoit pas, nous découvrons les nouilles et les baguettes, la plui
 Petite intro carte postale pour vous dire que ce week-end a été bien calme, malgré une nouvelle soirée McMilliènne qui a fort bien commencé et s&rsquo;est terminé en eau de boudin pour votre serviteur.
 
 <div id="attachment_199" class="wp-caption " style="max-width: 240px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_2175.jpg"><img class="size-medium wp-image-199 " title="img_2175" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_2175.jpg" alt="Guitars Yamaha et boules de gomme..." width="240" height="180" /></a>
+  <a href="{{< aws >}}/uploads/img_2175.jpg"><img class="size-medium wp-image-199 " title="img_2175" src="{{< aws >}}/uploads/img_2175.jpg" alt="Guitars Yamaha et boules de gomme..." width="240" height="180" /></a>
   
   <p class="wp-caption-text">
     Guitars Yamaha et boules de gomme...

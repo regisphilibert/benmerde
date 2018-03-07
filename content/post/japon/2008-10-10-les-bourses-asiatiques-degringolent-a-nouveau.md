@@ -23,7 +23,7 @@ Encore passée une soirée avec Triston & Co hier. Soirée Sushi. Donc on s&rsqu
  
 
 <div id="attachment_311" class="wp-caption alignright" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3083.jpg"><img class="size-medium wp-image-311" title="img_3083" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3083-300x225.jpg" alt="Oui très joli." width="300" height="225" /></a>
+  <a href="{{< aws >}}/uploads/img_3083.jpg"><img class="size-medium wp-image-311" title="img_3083" src="{{< aws >}}/uploads/img_3083-300x225.jpg" alt="Oui très joli." width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     Oui très joli.
@@ -41,7 +41,7 @@ On a parlé seulement deux heures parce que leur bled est à l&rsquo;autre bout 
  
 
 <div id="attachment_312" class="wp-caption alignleft" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3103.jpg"><img class="size-medium wp-image-312" title="img_3103" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3103-300x225.jpg" alt="Un beau vert." width="300" height="225" /></a>
+  <a href="{{< aws >}}/uploads/img_3103.jpg"><img class="size-medium wp-image-312" title="img_3103" src="{{< aws >}}/uploads/img_3103-300x225.jpg" alt="Un beau vert." width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     Un beau vert.

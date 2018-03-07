@@ -35,7 +35,7 @@ Astro Boy ! Mighty Atom ! ou Astro le Petit Robot pour les francophiles amis des
 L&rsquo;histoire c&rsquo;est que Astro Boy serait né en l&rsquo;an 2003 (Blade Runner, Retour vers le Futur, Star Trek, oui Tezuka s&rsquo;est trompé aussi !) dans le quartier de&#8230; TAKADANOBABA !
 
 <p style="text-align: center;">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3300.jpg" target="_blank"><img class="aligncenter size-full wp-image-409" title="fresque" src="http://benmerde.com/wp-content{{< aws >}}/uploads/fresque.jpg" alt="" width="500" height="301" /></a>
+  <a href="{{< aws >}}/uploads/img_3300.jpg" target="_blank"><img class="aligncenter size-full wp-image-409" title="fresque" src="{{< aws >}}/uploads/fresque.jpg" alt="" width="500" height="301" /></a>
 </p>
 
 Alors ce Pinochio Japono et son <a title="Osamu Tezuka" href="http://fr.wikipedia.org/wiki/Osamu_Tezuka" target="_blank">créateur</a> sont assez présents  vers la station de Baba (son petit nom pour les locaux). Y a des fresques à la sortie et quelques références discrètes.
@@ -45,7 +45,7 @@ Alors ce Pinochio Japono et son <a title="Osamu Tezuka" href="http://fr.wikipedi
 Sinon dans le quartier on trouve curieusement beaucoup de restos Indiens et une reproduction du coffre de Picsou&#8230;
 
 <div id="attachment_404" class="wp-caption aligncenter" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3340.jpg"><img class="size-medium wp-image-404 " title="img_3340" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3340.jpg" alt="Notez qu'on voit jamais le drapeau chez nous." width="300" height="225" /></a>
+  <a href="{{< aws >}}/uploads/img_3340.jpg"><img class="size-medium wp-image-404 " title="img_3340" src="{{< aws >}}/uploads/img_3340.jpg" alt="Notez qu'on voit jamais le drapeau chez nous." width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     Notez qu'ont voit jamais le drapeau chez nous.
@@ -53,7 +53,7 @@ Sinon dans le quartier on trouve curieusement beaucoup de restos Indiens et une 
 </div>
 
 <div id="attachment_403" class="wp-caption aligncenter" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3335.jpg"><img class="size-medium wp-image-403 " title="img_3335" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3335.jpg" alt="Je le sais, c'est tout..." width="300" height="225" /></a>
+  <a href="{{< aws >}}/uploads/img_3335.jpg"><img class="size-medium wp-image-403 " title="img_3335" src="{{< aws >}}/uploads/img_3335.jpg" alt="Je le sais, c'est tout..." width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     Non, Picsou il est né à Glasgow. Je le sais, c'est tout.
@@ -71,9 +71,9 @@ D&rsquo;où le célèbre dicton Japonais « ビルマニ現インド在活ベ�
 <div class="mceTemp mceIEcenter">
   <dl id="attachment_405" class="wp-caption aligncenter" style="width: 510px;">
     <dt class="wp-caption-dt">
-      <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3337.jpg"><img class="size-full wp-image-405" title="img_3337" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3337.jpg" alt="" width="500" height="375" /></a>
+      <a href="{{< aws >}}/uploads/img_3337.jpg"><img class="size-full wp-image-405" title="img_3337" src="{{< aws >}}/uploads/img_3337.jpg" alt="" width="500" height="375" /></a>
     </dt>
   </dl>
 </div>
 
- [1]: http://benmerde.com/wp-content{{< aws >}}/uploads/img_3300.jpg
+ [1]: {{< aws >}}/uploads/img_3300.jpg

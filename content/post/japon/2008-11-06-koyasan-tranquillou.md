@@ -16,7 +16,7 @@ locations:
   - Tokyo
 
 ---
-[<img class="aligncenter size-full wp-image-554" title="img_0248" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_0248.jpg" alt="" width="500" height="666" />][1]
+[<img class="aligncenter size-full wp-image-554" title="img_0248" src="{{< aws >}}/uploads/img_0248.jpg" alt="" width="500" height="666" />][1]
 
 Bon malgré un grave accident de poignée de train qui a bien failli dévisagé a tout jamais votre serviteur, l&rsquo;aventure a eu lieu.
 
@@ -39,11 +39,11 @@ Le seul truc bizarre, c&rsquo;est de pas revoir ses chaussures avant le lendemai
  
 
 <div id="attachment_541" class="wp-caption aligncenter" style="max-width: 500px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4731.jpg"><img class="size-full wp-image-541" title="img_4731" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4731.jpg" alt="La photo du Jour" width="500" height="375" /></a>
+  <a href="{{< aws >}}/uploads/img_4731.jpg"><img class="size-full wp-image-541" title="img_4731" src="{{< aws >}}/uploads/img_4731.jpg" alt="La photo du Jour" width="500" height="375" /></a>
   
   <p class="wp-caption-text">
     La photo du Jour
   </p>
 </div>
 
- [1]: http://benmerde.com/wp-content{{< aws >}}/uploads/img_0248.jpg
+ [1]: {{< aws >}}/uploads/img_0248.jpg

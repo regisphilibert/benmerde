@@ -8,7 +8,7 @@ draft: false
 url: /2005/10/oji-house-tour/
 enclosure:
   - |
-    http://benmerde.com/wp-content{{< aws >}}/uploads/2012/09/ojihousetour.mp4
+    {{< aws >}}/uploads/2012/09/ojihousetour.mp4
     20806895
     video/mp4
     
@@ -28,6 +28,6 @@ Je voulais surtout tester les films de mon appareil photo, disons que les 10f/s 
 
 Pour ce qui est de la qualité de l&rsquo;image, on se rend compte de rien je l&rsquo;ai compressé à mort ! Ben oui, fait 7 minutes quand même !
 
-<a href="http://benmerde.com/wp-content{{< aws >}}/uploads/2012/09/ojihousetour.mp4" title="Oji House tour" target="_blank">Le Oji House Tour</a>
+<a href="{{< aws >}}/uploads/2012/09/ojihousetour.mp4" title="Oji House tour" target="_blank">Le Oji House Tour</a>
 
 Petite note quand même sur le temps, parce que pour ma Grand-Mère c&rsquo;était, et ce sera toujours important. Fait très bon, et on se met enfin à chercher le soleil plutôt qu&rsquo;à le fuir. Et les températures devraient remonter un peu en fin de semaines, donc c&rsquo;est parfait. J&rsquo;ai abandonné le short complètement :( Voilà, c&rsquo;est dit bibi !

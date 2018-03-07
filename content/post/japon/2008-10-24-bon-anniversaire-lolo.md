@@ -16,7 +16,7 @@ locations:
   - Tokyo
 
 ---
-[<img class="size-medium wp-image-458 alignright" title="img_4029" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_4029-300x226.jpg" alt="Frééééro !" width="300" height="226" />][1]
+[<img class="size-medium wp-image-458 alignright" title="img_4029" src="{{< aws >}}/uploads/img_4029-300x226.jpg" alt="Frééééro !" width="300" height="226" />][1]
 
 La visite de la Pouette chamboule toute la régularité et le contenu extrêmement intéressant du blog ! Elle est donc repartie ce matin. Compréhensive.
 
@@ -30,4 +30,4 @@ Du coup pas grand chose à raconter, si ce n&rsquo;est un résumé des deux jour
 
 Et bon 30 ans hihi !
 
- [1]: http://benmerde.com/wp-content{{< aws >}}/uploads/img_4029.jpg
+ [1]: {{< aws >}}/uploads/img_4029.jpg

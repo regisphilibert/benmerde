@@ -17,7 +17,7 @@ locations:
 
 ---
 <div id="attachment_439" class="wp-caption aligncenter" style="max-width: 300px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3397.jpg"><img class="size-medium wp-image-439" title="img_3397" src="http://benmerde.com/wp-content{{< aws >}}/uploads/img_3397.jpg" alt="En prison !" width="300" height="225" /></a>
+  <a href="{{< aws >}}/uploads/img_3397.jpg"><img class="size-medium wp-image-439" title="img_3397" src="{{< aws >}}/uploads/img_3397.jpg" alt="En prison !" width="300" height="225" /></a>
   
   <p class="wp-caption-text">
     En prison !

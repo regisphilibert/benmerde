@@ -36,7 +36,7 @@ On a arpenté nos anciens endroits, (avec Triston !) critiqué les nouveaux, ret
 Assis (par terre) dans notre bouiboui favoris de l&rsquo;époque, on se serait cru vraiment 3 ans en arrière. La pièce est identique, pas un poster de plus, pas coussin de moins. Les menus aussi n&rsquo;ont pas bougé, à croire que ce gars rejette l&rsquo;inflation pour ne pas avoir à redessiner son menu !
 
 <div id="attachment_270" class="wp-caption aligncenter" style="max-width: 500px">
-  <a href="http://benmerde.com/wp-content{{< aws >}}/uploads/crow_comparaison.jpg"><img class="size-full wp-image-270" title="crow_comparaison" src="http://benmerde.com/wp-content{{< aws >}}/uploads/crow_comparaison.jpg" alt="Le jeu des 7 erreurs..." width="500" height="207" /></a>
+  <a href="{{< aws >}}/uploads/crow_comparaison.jpg"><img class="size-full wp-image-270" title="crow_comparaison" src="{{< aws >}}/uploads/crow_comparaison.jpg" alt="Le jeu des 7 erreurs..." width="500" height="207" /></a>
   
   <p class="wp-caption-text">
     Le jeu des 7 erreurs...
