@@ -8,11 +8,13 @@
 <body>
 	{{ partial "scratch/area/base" . }}	
 	{{ partial "header" . }}
+	{{ partial "search" . }}
 	{{ block "main" . }}
 	{{ end }}
 	
 	<footer>
 		{{ partial "footer" . }}
+		{{ partial "foot" . }}
 	</footer>
 </body>
 </html>

@@ -8,6 +8,7 @@ paginate: 10
 disqusShortname: ben-merde
 
 outputs:
+  home: [HTML, RSS, Algolia]
   page: [HTML,"json"]
 params:
   area: canada
@@ -15,8 +16,20 @@ params:
   description: je suis au Canada
   facebookid: 137223813025796
   aws_url: https://s3.us-east-2.amazonaws.com/media.benmerde.com
+
+  algolia:
+    vars: ["title", "summary", "permalink", "relpermalink", "area", "humanDate"]
+    params: ["locations", "categories"]
+
 taxonomies:
   tag: tags
   location: locations
 permalinks:
   post: "/:year/:month/:title/"
+
+outputFormats:
+  Algolia:
+    baseName: algolia
+    isPlainText: true
+    mediaType: "application/json"
+    notAlternative: true

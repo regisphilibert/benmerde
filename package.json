@@ -1,0 +1,23 @@
+{
+  "name": "benmerde",
+  "version": "1.0.0",
+  "description": "A simple blog",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regisphilibert/benmerde.git"
+  },
+  "scripts": {
+    "algolia": "atomic-algolia",
+    "index-and-send": "hugo-algolia -s"
+  },
+  "author": "Regis Philibert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/regisphilibert/benmerde/issues"
+  },
+  "homepage": "https://github.com/regisphilibert/benmerde#readme",
+  "devDependencies": {
+    "atomic-algolia": "^0.3.11"
+  },
+  "dependencies": {}
+}

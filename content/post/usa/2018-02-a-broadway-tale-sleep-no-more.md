@@ -6,6 +6,7 @@ residency:
   - USA
 locations:
   - New York
+test: bonjour
 ---
 
 Je suis dans un train américain. Tous les passagers et leurs litres de café vibrent comme pris d’une crise de paludisme généralisée.
