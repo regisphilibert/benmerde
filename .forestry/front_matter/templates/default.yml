@@ -1,8 +1,7 @@
 ---
-pages:
-- post/test-in-usa.md
-- post/canada/test-rigolo.md
+label: default
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -19,3 +18,5 @@ fields:
   type: boolean
   hidden: false
   default: true
+pages:
+- content/post/canada/test-rigolo.md
