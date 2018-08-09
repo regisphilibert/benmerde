@@ -9,7 +9,7 @@ disqusShortname: ben-merde
 
 outputs:
   home: [HTML, RSS, Algolia]
-  page: [HTML,"json"]
+  page: [HTML]
 params:
   area: canada
   authorname: John Doe

@@ -3,10 +3,10 @@
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
-{{ partial "head.html" . }}
+{{ partialCached "head.html" . }}
 
 <body>
-	{{ partial "scratch/area/base" . }}	
+	{{ partialCached "scratch/area/base" . (printf "%x" .CurrentSection) }}
 	{{ partial "header" . }}
 	{{ partial "search" . }}
 	{{ block "main" . }}
@@ -14,7 +14,7 @@
 	
 	<footer>
 		{{ partialCached "footer" . }}
-		{{ partial "foot" . }}
+		{{ partialCached "foot" . }}
 	</footer>
 </body>
 </html>

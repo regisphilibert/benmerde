@@ -1,4 +1,4 @@
 {{ define "main" }}
-	{{ .Render "li" }}
+	{{ partialCached "post-li" . (printf "%x" .Title) }}
 	{{ partial "comments" . }}
 {{ end }}
