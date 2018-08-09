@@ -1,0 +1,25 @@
+.bm-Item{
+
+}
+
+.bm-Item__head{
+	display:flex;
+}
+.bm-Item__title{
+	font-size:2rem;
+}
+.bm-Item__head__right{
+	margin-left:1em;
+}
+.bm-Item__table{
+	border-collapse:collapse;
+	table-layout:fixed;
+	tr{
+		border-bottom:1px dashed $cRed;
+	}
+}
+@media (max-width: $tablet - 1){
+	.bm-Item__image{
+		max-width:30vw;
+	}	
+}

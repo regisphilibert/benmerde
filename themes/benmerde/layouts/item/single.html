@@ -1,20 +1,43 @@
 {{ define "main" }}
+	{{ partialCached "item/head" .CurrentSection }}
 	<div class="bm-container">
-	<h3>{{ .Title }}</h3>
-	<img src="{{ .CurrentSection.Permalink }}/images/{{ .Params.image }}" alt="{{ $.Title }}">
-	<table>
-		{{ with .Params.mass }}
-			<tr>
-				<td>Poids</td>
-				<td>{{ . }}g</td>
-			</tr>
-		{{ end }}
-		{{ with .Params.price }}
-			<tr>
-				<td>Prix</td>
-				<td>{{ .yen }}円{{ with .euro }} ({{ . }}€){{ end }}</td>
-			</tr>
-		{{ end }}
-	</table>
+	<div class="bm-Item">
+		<div class="bm-grid__aside mobile-block tablet-block" style="float:right;margin-left:1em;margin-bottom:1em;">
+            <p>
+            	<img class="bm-Item__image" src="{{ .CurrentSection.Permalink }}/images/{{ .Params.image }}" alt="{{ $.Title }}">
+            </p>
+    	</div>
+		<div class="bm-grid">
+            <div class="bm-grid__main">
+    			<div class="bm-Item__title">
+					{{ .Title }}
+				</div>
+				<table class="bm-Item__table">
+					{{ with .Params.mass }}
+						<tr>
+							<td>Poids:</td>
+							<td>{{ . }}g</td>
+						</tr>
+					{{ end }}
+					{{ with .Params.price }}
+						<tr>
+							<td>Prix:</td>
+							<td>{{ .yen }}円{{ with .euro }} ({{ . }}€){{ end }}</td>
+						</tr>
+					{{ end }}
+				</table>
+			</div>
+        </div>
+        <div class="bm-grid">
+        	<div class="bm-grid__main">
+        		{{ .Content }}
+        	</div>
+            <div class="bm-grid__aside desktop-block">
+                <p>
+                	<img class="bm-Item__image" src="{{ .CurrentSection.Permalink }}/images/{{ .Params.image }}" alt="{{ $.Title }}">
+                </p>
+        	</div>
+        </div>
+	</div>
 </div>
 {{ end }}
