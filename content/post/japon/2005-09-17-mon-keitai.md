@@ -16,7 +16,7 @@ locations:
   - Tokyo
 
 ---
-J&rsquo;ai un téléphone, ben ouais ! Vous saurez tout sur lui, c&rsquo;est un peu l&rsquo;objet du jour.
+J&rsquo;ai un téléphone, ben ouais ! Vous saurez tout sur lui, c&rsquo;est un peu [l&rsquo;objet du jour]({{< ref "ketai.md" >}}).
   
 Donc suite à mon aventure d&rsquo;hier, je suis allé dans le centre Vodafone d&rsquo;Oji (je vous ai parlé d&rsquo;Oji ?), parce qu&rsquo;il est très gros, donc j&rsquo;aurai dû commencer par là. 
 
