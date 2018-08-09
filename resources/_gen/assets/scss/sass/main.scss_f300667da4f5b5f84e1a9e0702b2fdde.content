@@ -825,6 +825,16 @@ a.bm-Brand {
   .bm-Widget--areas .flex__item {
     padding: 0 30px; } }
 
+.bm-Mosaic {
+  display: grid;
+  grid-template-columns: repeat(11, 1fr); }
+
+.bm-Mosaic__item {
+  display: block;
+  overflow: hidden; }
+  .bm-Mosaic__item img {
+    width: 100%; }
+
 /*less/modules/_kin-Media.less*/
 .bm-Media, .framed, [id^='attachment_'] {
   overflow: hidden;

@@ -1,0 +1,11 @@
+.bm-Mosaic{
+	display:grid;
+	grid-template-columns:repeat(11, 1fr);
+}
+.bm-Mosaic__item{
+	display: block;
+	img{
+		width:100%;
+	}
+	overflow:hidden;
+}

@@ -1,0 +1,11 @@
+{{ define "main" }}
+	<div class="bm-container">
+		<h2>{{ .Title }}</h2>
+		<hr>
+		<div class="bm-Mosaic">
+			{{ range .Pages }}
+				{{ .Render "li" }}
+			{{ end }}
+		</div>
+	</div>
+{{ end }}
