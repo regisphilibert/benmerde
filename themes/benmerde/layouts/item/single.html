@@ -16,7 +16,7 @@
 					{{ with .Params.mass }} 
 						<tr>
 							<td>Poids:</td>
-							<td>{{ . }}g</td>
+							<td>{{ partial "func/mass" . }}</td>
 						</tr>
 					{{ end }}
 					{{ with .Params.price }}

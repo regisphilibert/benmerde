@@ -4,7 +4,7 @@
 	<td>{{ . }}</td>
 	{{ else }}
 		{{ with .yen }}
-			<td>{{ . }}円 ({{ partial "func/YtoEuro.func" . }}€)</td>
+			<td>{{ . }}円 ({{ partial "func/YtoEuro" . }}€)</td>
 		{{ end }}
 	{{ end }}
 </tr>
