@@ -13,17 +13,14 @@
 					{{ .Title }}
 				</div>
 				<table class="bm-Item__table">
-					{{ with .Params.mass }}
+					{{ with .Params.mass }} 
 						<tr>
 							<td>Poids:</td>
 							<td>{{ . }}g</td>
 						</tr>
 					{{ end }}
 					{{ with .Params.price }}
-						<tr>
-							<td>Prix:</td>
-							<td>{{ .yen }}円{{ with .euro }} ({{ . }}€){{ end }}</td>
-						</tr>
+						{{ partial "item/price" . }}
 					{{ end }}
 				</table>
 			</div>

@@ -1,0 +1,10 @@
+<tr>
+	<td>Prix:</td>
+	{{ if eq (printf "%T" .) "string" }}
+	<td>{{ . }}</td>
+	{{ else }}
+		{{ with .yen }}
+			<td>{{ . }}円 ({{ partial "func/YtoEuro.func" . }}€)</td>
+		{{ end }}
+	{{ end }}
+</tr>
