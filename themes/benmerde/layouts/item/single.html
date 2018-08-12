@@ -16,7 +16,13 @@
 					{{ with .Params.mass }} 
 						<tr>
 							<td>Poids:</td>
-							<td>{{ partial "func/mass" . }}</td>
+							<td>
+								{{ if eq (printf "%T" .) "string" }}
+									{{ . }}
+								{{ else }}
+									{{ partial "func/mass" . }}
+								{{ end }}
+							</td>
 						</tr>
 					{{ end }}
 					{{ with .Params.price }}
