@@ -1,7 +1,7 @@
 ---
 title: "Echarpe Epaules"
 weight: 55
-image: echarpeanime.jpg
+image: echarpeanime.gif
 origin: MUJI!
 mass: 139
 price:

@@ -1,7 +1,7 @@
 ---
 title: "Matelas De Marie"
 weight: 51
-image: filename.jpg
+image: matelasmarie.jpg
 origin: MUJI!
 mass: 3500
 price:

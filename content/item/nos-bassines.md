@@ -1,9 +1,9 @@
 ---
 title: "Nos Bassines"
 weight: 46
-image: filename.jpg
+image: bassine.jpg
 origin: MUJI!
-mass: 4x442g
+mass: 2x442g
 price: 2x600¥
 
 ---
