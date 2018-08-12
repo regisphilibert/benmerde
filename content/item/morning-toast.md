@@ -12,4 +12,4 @@ price:
 On me demande pas mal ce que je mange, mais le matin, c'est souvent ça ! Un gros french toast super épais avec de la viande (je sais pas, du porc peut-être) et du cheap american cheese et un oeuf ! Fait dans notre super [toaster][] qui pète sa mère !
 C'est riche cette miche !
 
-[toaster]:(/willdo)
+[toaster]:{{< ref "grille-pain" >}}
