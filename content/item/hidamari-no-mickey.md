@@ -4,7 +4,6 @@ weight: 1
 image: mickey.JPG
 mass: 107
 origin: Japon
-price:
 
 ---
 
