@@ -1,16 +1,6 @@
-{{ $version := (float (replaceRE "([0-9]+\\.[0-9]+).*" "${1}" .Hugo.Version)) }}
-{{ with .Parent }}
-	{{ $.Scratch.Set "area_permalink" .Permalink  }}
-	{{ if ge $version 0.34 }}
-		{{ $header := .Resources.GetMatch "**header*" }}
-		{{ with $header }}
-			{{ $.Scratch.Set "area_logo" .Permalink }}
-		{{ end }}
+{{ with .CurrentSection }}
+	{{ $.Scratch.SetInMap "area_li" "permalink" .Permalink }}
+	{{ with .Resources.GetMatch "**header*" }}
+	{{ $.Scratch.SetInMap "area_li" "logo" .Permalink }}
 	{{ end }}
-	{{ $.Scratch.Set "area_slogan" .Params.slogan  }}
-    {{ if ge $version 0.34 }}
-	    {{ with $.Resources.GetMatch "featured/*.jpg" }}
-	    	{{ $.Scratch.Set "thumb" . }}
-		{{ end }}
-    {{ end }}
 {{ end }}

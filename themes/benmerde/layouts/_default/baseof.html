@@ -6,7 +6,7 @@
 {{ partialCached "head.html" . }}
 
 <body>
-	{{ partialCached "scratch/area/base" . (printf "%x" .CurrentSection) }}
+	{{ partial "scratch/area/base" . }}
 	{{ partial "header" . }}
 	{{ partial "search" . }}
 	{{ block "main" . }}

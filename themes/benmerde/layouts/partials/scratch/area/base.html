@@ -1,29 +1,16 @@
-{{ $version := (float (replaceRE "([0-9]+\\.[0-9]+).*" "${1}" .Hugo.Version)) }}
+{{ $s := newScratch }}
 {{ if eq .Kind "section" }}
-	{{ .Scratch.Set "area_permalink" .Permalink  }}
-	{{ if ge $version 0.34 }}
-		{{ $header := .Resources.GetMatch "**header*" }}
-		{{ with $header }}
-			{{ $.Scratch.Set "area_logo" .Permalink }}
-		{{ end }}
-	{{ end }}
-	{{ .Scratch.Set "area_slogan" .Params.slogan  }}
-	{{ if ne (lower .Title) .Site.Params.area }}
-		{{ with .Params.slogan_past }}
-			{{ $.Scratch.Set "area_slogan" . }}
-		{{ end }}
-	{{ end }}
+	{{ $s.Set "area" . }}
 {{ else }}
-	{{ $area := .Site.Params.area }}
-	{{ $area_page := .Site.GetPage "section" (printf "post/%s" $area) }}
-	{{ with $area_page }}
-		{{ $.Scratch.Set "area_permalink" .Permalink  }}
-		{{ if ge $version 0.34 }}
-			{{ $header := .Resources.GetMatch "**header*" }}
-			{{ with $header }}
-				{{ $.Scratch.Set "area_logo" .Permalink }}
-			{{ end }}
-		{{ end }}
-		{{ $.Scratch.Set "area_slogan" .Params.slogan  }}
+	{{ $s.Set "area" ($.Site.GetPage (printf "/post/%s" $.Site.Params.area)) }}
+{{ end }}
+{{ if eq .Section "item" }}
+	{{ $s.Set "area" ($.Site.GetPage "/post/japon" ) }}
+{{ end }}
+{{ with $s.Get "area" }}
+	{{ $.Scratch.SetInMap "area" "permalink" .Permalink }}
+	{{ $.Scratch.SetInMap "area" "slogan" .Params.slogan }}
+	{{ with .Resources.GetMatch "**header*" }}
+	{{ $.Scratch.SetInMap "area" "logo" .Permalink }}
 	{{ end }}
 {{ end }}

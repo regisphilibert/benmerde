@@ -2,13 +2,17 @@
 	<div class="bm-container">
 		<a href="{{ .Site.BaseURL }}" class="bm-Brand bm-grid bm-grid--small">
 			<div class="bm-grid__aside">
-				<div class="bm-Brand__icon">
-					<img src='{{ .Scratch.Get "area_logo" }}' alt="">
-				</div>
+				{{ with index (.Scratch.Get "area") "logo" }}
+					<div class="bm-Brand__icon">
+						<img src='{{ . }}' alt="">
+					</div>
+				{{ end }}
 			</div>
 			<div class="bm-grid__main">
 				<h1>{{ lower .Site.Title }}</h1>
-				<h2>{{ .Scratch.Get "area_slogan" }}</h2>
+				{{ with index (.Scratch.Get "area") "slogan" }}
+					<h2>{{ . }}</h2>
+				{{ end }}
 			</div>
 		</a>
 	</div>

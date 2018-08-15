@@ -1,0 +1,20 @@
+{{ define "main" }}
+	<div class="bm-container">
+		<div class="bm-grid">
+			<div class="bm-grid__main">
+				<h2>{{ .Title }}</h2>
+			</div>
+		</div>
+		<hr>
+		{{ range $index, $value := .Site.Taxonomies.owners }}
+		{{ $term := $.GetPage (printf "/owners/%s" $index) }}
+		<a href="{{ $term.Permalink }}">{{ $term.Title }}</a>
+		{{ end }}
+		<hr>
+		<div class="bm-Mosaic">
+			{{ range .Pages }}
+				{{ .Render "li" }}
+			{{ end }}
+		</div>
+	</div>
+{{ end }}

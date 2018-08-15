@@ -834,7 +834,8 @@ a.bm-Brand {
   display: block;
   overflow: hidden; }
   .bm-Mosaic__item img {
-    width: 100%; }
+    width: 100%;
+    height: 100%; }
 
 .bm-Item__head {
   display: flex; }
