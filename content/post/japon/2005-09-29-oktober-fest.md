@@ -2,19 +2,17 @@
 title: Oktober fest
 wp_id: 2899
 author: philibert
-type: post
-date: 2005-09-28T22:39:32+00:00
-draft: false
-url: /2005/09/oktober-fest/
+date: 2005-09-28 22:39:32 +0000
+url: "/2005/09/oktober-fest/"
 categories:
-  - ordinaire
+- ordinaire
 tags:
-  - film
-  - projet 202
+- film
+- projet 202
 residency:
-  - Japon
+- Japon
 locations:
-  - Tokyo
+- Tokyo
 
 ---
 J&rsquo;ai bien hésité, me disant que ça n&rsquo;avait pas grand chose à foutre dans un site web dédié au Japon, et à Tokyo en particulier. Mais bon depuis le temps, et devant la lacune inventive qui frappe le site depuis quelques jours. Je vais parler de l&rsquo;Oktober Fest.
@@ -35,26 +33,16 @@ Il faut savoir que cette soirée est une étape essentielle à mon projet, l&rsq
   
 Depuis l&rsquo;Oktober Fest je n&rsquo;ai plus :
   
--Pris le train.
-  
--Pris le métro.
-  
--Labouré de mon pied gauche l&rsquo;estomac d&rsquo;un Jap trop souriant.
-  
--Monté ou descendu mon escalier en moins de 2 minutes.
-  
--Monté un autre escalier&#8230;
-  
--Vu un autre quartier que le miens.
-  
--Sauté hors du lit sur mes deux pieds.
-  
--Ecouté mon iPod.
-  
--tirer mon cadis dans mon super marché favori :(
-  
--Joué à « Je Te Tiens Par les Mirettes Sale Japono » (ben oui ils regardent plus que mon pied)
-  
--Utilisé ma sauce salade aux crevettes (peut-être une coïncidence effectivement).
+- Pris le train. 
+- Pris le métro. 
+- Labouré de mon pied gauche l&rsquo;estomac d&rsquo;un Jap trop souriant.
+- Monté ou descendu mon escalier en moins de 2 minutes. 
+- Monté un autre escalier&#8230;
+- Vu un autre quartier que le miens.
+- Sauté hors du lit sur mes deux pieds.
+- Ecouté mon iPod.
+- tirer mon cadis dans mon super marché favori :(  
+- Joué à « Je Te Tiens Par les Mirettes Sale Japono » (ben oui ils regardent plus que mon pied)
+- Utilisé ma sauce salade aux crevettes (peut-être une coïncidence effectivement).
 
 Pourvu que ça dure&#8230;.
