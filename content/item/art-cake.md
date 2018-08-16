@@ -1,12 +1,11 @@
 ---
-title: "Art Cake"
+title: 'Art Cake'
 weight: 45
 image: artcake.jpg
 origin: Japon
 mass: 300
 price:
-  yen: 650
-
+    yen: 650
 ---
 
 On a mangé ça hier, au COMME CA CAFE, des ArtCake, de splendides cakes qu'il faut prendre en photo entier, et non juste la part, parce que du coup, c'est moins Art.

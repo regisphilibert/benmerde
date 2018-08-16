@@ -12,4 +12,4 @@ En fait ce tableau montre toutes les stations desservies et le prix qu'il en co�
 
 Maintenant, je les connais les Kanji des stations, ça aura au moins servi à ça.
 
-[On voit mieux là](../images/machinetrain_gd.jpg)
+[On voit mieux là]({{< imgSrc "machinetrain_gd.jpg" >}})

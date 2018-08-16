@@ -15,4 +15,4 @@ PERICURA, ça doit venir de PELICULA, à l'époque où les photos restaient un m
 
 Ça à l'air con, ben oui, ca l'est, mais les petites jupettes en ont des mètres collés dans des carnets... A chaque sortie, sa PERICURA. Voilà !
 
-PS : Ouais, y a un [meilleur format](../images/pericura_gd.jpg).
+PS : Ouais, y a un [meilleur format]({{< imgSrc "pericura_gd.jpg" >}}).

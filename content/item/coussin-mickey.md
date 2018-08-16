@@ -17,4 +17,4 @@ J'ai acheté ça lors de ma dernière visite du Disney Resort. Il était dans un
 
 Une tête de Mickey à la silhouette parfaite, dessiner comme un ice-cream sandwich. Il est super dur, pas tout mou comme les coussins peluches habituels.
 
-[On le voit mieux ici](../images/coussinmickey_gd.jpg)
+[On le voit mieux ici]({{< imgSrc "coussinmickey_gd.jpg" >}})

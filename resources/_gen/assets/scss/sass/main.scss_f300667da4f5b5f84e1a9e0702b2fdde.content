@@ -827,15 +827,19 @@ a.bm-Brand {
 
 .bm-Mosaic {
   display: grid;
-  grid-template-columns: repeat(11, 1fr);
-  grid-auto-rows: 121px; }
+  grid-template-columns: repeat(5, 1fr); }
 
 .bm-Mosaic__item {
   display: block;
-  overflow: hidden; }
-  .bm-Mosaic__item img {
-    width: 100%;
-    height: 100%; }
+  padding-top: 140%;
+  overflow: hidden;
+  background-size: cover;
+  backgroud-repeat: none;
+  backgroud-position: center; }
+
+@media (min-width: 800px) {
+  .bm-Mosaic {
+    grid-template-columns: repeat(11, 1fr); } }
 
 .bm-Item__head {
   display: flex; }

@@ -1,3 +1,5 @@
-<a href="{{ .Permalink }}" class="bm-Mosaic__item" title="{{ $.Title }}">
-	<img src="{{ .CurrentSection.Permalink }}/images/{{ .Params.image }}">
+<a 
+	href="{{ .Permalink }}" class="bm-Mosaic__item" title="{{ $.Title }}"
+	style="background-image: url({{ partial "item/image" (dict "page" . "image" .Params.image) }})"
+>
 </a>

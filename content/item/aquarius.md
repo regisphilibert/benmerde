@@ -1,13 +1,12 @@
 ---
-title: "Aquarius"
+title: Aquarius
 weight: 3
 image: aquarius_tb.gif
 mass: 500
 origin: Japon
 price:
-  yen: 150
-  euro: 1
-origin: Coca-Cola Company
+    yen: 150
+    euro: 1
 ---
 
 Ah mon Aquarius ! 

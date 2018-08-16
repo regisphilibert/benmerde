@@ -1,0 +1,7 @@
+{{- $medias := .page.Site.GetPage "item/medias" -}}
+{{- $page := .page -}}
+{{- with $medias.Resources.GetMatch .image -}}
+{{- .Permalink -}}
+{{- else -}}
+Image not found
+{{- end -}}

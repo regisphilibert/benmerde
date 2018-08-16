@@ -26,6 +26,7 @@ taxonomies:
   location: locations
 permalinks:
   post: "/:year/:month/:title/"
+  item: '/projet202/objets-du-jour/:slug/'
 
 outputFormats:
   Algolia:

@@ -1,10 +1,9 @@
 {{ define "main" }}
-	{{ partialCached "item/head" .CurrentSection }}
 	<div class="bm-container">
 	<div class="bm-Item">
 		<div class="bm-grid__aside mobile-block tablet-block" style="float:right;margin-left:1em;margin-bottom:1em;">
             <p>
-            	<img class="bm-Item__image" src="{{ .CurrentSection.Permalink }}/images/{{ .Params.image }}" alt="{{ $.Title }}">
+            	<img class="bm-Item__image" src="{{ partial "item/image" (dict "page" . "image" .Params.image) }}" alt="{{ $.Title }}">
             </p>
     	</div>
 		<div class="bm-grid">
@@ -37,7 +36,7 @@
         	</div>
             <div class="bm-grid__aside desktop-block">
                 <p>
-                	<img class="bm-Item__image" src="{{ .CurrentSection.Permalink }}/images/{{ .Params.image }}" alt="{{ $.Title }}">
+                	<img class="bm-Item__image" src="{{ partial "item/image" (dict "page" . "image" .Params.image) }}" alt="{{ $.Title }}">
                 </p>
         	</div>
         </div>

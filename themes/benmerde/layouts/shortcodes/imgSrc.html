@@ -1,0 +1,3 @@
+{{- if eq .Page.Section "item" -}}
+	{{- partial "item/image" (dict "page" .Page "image" (.Get 0)) -}}
+{{- end -}}
