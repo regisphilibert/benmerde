@@ -2,7 +2,10 @@
 	<div class="bm-container">
 		<div class="bm-grid">
 			<div class="bm-grid__main">
-				<h2>{{ .Title }}</h2>
+				<h2 style="margin-bottom:0">{{ .Title }}</h2>
+				{{ with .Content }}
+					<small>{{ . }}</small>
+				{{ end }}
 			</div>
 		</div>
 		<div class="bm-Mosaic">
