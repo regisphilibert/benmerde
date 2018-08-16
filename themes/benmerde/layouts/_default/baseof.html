@@ -5,13 +5,15 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 {{ partialCached "head.html" . }}
 
-<body>
+<body class="{{ .Kind }}">
 	{{ partial "scratch/area/base" . }}
 	{{ partial "header" . }}
 	{{ partial "search" . }}
+	{{ if eq .Kind "page" }}
+		{{ partial "breadcrumbs" . }}
+	{{ end }}
 	{{ block "main" . }}
 	{{ end }}
-	
 	<footer>
 		{{ partialCached "footer" . }}
 		{{ partialCached "foot" . }}

@@ -1,6 +1,20 @@
-{{ with .Prev }}
-	<a href="{{ .Permalink }}">Prev</a>
-{{ end }}
-{{ with .Next }}
-	<a href="{{ .Permalink }}">Next</a>
-{{ end }}
+<div class="bm-Top">
+	<div class="bm-container">
+		<div class="bm-Entry__navigation">
+		{{ with .Next }}
+			{{ if eq .Section  "post" }}
+				<span>< <a href="{{ .Permalink }}">{{ .Title }}</a></span>
+			{{ end }}
+		{{ else }}
+			<span>&nbsp;</span>
+		{{ end }}
+		{{ with .Prev }}
+			{{ if eq .Section  "post" }}
+				<span><a href="{{ .Permalink }}">{{ .Title }}</a> ></span>
+			{{ end }}
+		{{ else }}
+			<span>&nbsp;</span>
+		{{ end }}
+		</div>
+	</div>
+</div>

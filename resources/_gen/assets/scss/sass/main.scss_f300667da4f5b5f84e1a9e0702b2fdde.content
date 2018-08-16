@@ -260,15 +260,6 @@ figcaption {
 body {
   margin: 0; }
 
-.archive-head {
-  border-bottom: 1px solid #930b09;
-  padding: 0.7em 0;
-  font-size: 0.8em; }
-  .archive-head p {
-    margin: 0; }
-  .archive-head p + p {
-    margin-top: 10px; }
-
 header {
   position: relative; }
   header .header-action {
@@ -452,6 +443,20 @@ hr {
 .bm-Area__meta {
   font-size: 0.68em;
   line-height: 0.5em; }
+
+.bm-Top, .bm-Bottom {
+  padding: 0.7em 0;
+  font-size: 0.8em; }
+  .bm-Top .user-edit p, .bm-Bottom .user-edit p {
+    margin: 0; }
+  .bm-Top .user-edit p + p, .bm-Bottom .user-edit p + p {
+    margin-top: 10px; }
+
+.bm-Top {
+  border-bottom: 1px solid #930b09; }
+
+.bm-Bottom {
+  border-top: 1px solid #930b09; }
 
 .bm-Search__pagination:not(:empty) {
   border-bottom: 1px solid #930b09;
@@ -759,6 +764,10 @@ a.bm-Brand {
   .bm-Entry--tiny__media img {
     width: 55px;
     display: block; }
+
+.bm-Entry__navigation {
+  display: flex;
+  justify-content: space-between; }
 
 .pagination {
   padding: 0;

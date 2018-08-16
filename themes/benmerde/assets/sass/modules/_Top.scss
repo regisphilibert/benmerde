@@ -1,0 +1,19 @@
+.bm-Top, .bm-Bottom{
+    padding:0.7em 0;
+    font-size:0.8em;
+    .user-edit{
+	    p{
+        margin:0;
+	    }
+	    p + p {
+	        margin-top:10px;
+	    }
+	}
+}
+
+.bm-Top{
+    border-bottom:1px solid $cRed;
+}
+.bm-Bottom{
+    border-top:1px solid $cRed;
+}

@@ -1,4 +1,5 @@
 {{ define "main" }}
 	{{ partialCached "post-li" . (printf "%x" .Title) }}
+	{{ partial "post-nav" . }}
 	{{ partial "comments" . }}
 {{ end }}

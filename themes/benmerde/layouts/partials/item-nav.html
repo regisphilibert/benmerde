@@ -1,0 +1,16 @@
+<div class="bm-Bottom">
+	<div class="bm-container">
+		<div class="bm-Entry__navigation">
+		{{ with .NextInSection }}
+			<span>< <a href="{{ .Permalink }}">{{ .Title }}</a></span>
+		{{ else }}
+			<span>&nbsp;</span>
+		{{ end }}
+		{{ with .PrevInSection }}
+			<span><a href="{{ .Permalink }}">{{ .Title }}</a> ></span>
+		{{ else }}
+			<span>&nbsp;</span>
+		{{ end }}
+		</div>
+	</div>
+</div>
