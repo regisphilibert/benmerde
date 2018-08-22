@@ -15,15 +15,8 @@ $('.header-search').click(function(){
 
 const showOnLoad = false;
 
-const options = {
-  appId: '6FC0XE3A6K',
-  apiKey: '99b9a6959639df6a8d28d79d1da7f397',
-  indexName: 'benmerde.com',
-  hitsPerPage: 10,
-  urlSync: false
-}
 if(!showOnLoad){
-  options.searchFunction = function(helper) {
+  algoliaOptions.searchFunction = function(helper) {
     var searchResults = $('.bm-Search__results');
     if (helper.state.query === '') {
       searchResults.hide();
@@ -35,7 +28,7 @@ if(!showOnLoad){
 } else {
     $('.bm-Search').show();
 }
-const search = instantsearch(options);
+const search = instantsearch(algoliaOptions);
 
 // initialize SearchBox
 search.addWidget(

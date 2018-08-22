@@ -1,11 +1,10 @@
-var searchIsOpen=false;$('.header-search').click(function(){$('.bm-Search').addClass('animating').slideToggle(200,function(){$(this).removeClass('animating')
+const algoliaOptions={appId:'6FC0XE3A6K',apiKey:'f191d9d5409527a895b6e87550c2cb58',indexName:'benmerde.com',hitsPerPage:10,urlSync:false};var searchIsOpen=false;$('.header-search').click(function(){$('.bm-Search').addClass('animating').slideToggle(200,function(){$(this).removeClass('animating')
 $('.header-search').toggleClass('is-active')
 if(searchIsOpen){search.helper.setQuery('').search();$('.bm-Search__box__input').val('')
 searchIsOpen=false;}else{searchIsOpen=true}})})
-const showOnLoad=false;const options={appId:'6FC0XE3A6K',apiKey:'99b9a6959639df6a8d28d79d1da7f397',indexName:'benmerde.com',hitsPerPage:10,urlSync:false}
-if(!showOnLoad){options.searchFunction=function(helper){var searchResults=$('.bm-Search__results');if(helper.state.query===''){searchResults.hide();return;}
+const showOnLoad=false;if(!showOnLoad){algoliaOptions.searchFunction=function(helper){var searchResults=$('.bm-Search__results');if(helper.state.query===''){searchResults.hide();return;}
 helper.search();searchResults.show();}}else{$('.bm-Search').show();}
-const search=instantsearch(options);search.addWidget(instantsearch.widgets.searchBox({container:'#search-box',placeholder:'Vous cherchez quelque chose ?',reset:false,cssClasses:{root:'bm-Search__box__container',input:'bm-Search__box__input',}}));var hitTemplate='<a href="{{ relpermalink }}" class="bm-List__item">'+
+const search=instantsearch(algoliaOptions);search.addWidget(instantsearch.widgets.searchBox({container:'#search-box',placeholder:'Vous cherchez quelque chose ?',reset:false,cssClasses:{root:'bm-Search__box__container',input:'bm-Search__box__input',}}));var hitTemplate='<a href="{{ relpermalink }}" class="bm-List__item">'+
 '<div class="bm-List__title">{{{_highlightResult.title.value}}}</div>'+
 '<div class="bm-List__meta">{{{_highlightResult.area.value}}} | {{ humanDate }}</div>'+
 '</a>';search.addWidget(instantsearch.widgets.hits({container:'#hits',cssClasses:{root:'bm-Search__hits',empty:'bm-Search__hits--empty'},templates:{empty:'On a rien trouvé là, rien.',item:hitTemplate}}));var hidePaginationWhenNoResults={render:function(data){if(data.results.nbPages<2){document.querySelector('#pagination').classList.add('hide');}else{document.querySelector('#pagination').classList.remove('hide');}}}
