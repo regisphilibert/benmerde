@@ -1,4 +1,14 @@
 var searchIsOpen = false;
+
+const algoliaOptions = {
+  appId: '6FC0XE3A6K',
+  apiKey: 'f191d9d5409527a895b6e87550c2cb58',
+  indexName: 'benmerde.com',
+  hitsPerPage: 10,
+  urlSync: false
+};
+
+
 $('.header-search').click(function(){
   $('.bm-Search').addClass('animating').slideToggle(200, function(){
     $(this).removeClass('animating')
