@@ -104,6 +104,11 @@
 	line-height:1.3;
 	border-bottom:1px solid $cRed;
 }
+.bm-List__item--item{
+	.bm-List__meta > span{
+		display: none;
+	}
+}
 a.bm-List__item{
 	display: block;
 	text-decoration: none;

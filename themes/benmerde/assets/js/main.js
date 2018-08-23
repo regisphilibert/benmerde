@@ -56,9 +56,9 @@ search.addWidget(
 );
 
 var hitTemplate =
-  '<a href="{{ relpermalink }}" class="bm-List__item">' +
+  '<a href="{{ relpermalink }}" class="bm-List__item bm-List__item--{{{_highlightResult.type.value}}} ">' +
         '<div class="bm-List__title">{{{_highlightResult.title.value}}}</div>' +
-        '<div class="bm-List__meta">{{{_highlightResult.area.value}}} | {{ humanDate }}</div>' +
+        '<div class="bm-List__meta">{{{_highlightResult.area.value}}}<span> | {{ humanDate }}</span></div>' +
   '</a>';
 
 search.addWidget(
