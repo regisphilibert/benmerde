@@ -18,6 +18,3 @@ fields:
   type: boolean
   hidden: false
   default: true
-pages:
-- content/post/test-image.md
-- content/post/canada/test-rigolo.md
