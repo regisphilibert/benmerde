@@ -11,12 +11,13 @@ categories:
   - Non classé
 tags:
   - projet 204
+events:
+  - Projet 204
+  - Japon Tranquilou
 residency:
   - Japon
 locations:
   - Tokyo
-events:
-  - Japon Tranquilou
 ---
 
 08:00 et toujours pas de lumière du jour : c&rsquo;est pas pas le Japon&nbsp;! C&rsquo;est un love hôtel qui cache la fenêtre derrière un gros placard.

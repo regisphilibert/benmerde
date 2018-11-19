@@ -11,12 +11,13 @@ categories:
   - Tranquillou
 tags:
   - projet 204
+events:
+  - Projet 204
+  - Japon Tranquilou
 residency:
   - Japon
 locations:
   - Tokyo
-events:
-  - Japon Tranquilou
 ---
 
 Après un doux réveil dans notre ryokan non-traditionnel nous avons pu apprécier a nouveau un petit déjeuner japonais avec quatre de nos concitoyens ayant bien du mal a se faire amener du pain !

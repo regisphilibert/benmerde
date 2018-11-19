@@ -10,6 +10,8 @@ categories:
   - ordinaire
 tags:
   - projet 202
+events:
+  - Projet 202
 residency:
   - Japon
 locations:

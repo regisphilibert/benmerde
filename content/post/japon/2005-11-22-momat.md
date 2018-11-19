@@ -11,6 +11,8 @@ categories:
 tags:
   - flv
   - projet 202
+events:
+  - Projet 202
 residency:
   - Japon
 locations:

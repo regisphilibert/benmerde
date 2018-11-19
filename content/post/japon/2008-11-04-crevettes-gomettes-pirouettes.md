@@ -10,6 +10,9 @@ categories:
   - Non classé
 tags:
   - projet 204
+events:
+  - Projet 204
+  - Japon Tranquilou
 residency:
   - Japon
 locations:

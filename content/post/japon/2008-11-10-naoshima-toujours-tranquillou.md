@@ -11,12 +11,13 @@ categories:
   - Tranquillou
 tags:
   - projet 204
+events:
+  - Projet 204
+  - Japon Tranquilou
 residency:
   - Japon
 locations:
   - Tokyo
-events:
-  - Japon Tranquilou
 ---
 
 Il faut pourtant quitter cette île super chouette ou pendant son petit déjeuner on peut surveiller de loin l&rsquo;avancée romantique d&rsquo;un gros tanker qui glisse sous les palmier de la terrasse ! On peut aussi y faire glisser sans bruit le lourd volet de sa chambre ou sauter sur le lit pour apercevoir la clim si bien cachée. Ce sont ces moments là que je n&rsquo;oublierai pas, de Naoshima

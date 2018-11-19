@@ -10,6 +10,8 @@ categories:
   - ordinaire
 tags:
   - projet 204
+events:
+  - Projet 204
 residency:
   - Japon
 locations:
