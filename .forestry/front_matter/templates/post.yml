@@ -9,5 +9,8 @@ fields:
 - type: tag_list
   name: locations
   label: locations
+- type: image_gallery
+  name: gallery
+  label: Gallery
 pages:
 - content/post/usa/yeah-fun.md
