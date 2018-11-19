@@ -3,11 +3,11 @@
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.45.1"
+  HUGO_VERSION = "0.50"
   HUGO_ENV = "netlify"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.45.1"
+  HUGO_VERSION = "0.50"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.45.1"
+  HUGO_VERSION = "0.50"
