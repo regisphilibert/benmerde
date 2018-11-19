@@ -8,7 +8,7 @@ sections:
   path: content/france
   label: France
   create: all
-  match: "**/*"
+  match: "*"
   templates:
   - post
 - type: directory
