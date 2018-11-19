@@ -14,7 +14,8 @@ residency:
   - Japon
 locations:
   - Tokyo
-
+events:
+  - Japon Tranquilou
 ---
 
 Voilà ! On est enfin revenu l&rsquo;iPhone et les appareils chargés de commentaires !

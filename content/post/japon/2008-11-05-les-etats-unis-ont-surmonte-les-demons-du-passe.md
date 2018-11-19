@@ -15,6 +15,8 @@ residency:
   - Japon
 locations:
   - Tokyo
+events:
+  - Japon Tranquilou
 
 --- 
 

@@ -15,7 +15,8 @@ residency:
   - Japon
 locations:
   - Tokyo
-
+events:
+  - Japon Tranquilou
 ---
 
 Oh ben c&rsquo;est encore Kyoto ! On voulait faire vite !

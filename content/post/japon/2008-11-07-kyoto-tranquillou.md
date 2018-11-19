@@ -15,7 +15,8 @@ residency:
   - Japon
 locations:
   - Tokyo
-dessin: 1
+events:
+  - Japon Tranquilou
 ---
 
 Encore une chouette journée de train, les aventures de ce matin semblant tellement appartenir à la nuit.

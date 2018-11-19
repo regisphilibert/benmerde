@@ -1,9 +1,9 @@
 {{ define "main" }}
-	{{ if eq .Kind "section" }}
+	{{ if or (eq .Kind "section") (eq .Kind "taxonomy") }}
 		{{ partial "archive-head" . }}
 	{{ end }}
-	
-	{{ range (.Paginator).Pages }}
+	{{ $paginator := .Paginate (sort .Pages "Date" "asc") }}
+	{{ range $paginator.Pages }}
 		{{ partialCached "post-li" . (printf "%x" .Title) }}
 	{{ end }}
 	<div class="bm-container">

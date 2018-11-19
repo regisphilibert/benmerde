@@ -14,6 +14,8 @@ residency:
   - Japon
 locations:
   - Tokyo
+events:
+  - Japon Tranquilou
 
 ---
 Bon alors en fait changement de programme. Notre visite éclaire de Kyoto nous ayant un peu frustrés, on y repasse mardi donc nous ne seront de retour que mardi soir !
