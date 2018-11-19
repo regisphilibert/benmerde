@@ -7,6 +7,9 @@ theme: benmerde
 paginate: 10
 disqusShortname: ben-merde
 
+blackfriday:
+  hrefTargetBlank: true
+
 outputs:
   home: [HTML, RSS, Algolia]
   page: [HTML]

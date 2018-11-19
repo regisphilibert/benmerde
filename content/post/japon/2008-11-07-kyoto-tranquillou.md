@@ -6,6 +6,7 @@ type: post
 date: 2008-11-07T10:00:15+00:00
 draft: false
 url: /2008/11/kyoto-tranquillou/
+featured: IMG_0253.jpeg
 categories:
   - Tranquillou
 tags:
@@ -16,7 +17,6 @@ locations:
   - Tokyo
 dessin: 1
 ---
-{{< figure src="IMG_0252.jpeg" >}}Le dessin du jour {{< /figure >}}
 
 Encore une chouette journée de train, les aventures de ce matin semblant tellement appartenir à la nuit.
   
@@ -28,8 +28,9 @@ On a quand même pu repérer quelques love hôtels sympatiques qui avec notre nu
 
 Il fallait juste attendre 21h00, laps de temps aisément couvert par une sacoche consignée à l&rsquo;autre bout de la ville et un bar à Okonomiyaki à l&rsquo;enseigne tellement invitante : un mec la bite à l&rsquo;air, defroqué par un chien.
 
-Alors oui : une chambre de Love Hotel lambris de sapin aussi kitch qu&rsquo;Evelyne Delhia et pas plus rose que l&rsquo;eau des toilettes.
+{{< figure src ="IMG_0203.jpg" >}}Wouf wouf! Prout prout!{{< /figure >}}
 
+Alors oui : une chambre de Love Hotel lambris de sapin aussi kitch qu&rsquo;Evelyne Delhia et pas plus rose que l&rsquo;eau des toilettes sera la photo du jour.
  
 
 <div id="attachment_543" class="wp-caption aligncenter" style="max-width: 500px">

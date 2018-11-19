@@ -414,17 +414,6 @@ hr {
   .user-edit .wp-caption img, .user-edit .wp-caption[style] img {
     width: auto;
     max-width: 100%; }
-  .user-edit .wp-caption .wp-caption-text, .user-edit .wp-caption[style] .wp-caption-text {
-    white-space: normal;
-    position: absolute;
-    left: 0;
-    line-height: 1.2em;
-    font-size: 0.85em;
-    max-width: 80%;
-    bottom: 2em;
-    background-color: white;
-    background-color: fadeout(white, 25%);
-    padding: 0.3em 0.7em; }
   .user-edit .wp-caption.alignright, .user-edit .wp-caption[style].alignright {
     float: right; }
   .user-edit .wp-caption.alignleft, .user-edit .wp-caption[style].alignleft {
@@ -902,7 +891,7 @@ a.bm-Brand {
       top: 0;
       display: block; }
   .bm-Media figcaption, .bm-Media .wp-caption-text, .bm-Media .caption, .framed figcaption, .framed .wp-caption-text, .framed .caption, [id^='attachment_'] figcaption, [id^='attachment_'] .wp-caption-text, [id^='attachment_'] .caption {
-    padding: 0.5em 5%;
+    padding: 0.5em 0.7em;
     font-size: 0.9em;
     line-height: 1.4em;
     border-width: 0;
@@ -910,7 +899,11 @@ a.bm-Brand {
     border-style: solid;
     font-family: "Open Sans", sans-serif;
     font-style: italic;
-    position: relative; }
+    position: absolute;
+    left: 0;
+    max-width: 80%;
+    bottom: 2em;
+    background: rgba(255, 255, 255, 0.9); }
     .bm-Media figcaption .bm-Media, .bm-Media .wp-caption-text .bm-Media, .bm-Media .caption .bm-Media, .framed figcaption .bm-Media, .framed .wp-caption-text .bm-Media, .framed .caption .bm-Media, [id^='attachment_'] figcaption .bm-Media, [id^='attachment_'] .wp-caption-text .bm-Media, [id^='attachment_'] .caption .bm-Media {
       margin-top: 1em; }
   .bm-Media p:empty, .framed p:empty, [id^='attachment_'] p:empty {
@@ -928,8 +921,6 @@ a.bm-Brand {
     text-decoration: none; }
 
 @media screen and (min-width: 760px) {
-  .bm-Media figcaption {
-    padding: 0.5em 0; }
   .bm-column .bm-Media img {
     width: 100%; } }
 

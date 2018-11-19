@@ -36,7 +36,7 @@
         }
     }
     figcaption, .wp-caption-text, .caption{
-        padding:0.5em 5%;
+        padding:0.5em 0.7em;
         font-size: 0.9em;
         line-height: 1.4em;
         border-width:0;
@@ -44,7 +44,12 @@
         border-style: solid;
         font-family: $ffSans;
         font-style: italic;
-        position: relative;
+
+        position:absolute;
+        left:0;
+        max-width:80%;
+        bottom:2em;
+        background:rgba(255,255,255, 0.9);
         .bm-Media{
             margin-top:1em;
         }
@@ -70,7 +75,7 @@
 @media screen and (min-width:$tablet){
     .bm-Media{
         figcaption{
-            padding:0.5em 0;
+            //padding:0.5em 0;
         }
         .bm-column & {
             img{

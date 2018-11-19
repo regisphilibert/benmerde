@@ -1,0 +1,11 @@
+{{- $src := 0 -}}
+{{- $medias := .Site.GetPage "medias" -}}
+{{- with .Params.featured -}}
+	{{- with $medias.Resources.GetMatch (strings.TrimPrefix "/medias/" . ) -}}
+		{{- $src = . -}}
+	{{- end -}}
+{{- end -}}
+{{- with .Resources.GetMatch "featured**" -}}
+	{{- $src = . -}}
+{{- end -}}
+{{- .Scratch.Set "thumb" $src -}}

@@ -1,4 +1,5 @@
 {{ partial "scratch/area/li" . }}
+{{ partial "scratch/thumbnail" . }}
 {{ $site := .Site }}
 <article class="bm-Entry bm-Entry--center">
     <div class="bm-container">
@@ -26,12 +27,20 @@
                     {{ end }}
                 {{ end }}
                 {{ with .Scratch.Get "thumb" }}
-                    <div class="desktop-block bm-Entry__thumb"><img src="{{ (.Resize "300x").Permalink }}" alt=""></div>
+                    <div class="desktop-block bm-Entry__thumb">
+                        <a href="{{ (.Resize "1500x").Permalink }}" target="_blank">
+                            <img src="{{ (.Resize "300x").Permalink }}" alt="">
+                        </a>
+                    </div>
                 {{ end }}
             </div>
             <div class="bm-Entry__content bm-grid__main user-edit">
                 {{ with .Scratch.Get "thumb" }}
-                    <div class="mobile-block tablet-block bm-Entry__thumb"><img src="{{ (.Resize "500x").Permalink }}" alt=""></div>
+                    <div class="mobile-block tablet-block bm-Entry__thumb">
+                        <a href="{{ (.Resize "1500x").Permalink }}" target="_blank">
+                            <img src="{{ (.Resize "300x").Permalink }}" alt="">
+                        </a>
+                    </div>
                 {{ end }}
                 {{ .Content }}
                 {{ with .Params.gallery }}

@@ -6,6 +6,7 @@ type: post
 date: 2008-11-10T10:00:03+00:00
 draft: false
 url: /2008/11/naoshima-toujours-tranquillou/
+featured: IMG_0251.jpeg
 categories:
   - Tranquillou
 tags:
@@ -16,11 +17,12 @@ locations:
   - Tokyo
 dessin: 1
 ---
-{{< figure src ="IMG_0251.jpeg" >}}Dessin du jour{{< /figure >}}
 
 Il faut pourtant quitter cette île super chouette ou pendant son petit déjeuner on peut surveiller de loin l&rsquo;avancée romantique d&rsquo;un gros tanker qui glisse sous les palmier de la terrasse ! On peut aussi y faire glisser sans bruit le lourd volet de sa chambre ou sauter sur le lit pour apercevoir la clim si bien cachée. Ce sont ces moments là que je n&rsquo;oublierai pas, de Naoshima
 
 On a quand même pris le temps de visiter les jardins où des dizaines de japonos chevauchent des Nikky de Saint Phalle en attendant qu&rsquo;on les prenne en photo. Il y a pas mal d&rsquo;oeuvres éparpillées autour des hôtels, et même au hasard de l&rsquo;île. On s&rsquo;est donc balladé dans son village désert, à la recherche de la statue perdue. On a surtout vu des temples, des maisons et des distributeurs de boissons. Au revoir Benesse.
+
+{{< figure src="IMG_4945.jpg" >}}A dada sur Nicky! Ces barrières ça doit être pour les animaux...{{< /figure >}}
 
 Ferry, train, train, train et comme prévu re-Kyoto !
   
@@ -34,4 +36,4 @@ Mais c&rsquo;était là, propre et bien rangé sous le plafond faux-ciel et les 
 
 Après une bonne douche et l&rsquo;absence de chauffage, on était quand même un peu blasés de se retrouver là après Benesse, mais l&rsquo;instant kitsch fut sympa !
 
-{{< figure src ="IMG_0236.jpeg" >}}La Photo Du Jour{{< /figure >}}
+{{< figure src ="IMG_5032.jpg" >}}La Photo Du Jour{{< /figure >}}

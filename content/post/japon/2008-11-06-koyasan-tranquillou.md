@@ -6,6 +6,7 @@ type: post
 date: 2008-11-06T10:00:07+00:00
 draft: false
 url: /2008/11/koyasan-tranquillou/
+featured: /medias/IMG_0248.jpeg
 categories:
   - Tranquillou
 tags:
@@ -16,7 +17,6 @@ locations:
   - Tokyo
 
 ---
-[<img class="aligncenter size-full wp-image-554" title="img_0248" src="{{< aws >}}/uploads/img_0248.jpg" alt="" width="500" height="666" />][1]
 
 Bon malgré un grave accident de poignée de train qui a bien failli dévisagé a tout jamais votre serviteur, l&rsquo;aventure a eu lieu.
 
@@ -24,7 +24,7 @@ Alors la première journée Mariane a pu durant trois heures de Shinkansen, une 
 
 Tout ça pour arriver a Koyasan. Une montagne sacrée mont de dieu où l&rsquo;on peut dormir dans un monastère bouddhiste pour quelques dixaines de milliers de yen (moines pourris !).
 
-Alors donc on a tout bien fait comme il faut, on a écouté le moine ramolo nous expliquer les horaires des différentes portes du temple. On a attendu sagement dans la chambre qu&rsquo;on vienne nous chercher pour le dîner, on a mangé tous les petit trucs dans tous les petits pots colorés et on s&rsquo;est même lavé dans le bain commun où tous les visiteurs, en bons américains chrétiens, ne vont jamais que seuls et attendent bien sagement qu&rsquo;on ait fini. Tout ça avant de tomber le yukata. Oui parce qu&rsquo;on a bien mis les yukata, sûrement mal mais bon, pour ça y avait pas de fiche explicative dans la chambre.
+Alors donc on a tout bien fait comme il faut, on a écouté le moine ramolo nous expliquer les horaires des différentes portes du temple. On a attendu sagement dans la chambre qu&rsquo;on vienne nous chercher pour le dîner, on a mangé tous les petits trucs dans tous les petits pots colorés et on s&rsquo;est même lavé dans le bain commun où tous les visiteurs, en bons américains chrétiens, ne vont jamais que seuls et attendent bien sagement qu&rsquo;on ait fini. Tout ça avant de tomber le yukata. Oui parce qu&rsquo;on a bien mis les yukata, sûrement mal mais bon, pour ça y avait pas de fiche explicative dans la chambre.
   
 A noter que les bains unisexes n&rsquo;etaient séparés que d&rsquo;une cloison donc on a pu discuter comme à la maison.
 

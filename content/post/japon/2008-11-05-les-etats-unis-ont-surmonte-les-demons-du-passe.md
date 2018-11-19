@@ -6,6 +6,7 @@ type: post
 date: 2008-11-05T14:00:08+00:00
 draft: false
 url: /2008/11/les-etats-unis-ont-surmonte-les-demons-du-passe/
+featured: IMG_0033.jpeg
 categories:
   - Non classé
 tags:
@@ -15,24 +16,30 @@ residency:
 locations:
   - Tokyo
 
----
-<a style="text-decoration: none;" href="{{< aws >}}/uploads/img_00331.jpg"><span style="color: #000000;"><br /> </span><img class="aligncenter size-full wp-image-517" style="text-decoration: underline;" title="img_00331" src="{{< aws >}}/uploads/img_00331.jpg" alt="" width="400" height="533" /></a>
+--- 
 
- 
+.
 
-<p style="text-align: center; ">
-  Ben y avait pas d&rsquo;écharpe pour homme ! Et moi je voulais une écharpe !
-</p>
+.
+
+.
+
+.
+
+👈 Dessin du jour! À lire avant le machin.
+
+Ben y avait pas d&rsquo;écharpe pour homme ! Et moi je voulais une écharpe !
+
 
 J&rsquo;explique un peu même si j&rsquo;ai l&rsquo;impression que tout le monde va se dire que ce blog est bien moins chiant avec juste un dessin !
-  
-&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8211;
+
+----
   
 euh, excusez-moi&#8230; pardon&#8230; désolée&#8230; pardon&#8230; merci.
-  
+
 J&rsquo;interromps votre serviteur quelques secondes pour remercier mes deux fans en délire (n&rsquo;ayons pas peur des mots) à qui je peux désormais annoncer qu&rsquo;il y aura bien un dessin quotidien. Merci pour votre soutien, du fond du coeur, merci.
-  
-&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;&#8212;- 
+
+----
 
 Sinon effectivement, j&rsquo;avais bien prévu hier après avoir gavé ma crevette de l&#8217;emmener brasser ses tripes sur un chouette bateau du futur, une jolie croisière entre amoureux et Japonos le long des quais « rien-à-voir » de Tokyo. Mais le bateau en question, et la destination en question étaient hors service pour la journée.
   
@@ -48,13 +55,7 @@ C&rsquo;est donc rouge de volonté, qu&rsquo;après notre visite du Ghibli Museu
   </p>
 </div>
 
-A part ça, le musée Ghibly, Totoro tout ça, c&rsquo;est sympa, mais un coup de badigeon sur la façade soi-disant multicolore (dixit 1984) ça ferait pas de mal Monsieur Miyazaki ! Pour le reste on a rien le droit de dire, mais je l&rsquo;affirme bien haut :
-
- 
-
-<p style="text-align: center; ">
-  C&rsquo;est petit hein.
-</p>
+A part ça, le musée Ghibly, Totoro tout ça, c&rsquo;est sympa, mais un coup de badigeon sur la façade soi-disant multicolore (dixit 1984) ça ferait pas de mal Monsieur Miyazaki ! Pour le reste on a rien le droit de dire, mais je l&rsquo;affirme bien haut : C&rsquo;est petit hein.
 
 <p style="text-align: left;">
   PS : On part 4 jours donc si pas de wifi sur le chemin, pas de mise à jour, bien désolé.
