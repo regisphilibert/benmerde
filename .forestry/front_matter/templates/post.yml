@@ -9,3 +9,5 @@ fields:
 - type: tag_list
   name: locations
   label: locations
+pages:
+- content/post/usa/yeah-fun.md
