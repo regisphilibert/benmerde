@@ -6,3 +6,5 @@ draft: true
 
 ---
 Plein de chose à dire. 
+
+![](/medias/21599E26-1669-45B3-891F-C9A259D37C17.jpeg "Distrib de cannoli ")
