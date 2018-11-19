@@ -14,11 +14,9 @@ residency:
   - Japon
 locations:
   - Tokyo
-
+dessin: 1
 ---
-<p style="text-align: center;">
-  <a href="http://img360.imageshack.us/img360/638/img0251cp0.jpg"><img class="aligncenter" src="http://img360.imageshack.us/img360/638/img0251cp0.jpg" alt="" width="422" height="564" /></a>
-</p>
+{{< figure src ="IMG_0251.jpeg" >}}Dessin du jour{{< /figure >}}
 
 Il faut pourtant quitter cette île super chouette ou pendant son petit déjeuner on peut surveiller de loin l&rsquo;avancée romantique d&rsquo;un gros tanker qui glisse sous les palmier de la terrasse ! On peut aussi y faire glisser sans bruit le lourd volet de sa chambre ou sauter sur le lit pour apercevoir la clim si bien cachée. Ce sont ces moments là que je n&rsquo;oublierai pas, de Naoshima
 
@@ -36,12 +34,4 @@ Mais c&rsquo;était là, propre et bien rangé sous le plafond faux-ciel et les 
 
 Après une bonne douche et l&rsquo;absence de chauffage, on était quand même un peu blasés de se retrouver là après Benesse, mais l&rsquo;instant kitsch fut sympa !
 
- 
-
-<div class="wp-caption aligncenter" style="max-width: 467px">
-  <a href="http://img384.imageshack.us/img384/6664/img5036xd7.jpg"><img class="   " src="http://img384.imageshack.us/img384/6664/img5036xd7.jpg" alt="La Photo Du Jour" width="467" height="350" /></a>
-  
-  <p class="wp-caption-text">
-    La Photo Du Jour
-  </p>
-</div>
+{{< figure src ="IMG_0236.jpeg" >}}La Photo Du Jour{{< /figure >}}

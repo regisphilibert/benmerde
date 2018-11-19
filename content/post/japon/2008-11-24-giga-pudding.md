@@ -20,4 +20,4 @@ C&rsquo;est une vidéo commercialle qui tourne dans tous les [Tokyu Hands][1] au
   
 Même si ça résume le Japon que pour les couillons « Harakiri & Kamikaze », c&rsquo;est ce qui fait sourire jusqu&rsquo;au oreilles quand on réalise qu&rsquo;on est ici.
 
- [1]: http://benmerde.loc/2008/11/tokyu-hands/ "Tokyu Hands!"
+ [1]: https://benmerde.loc/2008/11/tokyu-hands/ "Tokyu Hands!"

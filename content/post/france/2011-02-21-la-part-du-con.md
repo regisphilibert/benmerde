@@ -19,4 +19,4 @@ Toutes les nations du monde sont en lice pour gagner le plus beaux prix de ces 3
 
 [news de merde][1]{.arrow}
 
- [1]: http://www.lemonde.fr/proche-orient/article/2011/02/20/repression-sanglante-des-emeutes-en-libye_1482820_3218.html#ens_id=1481220
+ [1]: https://www.lemonde.fr/proche-orient/article/2011/02/20/repression-sanglante-des-emeutes-en-libye_1482820_3218.html#ens_id=1481220

@@ -18,4 +18,4 @@ putain, ça fait presque autant de peine que le retrait des shampooings au goudr
 
 [news de merde][1]
 
- [1]: http://fr.news.yahoo.com/80/20100721/thl-le-di-antalvic-retir-de-la-vente-en-8709c9a.html
+ [1]: https://fr.news.yahoo.com/80/20100721/thl-le-di-antalvic-retir-de-la-vente-en-8709c9a.html

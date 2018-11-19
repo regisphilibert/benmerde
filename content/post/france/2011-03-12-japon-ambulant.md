@@ -22,5 +22,5 @@ Mais dans quel sens, merde, je veux savoir s&rsquo;il est plus loin ou plus prè
 
 [MàJ] On a l&rsquo;info : Il est plus près !
 
- [1]: http://edition.cnn.com/2011/WORLD/asiapcf/03/12/japan.earthquake.tsunami.earth/index.html
- [2]: http://www.google.com/crisisresponse/japanquake2011.html
+ [1]: https://edition.cnn.com/2011/WORLD/asiapcf/03/12/japan.earthquake.tsunami.earth/index.html
+ [2]: https://www.google.com/crisisresponse/japanquake2011.html

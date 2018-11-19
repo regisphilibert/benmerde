@@ -25,5 +25,5 @@ L&rsquo;année dernière Arnold Ier dit le sert-a-rien glissait un [IFUCKYOU][1]
 
 [news de merde][2]
 
- [1]: http://www.parismatch.com/People-Match/Politique/Actu/Schwarzy-le-malpoli-140262/
- [2]: http://thetvrealist.com/gossip/Jennifer-Anistons-Name-Change-Gripe-5378940.html
+ [1]: https://www.parismatch.com/People-Match/Politique/Actu/Schwarzy-le-malpoli-140262/
+ [2]: https://thetvrealist.com/gossip/Jennifer-Anistons-Name-Change-Gripe-5378940.html

@@ -28,4 +28,4 @@ Ici, pas de chanson, pas de chenille, juste une instit qui pousse laborieusement
   </p>
 </div>
 
-À <a target="_blank" href="http://portland97214.wordpress.com/2012/09/26/458/">portland OR</a> c&rsquo;est encore autre chose.
+À <a target="_blank" href="https://portland97214.wordpress.com/2012/09/26/458/">portland OR</a> c&rsquo;est encore autre chose.

@@ -14,11 +14,9 @@ residency:
   - Japon
 locations:
   - Tokyo
-
+dessin: 1
 ---
-<p style="text-align: center;">
-  <a href="http://img61.imageshack.us/img61/6877/img0253do9.jpg"><img class="aligncenter" src="http://img61.imageshack.us/img61/6877/img0253do9.jpg" alt="" width="587" height="783" /></a>
-</p>
+{{< figure src="IMG_0252.jpeg" >}}Le dessin du jour {{< /figure >}}
 
 Encore une chouette journée de train, les aventures de ce matin semblant tellement appartenir à la nuit.
   

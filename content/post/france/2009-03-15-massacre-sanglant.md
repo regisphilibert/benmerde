@@ -30,4 +30,4 @@ bandes de merde.
 
 [Allez&#8230;.][1]
 
- [1]: http://www.20minutes.fr/article/310093/Monde-massacre-sanglant-dans-un-college.php
+ [1]: https://www.20minutes.fr/article/310093/Monde-massacre-sanglant-dans-un-college.php

@@ -27,4 +27,4 @@ Je vérifie juste que tout le monde a bien compris.
 Moi je trouve qu&rsquo;ils vont bien ensemble lui et [sa nouvelle blonde][2] !
 
  [1]: {{< aws >}}/uploads/2010/08/24empire_ch-custom3.jpg
- [2]: http://www.nytimes.com/2010/08/24/nyregion/24empire.html
+ [2]: https://www.nytimes.com/2010/08/24/nyregion/24empire.html

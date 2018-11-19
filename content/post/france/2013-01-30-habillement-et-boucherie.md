@@ -14,6 +14,6 @@ locations:
   - Lyon
 
 ---
-<a href="http://fr.news.yahoo.com/femme-fait-trancher-gorge-plein-supermarché-121632191.html" target="_blank">Une femme meurt après avoir eu la gorge tranchée en plein supermarché dans la Loire</a> &#8211; AFP.
+<a href="https://fr.news.yahoo.com/femme-fait-trancher-gorge-plein-supermarché-121632191.html" target="_blank">Une femme meurt après avoir eu la gorge tranchée en plein supermarché dans la Loire</a> &#8211; AFP.
 
 _La scène a pu être reconstituée par le témoignage de clients présents sur les lieux du drame, **à la jonction des rayons habillement et boucherie**, et grâce au visionnage de la vidéo-surveillance, a précisé le procureur._

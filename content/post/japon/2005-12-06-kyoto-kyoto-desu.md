@@ -8,7 +8,7 @@ draft: false
 url: /2005/12/kyoto-kyoto-desu/
 enclosure:
   - |
-    http://benmerde.loc/wp-content{{< aws >}}/uploads/2012/10/gion.mp4
+    https://benmerde.loc/wp-content{{< aws >}}/uploads/2012/10/gion.mp4
     2533953
     video/mp4
     

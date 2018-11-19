@@ -22,4 +22,4 @@ ou se dire que c&rsquo;est la fin du monde mais juste chez soi.
 
 Eh ouais, désolé les russes, [la fin du monde][1]{.arrow} c&rsquo;est que chez vous.
 
- [1]: http://www.lemonde.fr/planete/article/2013/02/15/pluie-de-meteorites-sur-la-russie_1833072_3244.html
+ [1]: https://www.lemonde.fr/planete/article/2013/02/15/pluie-de-meteorites-sur-la-russie_1833072_3244.html

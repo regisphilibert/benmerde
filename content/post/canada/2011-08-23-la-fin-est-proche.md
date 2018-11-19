@@ -16,4 +16,4 @@ locations:
 ---
 On se souviendra de Kadhafi comme le coussin moche offert par des amis influents et qu&rsquo;on laisse trôner au milieu du canapé.
 
-<a href="http://benmerde.loc/category/actualite-2/muhamar-mouar-mouar/" target="_blank">Adieu au Versace Berbère</a> et vivement la vente aux enchères.
+<a href="https://benmerde.loc/category/actualite-2/muhamar-mouar-mouar/" target="_blank">Adieu au Versace Berbère</a> et vivement la vente aux enchères.

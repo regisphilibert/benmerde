@@ -18,10 +18,10 @@ locations:
 ---
  
 
-  * Le <a title="McDo" href="http://rapdp.free.fr/projet204/?p=432" target="_self">McDo</a> servi en 1 minute trente secondes.
+  * Le <a title="McDo" href="https://rapdp.free.fr/projet204/?p=432" target="_self">McDo</a> servi en 1 minute trente secondes.
   * Les pubs dans la yamanote.
   * Triston McMillan
-  * Les <a href="http://rapdp.free.fr/projet204/?page_id=340" target="_blank">soupes de maïs</a> dans les distributeurs.
+  * Les <a href="https://rapdp.free.fr/projet204/?page_id=340" target="_blank">soupes de maïs</a> dans les distributeurs.
   * Manger comme un gros sale.
   * Rod Rolirad
   * Allez chercher Mariane a l&rsquo;aéroport.
@@ -29,15 +29,15 @@ locations:
   * Tokyo Disneyland !
   * Japan Rail
   * Tokyo station aux heures de pointe.
-  * Les <a title="Donburi" href="http://rapdp.free.fr/projet204/?p=345" target="_blank">Donburi</a> !
-  * <a href="http://rapdp.free.fr/projet204/?p=720" target="_self">Gareth and Al</a>
+  * Les <a title="Donburi" href="https://rapdp.free.fr/projet204/?p=345" target="_blank">Donburi</a> !
+  * <a href="https://rapdp.free.fr/projet204/?p=720" target="_self">Gareth and Al</a>
   * La mélodie du passage piéton.
   * Tokyu Hands
   * Toutes les variétés de Calpis
   * Brendan Riley
   * Food Express
   * Les plaques d&rsquo;égout en forme de bonhomme.
-  * <a href="http://www.japaninc.com/files/ab-bobbyoregon.jpg" target="_blank">Bobby</a>
+  * <a href="https://www.japaninc.com/files/ab-bobbyoregon.jpg" target="_blank">Bobby</a>
   * Tommy Lee
   * Dr Pepper
   * Les White
@@ -56,7 +56,7 @@ locations:
   * Yodobashi-Akiba
   * Filmer le japon
   * Les pictos des sièges prioritaires.
-  * Le <a href="http://image.blog.livedoor.jp/plazahomes1/imgs/5/d/5d523b7e.jpg" target="_blank">pinguin de Suica</a>.
+  * Le <a href="https://image.blog.livedoor.jp/plazahomes1/imgs/5/d/5d523b7e.jpg" target="_blank">pinguin de Suica</a>.
   * Les petites crêpes sucrés avec du riz dedans.
   * Les pintes de bière a 4€.
   * Les réunions de country.

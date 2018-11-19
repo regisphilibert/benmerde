@@ -34,4 +34,4 @@ Ce soir, 9 Octobre, aucun titre de LeMonde.fr n&rsquo;évoque le « scandale �
 
 _Rassuré aussi, que l&rsquo;homme politique homo le plus médiatisé ne soit plus Delanoë ._
 
- [1]: http://www.toroptsov.com/fr/actualite/index.htm
+ [1]: https://www.toroptsov.com/fr/actualite/index.htm

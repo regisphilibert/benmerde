@@ -23,5 +23,5 @@ Robert Guéï (bananier de l&rsquo;époque) les convoque pour une humiliation pu
 La france riait.
 
 <p style="text-align: right;">
-  <a href="http://www.afrik.com/article6979.html" target="blank">si, si</a>
+  <a href="https://www.afrik.com/article6979.html" target="blank">si, si</a>
 </p>

@@ -26,7 +26,9 @@ locations:
   </p>
 </div>
 
-Bon j&rsquo;avais prévenu que le mois « visites » ne serait pas forcément enrichissant pour le blog. J&rsquo;aurais pu monter plus de films avec Marie, on aurait voulu tous les deux, on avait prévu, mais ça voulait aussi dire de longues sessions, bloqué devant l&rsquo;ordi pendant qu&rsquo;elle attendait dans son <a title="CoinCoin" href="http://img98.imageshack.us/img98/2598/img4019zx0.jpg" target="_blank">coin</a>. Et faut bien reconnaître que faire des films, c&rsquo;est toujours plus facile quand on bourlingue pas toute la journée avec sa « copain-comme-cousin.
+Bon j&rsquo;avais prévenu que le mois « visites » ne serait pas forcément enrichissant pour le blog. J&rsquo;aurais pu monter plus de films avec Marie, on aurait voulu tous les deux, on avait prévu, mais ça voulait aussi dire de longues sessions, bloqué devant l&rsquo;ordi pendant qu&rsquo;elle attendait dans son coin. Et faut bien reconnaître que faire des films, c&rsquo;est toujours plus facile quand on bourlingue pas toute la journée avec sa « copain-comme-cousin.
+
+{{< figure src="IMG_4019.jpg" wide="1" >}}Marie dans son coin{{< /figure >}}
 
 En tout cas on en a tourné du film (surtout elle) et ça se verra sûrement dans les semaines suivantes, après le départ de la douce.
 

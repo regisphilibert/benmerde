@@ -26,4 +26,4 @@ la clientèle en sera moins naïve mais un peu déçue quand même.
 
 [Google Sendai Relief][1]{.arrow}
 
- [1]: http://www.google.com/crisisresponse/japanquake2011.html
+ [1]: https://www.google.com/crisisresponse/japanquake2011.html

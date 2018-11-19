@@ -18,4 +18,4 @@ locations:
 
 La meilleure campagne de pub de l&rsquo;industrie aéronautique depuis le Concordia.
 
- [1]: http://www.lemonde.fr/europe/article/2013/07/29/au-moins-40-blesses-dans-une-collision-entre-deux-trains-en-suisse_3455120_3214.html
+ [1]: https://www.lemonde.fr/europe/article/2013/07/29/au-moins-40-blesses-dans-une-collision-entre-deux-trains-en-suisse_3455120_3214.html

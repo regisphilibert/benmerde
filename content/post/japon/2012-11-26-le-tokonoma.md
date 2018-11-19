@@ -44,10 +44,10 @@ Chaque maison traditionnelle japonaise dispose d&rsquo;une pièce dédiée à la
 
 Cette pièce rassemble toujours les mêmes éléments dont le Tokonoma, nous on va dire l&rsquo;alcôve. 
 
-Cette alcôve abrite généralement un tatami surélevé sur lequel on pose des <a href="http://fr.wikipedia.org/wiki/Ikebana" target="_blank">Ikebanas</a> ou autre, et un mur garni d&rsquo;un <a href="http://fr.wikipedia.org/wiki/Rouleau_suspendu" target="_blank">rouleau suspendu</a> ou autre. Et enfin une belle poutre pour délimiter (Tokobashira).
+Cette alcôve abrite généralement un tatami surélevé sur lequel on pose des <a href="https://fr.wikipedia.org/wiki/Ikebana" target="_blank">Ikebanas</a> ou autre, et un mur garni d&rsquo;un <a href="https://fr.wikipedia.org/wiki/Rouleau_suspendu" target="_blank">rouleau suspendu</a> ou autre. Et enfin une belle poutre pour délimiter (Tokobashira).
 
 <div class="wp-caption alignleft" style="max-width: 300px">
-  <img alt="" src="http://www.aisf.or.jp/~jaanus/deta/data_image/image_s/shikirichigaidana.gif" width="300" height="277" />
+  <img alt="" src="https://www.aisf.or.jp/~jaanus/deta/data_image/image_s/shikirichigaidana.gif" width="300" height="277" />
   
   <p class="wp-caption-text">
     placards et zig-zag
@@ -56,4 +56,4 @@ Cette alcôve abrite généralement un tatami surélevé sur lequel on pose des 
 
 Quand on reçoit, il est de bon ton de placer l&rsquo;invité d&rsquo;honneur dos au Takonoma. Ici la base de l&rsquo;étiquette c&rsquo;est la modestie, on imposte donc pas la richesse de son alcôve.
 
-Évidemment plus d&rsquo;info sur <a href="http://en.wikipedia.org/wiki/Tokonoma" target="_blank">Wikipedia</a> !
+Évidemment plus d&rsquo;info sur <a href="https://en.wikipedia.org/wiki/Tokonoma" target="_blank">Wikipedia</a> !

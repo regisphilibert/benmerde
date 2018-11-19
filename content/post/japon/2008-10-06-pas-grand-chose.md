@@ -21,9 +21,9 @@ locations:
 ---
 Alors pour célébrer le lendemain d&rsquo;un dimanche bien tranquille, je ne dirai que deux choses : 
 
-Y a un nouveau <a title="Les Sylvain" href="http://rapdp.free.fr/lessylvain/" target="_self">Sylvain</a>, (vraiment nouveau d&rsquo;ailleurs, et de circonstances)
+Y a un nouveau <a title="Les Sylvain" href="https://rapdp.free.fr/lessylvain/" target="_self">Sylvain</a>, (vraiment nouveau d&rsquo;ailleurs, et de circonstances)
 
-Et y a le nouveau <a title="Roll 3" href="http://gallery.mac.com/cheribibi#100092" target="_blank">Roll</a>.
+Et y a le nouveau <a title="Roll 3" href="https://gallery.mac.com/cheribibi#100092" target="_blank">Roll</a>.
 
 Voilà patipata, je vous laisse quand même avec un joli tabouret.
 

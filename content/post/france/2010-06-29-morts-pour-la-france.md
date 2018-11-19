@@ -14,7 +14,7 @@ locations:
   - Lyon
 
 ---
-<img style="float:right; "src="http://img29.imageshack.us/img29/6426/resizedimage31740001ipck.jpg" />Jean-Pierre Escalettes
+Jean-Pierre Escalettes
   
 Raymond Domenech
   

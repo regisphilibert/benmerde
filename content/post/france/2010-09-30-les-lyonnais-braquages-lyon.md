@@ -18,4 +18,4 @@ locations:
 
 [marketing virale][1]
 
- [1]: http://www.allocine.fr/film/fichefilm_gen_cfilm=145068.html
+ [1]: https://www.allocine.fr/film/fichefilm_gen_cfilm=145068.html

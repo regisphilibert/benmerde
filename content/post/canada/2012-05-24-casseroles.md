@@ -15,7 +15,7 @@ locations:
   - Montréal
 
 ---
-Pour protester contre la <a href="http://benmerde.loc/2012/05/les-carres/" title="Article sur la Loi Spéciale" target="_blank">loi spéciale</a> les Montréalais de tous âges tapent sur des casseroles tous les jours à 20h. 
+Pour protester contre la <a href="https://benmerde.loc/2012/05/les-carres/" title="Article sur la Loi Spéciale" target="_blank">loi spéciale</a> les Montréalais de tous âges tapent sur des casseroles tous les jours à 20h. 
 
 C&rsquo;est une protestation spontanée qui rapproche les adultes, amuse les gosses et rajeunit les plus vieux &mdash; nostalgiques de la révolution tranquille. 
 

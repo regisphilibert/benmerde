@@ -18,4 +18,4 @@ Donc deux mois après avoir emballé le Quebec tout entier avec des candidats pl
 
 [news de merde][1]{.arrow}.
 
- [1]: http://fr-ca.actualites.yahoo.com/jack-layton-meurt-dun-cancer-124916001.html
+ [1]: https://fr-ca.actualites.yahoo.com/jack-layton-meurt-dun-cancer-124916001.html

@@ -35,4 +35,4 @@ On y apprend comment hocher la tête ou le corps en fonction de la situation, qu
 
 Trêve de connerie, c&rsquo;est vraiment un truc que je recherchais depuis longtemps, alors je suis content (donc faut que je lève le pied gauche en tournant la tête je crois).
 
- [1]: http://www.gooddaybooks.com/
+ [1]: https://www.gooddaybooks.com/

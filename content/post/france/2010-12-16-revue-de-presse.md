@@ -22,5 +22,5 @@ bof.
 
 ben en voilà de la vraie débrouille.
 
- [1]: http://www.lemonde.fr/societe/article/2010/12/02/vivre-avec-un-smic-demande-beaucoup-de-debrouille_1447891_3224.html#ens_id=1452889
- [2]: http://www.lemonde.fr/economie/article/2010/12/14/en-2009-les-patrons-du-cac-40-ont-gagne-en-moyenne-190-fois-le-smic_1453479_3234.html#ens_id=1452889
+ [1]: https://www.lemonde.fr/societe/article/2010/12/02/vivre-avec-un-smic-demande-beaucoup-de-debrouille_1447891_3224.html#ens_id=1452889
+ [2]: https://www.lemonde.fr/economie/article/2010/12/14/en-2009-les-patrons-du-cac-40-ont-gagne-en-moyenne-190-fois-le-smic_1453479_3234.html#ens_id=1452889

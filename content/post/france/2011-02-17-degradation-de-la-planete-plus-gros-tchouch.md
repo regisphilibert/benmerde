@@ -20,4 +20,4 @@ locations:
 
 _[la variabilité du mot tchouch faisant question, je me suis abstenu]_
 
- [1]: http://www.maxisciences.com/%e9cologie/la-degradation-de-la-planete-ferait-grossir-les-seins-des-femmes_art12615.html
+ [1]: https://www.maxisciences.com/%e9cologie/la-degradation-de-la-planete-ferait-grossir-les-seins-des-femmes_art12615.html

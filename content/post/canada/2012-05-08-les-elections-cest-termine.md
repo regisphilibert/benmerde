@@ -16,4 +16,4 @@ locations:
 ---
 Aujourd&rsquo;hui l&rsquo;article le plus partagé sur lemonde.fr :
   
-<a class="arrow" href="http://alternatives.blog.lemonde.fr/2012/05/07/10-astuces-natures-pour-soigner-sa-gueule-de-bois/" title="10 astuces pour soigner sa gueule de bois" target="_blank">10 astuce pour soigner sa gueule de bois</a>
+<a class="arrow" href="https://alternatives.blog.lemonde.fr/2012/05/07/10-astuces-natures-pour-soigner-sa-gueule-de-bois/" title="10 astuces pour soigner sa gueule de bois" target="_blank">10 astuce pour soigner sa gueule de bois</a>

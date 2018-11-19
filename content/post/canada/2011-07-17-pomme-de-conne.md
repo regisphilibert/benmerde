@@ -20,4 +20,4 @@ Faut toujours que cette conne me construise un truc dégueulasse devant ce qui l
 
 Depuis le pont de Brooklyn, on voit plus le [Woolworth Building][1] !
 
- [1]: http://fr.wikipedia.org/wiki/Woolworth_Building
+ [1]: https://fr.wikipedia.org/wiki/Woolworth_Building

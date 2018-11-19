@@ -20,4 +20,4 @@ une loi&#8230;
 
 interdiction des escaliers ou perte de citoyenneté des voleurs à la tir (ayant eu recours aux escaliers) ?
 
- [1]: http://fr.news.yahoo.com/3/20101228/tfr-paris-vol-agression-deces-56633fe.html
+ [1]: https://fr.news.yahoo.com/3/20101228/tfr-paris-vol-agression-deces-56633fe.html

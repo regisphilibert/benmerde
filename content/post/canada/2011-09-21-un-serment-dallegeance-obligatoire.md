@@ -26,4 +26,4 @@ Remettons leur un peu d&rsquo;éducation civique, arrêtons de les élever dans 
 
 En attendant, [Jean-François][1], ben juste _ta gueule_, 5 minutes.
 
- [1]: http://www.lemonde.fr/politique/article/2011/09/21/le-serment-d-allegeance-aux-armes-suscite-de-nombreuses-reserves_1575173_823448.html#ens_id=1508557
+ [1]: https://www.lemonde.fr/politique/article/2011/09/21/le-serment-d-allegeance-aux-armes-suscite-de-nombreuses-reserves_1575173_823448.html#ens_id=1508557

@@ -24,4 +24,4 @@ Tant qu&rsquo;on pouvait encore baiser sa soeur&#8230;
 
 [news de geeks][1]
 
- [1]: http://www.maxisciences.com/cannibalisme/cannibalisme-une-pratique-courante-dans-l-europe-paleolithique_art9014.html
+ [1]: https://www.maxisciences.com/cannibalisme/cannibalisme-une-pratique-courante-dans-l-europe-paleolithique_art9014.html

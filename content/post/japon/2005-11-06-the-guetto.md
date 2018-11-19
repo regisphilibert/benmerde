@@ -34,4 +34,4 @@ Un café aux amandes avec du lait, un capuccino avec du sirop MONIN amande quoi&
 
 Denny&rsquo;s, c&rsquo;est leur faux resto américain, où ils servent dans des boxes américains, de la bouffe japonaise. C&rsquo;est sympa, mais Marie n&rsquo;aime pas les pâtes au Tarama avec des chtitles algues dessus. Marie est difficile. Voilà, tout ça pour dire que la journée a pas été hyper chargée, mais demain fait beau, on file à Yokohama&#8230;
 
- [1]: http://benmerde.loc/2005/09/experience-sociale/ "Expérience Sociale"
+ [1]: https://benmerde.loc/2005/09/experience-sociale/ "Expérience Sociale"

@@ -19,4 +19,4 @@ D&rsquo;un autre côté avec « le port de signes ou tenues par lesquels les é
 
 [Le Monde &#8211; Bigbrowser][1]
 
- [1]: http://bigbrowser.blog.lemonde.fr/2015/04/28/une-robe-trop-longue-peut-elle-etre-consideree-comme-une-atteinte-a-la-laicite/
+ [1]: https://bigbrowser.blog.lemonde.fr/2015/04/28/une-robe-trop-longue-peut-elle-etre-consideree-comme-une-atteinte-a-la-laicite/

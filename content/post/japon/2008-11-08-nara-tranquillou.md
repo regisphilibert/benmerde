@@ -16,9 +16,8 @@ locations:
   - Tokyo
 
 ---
-<p style="text-align: center;">
-  <a href="http://img171.imageshack.us/img171/8/img0250ml2.jpg"><img class="aligncenter" src="http://img171.imageshack.us/img171/8/img0250ml2.jpg" alt="" width="587" height="783" /></a>
-</p>
+
+{{< figure src ="IMG_0250.jpeg" >}}Dessin du jour{{< /figure >}}
 
 08:00 et toujours pas de lumière du jour : c&rsquo;est pas pas le Japon ! C&rsquo;est un love hôtel qui cache la fenêtre derrière un gros placard.
 
@@ -36,6 +35,6 @@ Ca c&rsquo;était le matin, mais l&rsquo;après-midi, on est arrivé à Nara ! N
   
 Surtout quand les magasins les vendent en ballons, en peluches, en bois, en plastiques, en gratte dos, en tirelire&#8230; 
 
-Sinon malheureusement trop peu de temps de jour pour faire grand chose mais on a quand même pu voir, in extremis (les portes se sont refermé presque derrière nous) le grand boudha ! Alors c&rsquo;est pas le plus grand <a title="Daibutstu" href="http://fr.wikipedia.org/wiki/Daibutsu" target="_blank">Daibutsu</a> du monde, loin de là, mais il est abrité par la plus grand construction en bois du monde, c&rsquo;est déjà pas mal. Voilà, on avait pas Wikipedia lors des dessins du jour, mais maintenant qu&rsquo;on l&rsquo;a,  on rectifie.
+Sinon malheureusement trop peu de temps de jour pour faire grand chose mais on a quand même pu voir, in extremis (les portes se sont refermé presque derrière nous) le grand boudha ! Alors c&rsquo;est pas le plus grand <a title="Daibutstu" href="https://fr.wikipedia.org/wiki/Daibutsu" target="_blank">Daibutsu</a> du monde, loin de là, mais il est abrité par la plus grand construction en bois du monde, c&rsquo;est déjà pas mal. Voilà, on avait pas Wikipedia lors des dessins du jour, mais maintenant qu&rsquo;on l&rsquo;a,  on rectifie.
 
- [1]: http:// "NIjojo"
+ [1]: https:// "NIjojo"

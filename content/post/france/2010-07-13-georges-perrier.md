@@ -27,4 +27,4 @@ Encore un grand débile, merci Lyon.
 
 [Georges au sommet de sa gloire, perché.][1]
 
- [1]: http://www.dailymotion.com/video/x45ozq_strip-tease-georges-perrier-restaur_fun
+ [1]: https://www.dailymotion.com/video/x45ozq_strip-tease-georges-perrier-restaur_fun

@@ -28,4 +28,4 @@ Et quand tous les journalistes le reprennent pour souligner son « esprit », 
 
 &mdash; Oui, il est très drôle François Hollande.
 
-<a class="arrow" href="http://www.publicsenat.fr/lcp/politique/quand-sarkozy-bel-hollande-parlent-enfants-265099" title="Petite Blague Présidentielle" target="_blank">ici la première des petites blagues</a>
+<a class="arrow" href="https://www.publicsenat.fr/lcp/politique/quand-sarkozy-bel-hollande-parlent-enfants-265099" title="Petite Blague Présidentielle" target="_blank">ici la première des petites blagues</a>

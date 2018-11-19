@@ -37,7 +37,7 @@ C&rsquo;est vrai que c&rsquo;est quand même très con de nommer les ouragans av
 
 C&rsquo;est le 13eme depuis le début de l&rsquo;année&#8230;
 
-Par contre les prémisses sont pas mal hein, c&rsquo;est comme si on se baladait en permanence avec une <a title="Oshibori" href="http://fr.wikipedia.org/wiki/Oshibori" target="_blank">Oshibori</a> sur la tête&#8230; mais qui serait juste tiède. Je pense qu&rsquo;avec un peu de patience je pourrais décoller les enveloppes de mes colocs qui s&rsquo;amoncellent dans l&rsquo;entrée comme de minuscules tatamis.
+Par contre les prémisses sont pas mal hein, c&rsquo;est comme si on se baladait en permanence avec une <a title="Oshibori" href="https://fr.wikipedia.org/wiki/Oshibori" target="_blank">Oshibori</a> sur la tête&#8230; mais qui serait juste tiède. Je pense qu&rsquo;avec un peu de patience je pourrais décoller les enveloppes de mes colocs qui s&rsquo;amoncellent dans l&rsquo;entrée comme de minuscules tatamis.
   
 (J&rsquo;attends encore trois jours et j&rsquo;appelle la PORISU, ça sent vraisemblablement juste la bouffe oubliée, mais on sait qu&rsquo;entre l&rsquo;odeur de la bouffe asiat oubliée et celle d&rsquo;un cadavre, y a juste un oignon, alors je me méfie)
 

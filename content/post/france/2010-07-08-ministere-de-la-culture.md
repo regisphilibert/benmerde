@@ -16,4 +16,4 @@ locations:
 ---
 Non mais c&rsquo;est une blague ? Elle est en 4e la gamine qu&rsquo;a pondu ce site ? C&rsquo;est pas elle qui gère Hadopi dites-moi ?
 
-<a href="http://franceterme.culture.fr/FranceTerme/" target="_blank">FranceTerme.culure.fr</a>
+<a href="https://franceterme.culture.fr/FranceTerme/" target="_blank">FranceTerme.culure.fr</a>

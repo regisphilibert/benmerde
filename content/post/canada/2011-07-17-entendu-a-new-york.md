@@ -24,4 +24,4 @@ Sasha, I don&rsquo;t want you whining. It&rsquo;s unattractive.
 
 En dédicace à [@entenduensoiree][1]
 
- [1]: http://twitter.com/entenduensoiree
+ [1]: https://twitter.com/entenduensoiree

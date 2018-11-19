@@ -22,4 +22,4 @@ Viens de découvrir sur Wikipedia que Kadhafi, c&rsquo;est le seul con qui signe
 [gros nez va !][2]
 
  [1]: {{< aws >}}/uploads/2010/02/p_227_171_27064C89-AB57-4ED6-8EFD-120B9038F278.jpeg
- [2]: http://en.wikipedia.org/wiki/File:Muammar_al-Gaddafi_Signature.svg
+ [2]: https://en.wikipedia.org/wiki/File:Muammar_al-Gaddafi_Signature.svg

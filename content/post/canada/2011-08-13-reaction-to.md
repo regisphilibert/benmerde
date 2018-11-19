@@ -14,6 +14,6 @@ locations:
   - Montréal
 
 ---
-<a target="blank" href="http://fr-ca.actualites.yahoo.com/médecine-une-femme-défigurée-par-un-singe-retrouve-133406789.html">Charla Nash !</a>
+<a target="blank" href="https://fr-ca.actualites.yahoo.com/médecine-une-femme-défigurée-par-un-singe-retrouve-133406789.html">Charla Nash !</a>
 
 J&rsquo;attends qu&rsquo;elle poste sur youtube sa **Reaction to « Rise of Planet of the Apes »**

@@ -44,5 +44,5 @@ Il nous reste quelques jours, je vais tenter de profiter en béquilles. Surtout 
 
 [<img src="{{< aws >}}/uploads/2014/07/20140727-111613-40573981.jpg" alt="20140727-111613-40573981.jpg" class="alignnone size-full" />][2]
 
- [1]: http://benmerde.loc/2005/09/mon-pied/
+ [1]: https://benmerde.loc/2005/09/mon-pied/
  [2]: {{< aws >}}/uploads/2014/07/20140727-111613-40573981.jpg

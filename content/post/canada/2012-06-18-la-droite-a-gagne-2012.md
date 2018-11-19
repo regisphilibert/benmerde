@@ -22,7 +22,7 @@ Bref, c&rsquo;est choisir ses valeurs, sacrifier la politique au bon sens, faire
   
 Bref c&rsquo;est enfin aboutir à ça :
   
-<a class="arrow" target="_blank" href="http://www.lemonde.fr/politique/article/2012/06/18/hecatombe-electorale-pour-la-droite-populaire_1720438_823448.html">Hécatombe éléctorale pour la Droite populaire</a>
+<a class="arrow" target="_blank" href="https://www.lemonde.fr/politique/article/2012/06/18/hecatombe-electorale-pour-la-droite-populaire_1720438_823448.html">Hécatombe éléctorale pour la Droite populaire</a>
 
 Ne feront pas partie de l&rsquo;opposition:
 
@@ -68,5 +68,5 @@ Georges Mothron
   
 Patrick Beaudouin.
 
- [1]: http://fr.wikipedia.org/wiki/Grand_Gourou "Grand Gourou"
- [2]: http://fr.wikipedia.org/wiki/Petit_Gourou "Petit Gourou"
+ [1]: https://fr.wikipedia.org/wiki/Grand_Gourou "Grand Gourou"
+ [2]: https://fr.wikipedia.org/wiki/Petit_Gourou "Petit Gourou"

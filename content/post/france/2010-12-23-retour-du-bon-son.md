@@ -16,4 +16,4 @@ locations:
 ---
 [gangsta rap is not dead !][1]
 
- [1]: http://www.rollingstone.com/music/news/new-orleans-rapper-magnolia-shorty-murdered-20101221
+ [1]: https://www.rollingstone.com/music/news/new-orleans-rapper-magnolia-shorty-murdered-20101221

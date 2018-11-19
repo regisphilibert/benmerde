@@ -18,13 +18,13 @@ locations:
 ---
 Alors d&rsquo;abord un BON ANNIVERSAIRE à mon cousin Raphnou, je lui dédis ce merveilleux article.
 
-Alors si j&rsquo;ai pas fait beaucoup d&rsquo;articles sur les quartiers de Tokyo c&rsquo;est que la plupart ont déjà été couverts il y a trois ans et surtout par la plupart des blogs de voyage nazbroques où Caroline et Jean-Sé, très attachés à leur rôle de touristes instruits, se font un devoir que de filmer le croisement de Shibuya pour le faire découvrir au monde&#8230; (<a title="Original" href="http://fr.youtube.com/results?search_type=&search_query=shibuya+crossing&aq=f" target="_blank">s&rsquo;il y en a qu&rsquo;on jamais vu&#8230;</a>)
+Alors si j&rsquo;ai pas fait beaucoup d&rsquo;articles sur les quartiers de Tokyo c&rsquo;est que la plupart ont déjà été couverts il y a trois ans et surtout par la plupart des blogs de voyage nazbroques où Caroline et Jean-Sé, très attachés à leur rôle de touristes instruits, se font un devoir que de filmer le croisement de Shibuya pour le faire découvrir au monde&#8230; (<a title="Original" href="https://fr.youtube.com/results?search_type=&search_query=shibuya+crossing&aq=f" target="_blank">s&rsquo;il y en a qu&rsquo;on jamais vu&#8230;</a>)
 
 Par contre, il y a des tas de quartiers moins connus de Tokyo et donc qui méritent ne serait-ce que quelques mots et photos.
 
 TAKADANOBABA !
 
-Alors lui il est surtout connu pour sa proximité avec deux grosses universités (<a title="Waseda" href="http://fr.wikipedia.org/wiki/Université_Waseda" target="_blank">Waseda</a> et <a title="Gakushuin" href="http://fr.wikipedia.org/wiki/Gakushuin" target="_blank">Gakushuin</a>) ce qui en fait un coin bourrés d&rsquo;étudiants bourrés. Mais c&rsquo;est pas ce qui m&rsquo;éclate moi !
+Alors lui il est surtout connu pour sa proximité avec deux grosses universités (<a title="Waseda" href="https://fr.wikipedia.org/wiki/Université_Waseda" target="_blank">Waseda</a> et <a title="Gakushuin" href="https://fr.wikipedia.org/wiki/Gakushuin" target="_blank">Gakushuin</a>) ce qui en fait un coin bourrés d&rsquo;étudiants bourrés. Mais c&rsquo;est pas ce qui m&rsquo;éclate moi !
   
 Moi ce qui m&rsquo;éclate c&rsquo;est ça : [audio:takadanobaba.mp3]
 
@@ -38,7 +38,7 @@ L&rsquo;histoire c&rsquo;est que Astro Boy serait né en l&rsquo;an 2003 (Blade 
   <a href="{{< aws >}}/uploads/img_3300.jpg" target="_blank"><img class="aligncenter size-full wp-image-409" title="fresque" src="{{< aws >}}/uploads/fresque.jpg" alt="" width="500" height="301" /></a>
 </p>
 
-Alors ce Pinochio Japono et son <a title="Osamu Tezuka" href="http://fr.wikipedia.org/wiki/Osamu_Tezuka" target="_blank">créateur</a> sont assez présents  vers la station de Baba (son petit nom pour les locaux). Y a des fresques à la sortie et quelques références discrètes.
+Alors ce Pinochio Japono et son <a title="Osamu Tezuka" href="https://fr.wikipedia.org/wiki/Osamu_Tezuka" target="_blank">créateur</a> sont assez présents  vers la station de Baba (son petit nom pour les locaux). Y a des fresques à la sortie et quelques références discrètes.
 
 [][1]
 

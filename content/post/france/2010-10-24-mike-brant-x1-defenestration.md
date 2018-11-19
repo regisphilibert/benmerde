@@ -18,4 +18,4 @@ locations:
 
 ndr : cette hendéca-défenestration s&rsquo;est passé à La Verrière&#8230; ça aussi c&rsquo;est drôle.
 
- [1]: http://www.lemonde.fr/societe/article/2010/10/23/onze-personnes-blessees-apres-avoir-saute-d-un-immeuble-de-la-verrieres_1430141_3224.html
+ [1]: https://www.lemonde.fr/societe/article/2010/10/23/onze-personnes-blessees-apres-avoir-saute-d-un-immeuble-de-la-verrieres_1430141_3224.html

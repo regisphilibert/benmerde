@@ -31,4 +31,4 @@ locations:
   1 chance sur 100 de choper un mail dans l&rsquo;année.
 </p>
 
-<a href="http://www.lemonde.fr/technologies/article/2010/06/28/la-hadopi-est-techniquement-prete_1380152_651865.html" target="_blank">oh ben ça va</a>
+<a href="https://www.lemonde.fr/technologies/article/2010/06/28/la-hadopi-est-techniquement-prete_1380152_651865.html" target="_blank">oh ben ça va</a>

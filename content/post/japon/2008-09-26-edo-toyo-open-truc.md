@@ -43,7 +43,7 @@ Faut juste m&rsquo;imaginer tout énervé contre Japan Rail qui avait deux stati
   </p>
 </div>
 
-Donc, c&rsquo;est plein de vieux bâtiment <a title="Meiji" href="http://fr.wikipedia.org/wiki/Ère_Meiji" target="_blank">Meiji</a> et post-<a title="Meiji" href="http://fr.wikipedia.org/wiki/Ère_Meiji" target="_blank">Meiji</a> pas tout vieux mais vieux quand même. On peut rentrer dans chaque maison, magasin, bains et tramway aussi !
+Donc, c&rsquo;est plein de vieux bâtiment <a title="Meiji" href="https://fr.wikipedia.org/wiki/Ère_Meiji" target="_blank">Meiji</a> et post-<a title="Meiji" href="https://fr.wikipedia.org/wiki/Ère_Meiji" target="_blank">Meiji</a> pas tout vieux mais vieux quand même. On peut rentrer dans chaque maison, magasin, bains et tramway aussi !
 
 C&rsquo;était blindé de gamins courant partout, j&rsquo;ai dû enlever mes pompes une bonne vingtaines de fois, au milieu d&rsquo;enfants jetant leur godasses tout près des miennes, mais j&rsquo;ai vraiment apprécié.
 

@@ -20,4 +20,4 @@ Ou plutôt le seul homme qui faisait encore parler du PS est mort.
 
 [Aïe Aïe.][1]
 
- [1]: http://www.lemonde.fr/carnet/article/2010/10/24/georges-freche-est-mort_1430655_3382.html#ens_id=1430654
+ [1]: https://www.lemonde.fr/carnet/article/2010/10/24/georges-freche-est-mort_1430655_3382.html#ens_id=1430654

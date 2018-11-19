@@ -8,7 +8,7 @@ draft: false
 url: /2005/10/triston-is-out/
 enclosure:
   - |
-    http://benmerde.loc/wp-content{{< aws >}}/uploads/2012/09/laposte.mp4
+    https://benmerde.loc/wp-content{{< aws >}}/uploads/2012/09/laposte.mp4
     2325242
     video/mp4
     

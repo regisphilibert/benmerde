@@ -18,14 +18,14 @@ locations:
 ---
 Ensuite, mon frère ! On a moins baroudé, donc moins de photos&#8230;
 
-Deux références canadiennes se sont glissées dans cette gallérie (et des photos floues aussi*). En voilà quelques-unes et la suite sur <a href="http://www.flickr.com/photos/26077380@N07/sets/72157632111415232/" target="_blank"><span class="flickr-blue">flick</span><span class="flickr-pink">r</span></a>.
+Deux références canadiennes se sont glissées dans cette gallérie (et des photos floues aussi*). En voilà quelques-unes et la suite sur <a href="https://www.flickr.com/photos/26077380@N07/sets/72157632111415232/" target="_blank"><span class="flickr-blue">flick</span><span class="flickr-pink">r</span></a>.
 
 <div class="gallery-container">
   <div class="gallery">
     <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/11/IMG_8447-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/11/IMG_8449-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/11/IMG_8505-650x487.jpg" alt="" /> </figure> <figure class="image-frame landscape"> <img src="{{< aws >}}/uploads/2012/11/IMG_8480-650x487.jpg" alt="" /> </figure> 
     
     <div class="image-frame portrait more-pictures">
-      <a target="_blank" href="http://www.flickr.com/photos/26077380@N07/sets/72157632111415232/">[31 autres sur <span class="flickr-blue">flick</span><span class="flickr-pink">r</span>]</a>
+      <a target="_blank" href="https://www.flickr.com/photos/26077380@N07/sets/72157632111415232/">[31 autres sur <span class="flickr-blue">flick</span><span class="flickr-pink">r</span>]</a>
     </div>
   </div>
 </div>

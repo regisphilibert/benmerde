@@ -40,7 +40,7 @@ BUBBA GUMP ! 
 
 Trève de rigolade hein, c&rsquo;est une chaîne de restaurant incontournable, qui non contente de célébrer gaiement l&rsquo;immortalité du Dieu des ramolos, Forrest Gump, sert les meilleurs plats aux crevettes de tout le littoral ! C&rsquo;est donc un passage obligé pour quiconque visite une ville (31) ou un pays (7) possedant un Bubba Gump. Et Tokyo est la seule ville du monde a en avoir DEUX ! Ah ma chééérie ! 
 
-Sinon comme expliqué plus haut, Mariane a acheté un <a title="Oh qu'il est beau !" href="http://www.gatzet.com/WordPress/wp-content{{< aws >}}/uploads/2008/02/20080204170414670_480x352.jpg" target="_blank">appareil photo</a> pour pouvoir documenter les qualités physiques et aventurières de son bien-aimé ! Elle documentera aussi sûrement les faits et gestes bien rigolos de ses contemporains nippons qui je cite « sont relouds à l&rsquo;ouvrir à chaque fois qu&rsquo;ils débarrassent un plat ! »
+Sinon comme expliqué plus haut, Mariane a acheté un <a title="Oh qu'il est beau !" href="https://www.gatzet.com/WordPress/wp-content{{< aws >}}/uploads/2008/02/20080204170414670_480x352.jpg" target="_blank">appareil photo</a> pour pouvoir documenter les qualités physiques et aventurières de son bien-aimé ! Elle documentera aussi sûrement les faits et gestes bien rigolos de ses contemporains nippons qui je cite « sont relouds à l&rsquo;ouvrir à chaque fois qu&rsquo;ils débarrassent un plat ! »
 
 Allez, je rajoute une vidéo puisque ma douce colle des gomettes. Leurs manifs sont toujours funs, même si celle là relève moins des revendications que de la fête de la culture locale&#8230; (Ya quand même eu échauffourée avec les autorités, sûrement un « ON VAUT PLUS QUE LA VOIE DES BUS ! »
 

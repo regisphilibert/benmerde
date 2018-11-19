@@ -20,4 +20,4 @@ Putain cool, on flippait.
 
 [par ici pour la news de merde][1]
 
- [1]: http://www.lefigaro.fr/sante/2010/04/12/01004-20100412ARTFIG00373-le-dogme-de-cinq-fruits-et-legumes-par-jour-ecorne-.php
+ [1]: https://www.lefigaro.fr/sante/2010/04/12/01004-20100412ARTFIG00373-le-dogme-de-cinq-fruits-et-legumes-par-jour-ecorne-.php

@@ -21,4 +21,4 @@ Libé a eu la bonne idée de diffuser l&rsquo;intégralité de l&rsquo;enregistr
 
 Il est détestable, nous le rendez pas agréable avec ses rares moments de bon sens !
 
-<a target="blank" href="http://www.liberation.fr/politiques/06012715-il-semblerait-que-vous-soyez-pedophile-ce-qu-a-vraiment-dit-nicolas-sarkozy">media de merde</a>
+<a target="blank" href="https://www.liberation.fr/politiques/06012715-il-semblerait-que-vous-soyez-pedophile-ce-qu-a-vraiment-dit-nicolas-sarkozy">media de merde</a>
