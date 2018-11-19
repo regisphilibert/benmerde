@@ -1,0 +1,15 @@
+{{ $medias := (.GetPage "medias").Resources }}
+{{ with .Params.gallery }}
+<div class="gallery-container">
+	<div class="gallery">
+	  	{{ range . }}
+	  		{{ with $medias.GetMatch (strings.TrimPrefix "/medias/" . ) }}
+	  			{{ $orientation := cond (ge .Width .Height) "landscape" "portrait" }}
+	  			<figure class="image-frame {{ $orientation }}">
+	  				<img src="{{ (.Resize "1000x").Permalink }}" alt="">
+	  			</figure>
+	  		{{ end }}
+	  	{{ end }}
+	</div>
+</div>
+{{ end }}

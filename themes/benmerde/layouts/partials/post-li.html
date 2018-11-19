@@ -34,6 +34,9 @@
                     <div class="mobile-block tablet-block bm-Entry__thumb"><img src="{{ (.Resize "500x").Permalink }}" alt=""></div>
                 {{ end }}
                 {{ .Content }}
+                {{ with .Params.gallery }}
+                    {{ partial "gallery" $ }}
+                {{ end }}
             </div>
         </div>
     </div>

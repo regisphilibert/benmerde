@@ -1,7 +1,16 @@
 {{- $src := .Get "src" -}}
-<div class="bm-Media -wide">
-	<img src="{{ $src }}" alt="">
-	<figcaption>
-		{{ .Inner }}
-	</figcaption>
-</div>
+{{ $imageResource := (.Site.GetPage "medias").Resources.GetMatch (strings.TrimPrefix "/medias/" $src ) }}
+{{- $wide := ne "" (.Get "wide") -}}
+{{ with $imageResource }}
+	<div class="bm-Media{{ with $wide }} -wide{{ end }}">
+		<picture>
+			{{ range $width, $size := $.Site.Params.imagesizes }}
+				<source srcset="{{ ($imageResource.Resize (printf "%sx" $width)).Permalink }}" media="media='(max-width: {{ $width }}px)'">
+			{{ end }}
+			<img src="{{ ($imageResource.Resize "1000x").Permalink }}" alt="{{ $.Inner }}">
+		</picture>
+		<figcaption>
+			{{ $.Inner }}
+		</figcaption>
+	</div>
+{{ end }}

@@ -21,6 +21,10 @@ params:
     vars: ["title", "type", "summary", "permalink", "relpermalink", "area", "humanDate"]
     params: ["locations", "categories"]
 
+  imagesizes:
+    '500': small
+    '750': medium
+
 taxonomies:
   tag: tags
   location: locations
