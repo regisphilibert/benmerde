@@ -25,9 +25,9 @@ sections:
   match: "**/*"
   templates:
   - post
-upload_dir: static/uploads
-public_path: "/uploads"
+upload_dir: content/medias
+public_path: "/medias"
 front_matter_path: ''
 use_front_matter_path: false
-file_template: ":year:/:month:/:day:/:filename:"
+file_template: ":filename:"
 version: '0.51'
