@@ -12,14 +12,14 @@ sections:
   templates:
   - post
 - type: directory
-  path: content/canada
+  path: content/post/canada
   label: Canada
   create: documents
   match: "**/*"
   templates:
   - post
 - type: directory
-  path: content/usa
+  path: content/post/usa
   label: USA
   create: documents
   match: "**/*"
