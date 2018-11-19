@@ -3,6 +3,9 @@ title: Yeah fun!
 date: 2018-11-19 08:49:55 -0500
 locations: []
 gallery:
+- "/medias/image-2.jpg"
+- "/medias/image-1.jpg"
+- "/medias/image.jpg"
 - "/medias/FD648D05-2A71-45FA-9519-A59FF27270C7.jpeg"
 - "/medias/6AE19C84-B43E-415B-A69C-273DCF88FDFA.jpeg"
 - "/medias/32CD60FA-8C79-4B0E-8778-15BA3EFC8C31.jpeg"
