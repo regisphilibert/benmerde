@@ -12,23 +12,22 @@ tags:
   - projet 204
 events:
   - Projet 204
+  - MarieTokyo 2
 residency:
   - Japon
 locations:
   - Tokyo
 
 ---
-<p style="padding-left: 90px;">
-  <strong>Cécile</strong><br /> <em>En commentaire à Désolé, 2008/10/29 à 19:57<br /> <span style="font-style: normal;">-mais y fait quoi comme temps dans votre pays?? c’est très surprenant de vous voir en bermuda et birkenstock..-</span></em>
-</p>
+
+<blockquote>
+  <strong>Cécile</strong><br />
+  <em>En commentaire à Désolé, 2008/10/29 à 19:57</em><br /> - mais y fait quoi comme temps dans votre pays? c’est très surprenant de vous voir en bermuda et birkenstock..
+</blockquote>
 
 Cher lectrice, je vais vous répondre&#8230;
 
-<p style="text-align: left;">
-  <strong><a href="{{< aws >}}/uploads/img_1544.jpg"><img class="alignright size-medium wp-image-481" title="img_1544" src="{{< aws >}}/uploads/img_1544-243x300.jpg" alt="" width="243" height="300" /></a></strong>
-</p>
-
-[][1]
+{{< figure remote="img_1544.jpg" />}}
 
 Ici, entre 10h et 15h il fait assez chaud tant qu&rsquo;il y a du soleil.
   
@@ -46,13 +45,8 @@ Mais j&rsquo;ai préféré repartir, emmenant ma cousine sous le bras avec la pr
 
 Sinon qu&rsquo;est-ce qu&rsquo;on a fait ces jours où rien, absolument rien, n&rsquo;a paru sur le Belogue ? Disons qu&rsquo;entre Disney et des magasins, on est allé à Enoshima. C&rsquo;est une île au sud de la baie de Tokyo que l&rsquo;on peut comparer à Pérouge, la petite balade des Tokyonos qui amuse le week-end. C&rsquo;est relié au continent par un pont qu&rsquo;on peut facilement traverser à pied, et ensuite on crapahute dans les collines qui constituent l&rsquo;île et on visite ses temples. L&rsquo;attraction phare, c&rsquo;est de prendre un ticket à 350Y pour l&rsquo; ESKARA ou plutôt l&rsquo;escalator.
 
-<div id="attachment_482" class="wp-caption alignleft" style="max-width: 210px">
-  <a href="{{< aws >}}/uploads/img_4167.jpg"><img class="size-medium wp-image-482 " title="img_4167" src="{{< aws >}}/uploads/img_4167-300x225.jpg" alt="Vraiment typique." width="210" height="158" /></a>
-  
-  <p class="wp-caption-text">
-    Vraiment typique.
-  </p>
-</div>
+{{< figure remote="img_4167.jpg" >}}Vraiment typique.{{< /figure >}}
+
 
 Trois escalators creusés dans la roche, enfin posés dessus, permettent de monter tout en haut, sans suer une goutte d&rsquo;aisselle. Puisqu&rsquo;il n&rsquo;y avait pas de T-Shirt : « I Survived ESKARA » pour faire croire qu&rsquo;on l&rsquo;avait fait, ben on a bien dû se résigner. Ensuite on est redescendu (pas de tobogan) et on est allé à Enospa. C&rsquo;est des tas de petites piscines couvertes et chauffées au pied de la montagne. Certaines en extérieure, certaines avec des huiles, une espèce de Onsen/piscine où l&rsquo;on garde son maillot de bain. 
 

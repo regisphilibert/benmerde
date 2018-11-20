@@ -8,6 +8,8 @@ paginate: 10
 disqusShortname: ben-merde
 
 blackfriday:
+  extensions:
+    - hardLineBreak
   hrefTargetBlank: true
 
 outputs:

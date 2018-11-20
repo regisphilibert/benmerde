@@ -12,25 +12,16 @@ tags:
   - projet 204
 events:
   - Projet 204
+  - MarieTokyo 2
 residency:
   - Japon
 locations:
   - Tokyo
 
 ---
- 
+{{< figure remote="img_4537.jpg" >}}Va me manquer !{{< /figure >}}
 
-<div id="attachment_490" class="wp-caption alignright" style="max-width: 288px">
-  <a href="{{< aws >}}/uploads/img_4537.jpg"><img class="size-medium wp-image-490" title="img_4537" src="{{< aws >}}/uploads/img_4537-288x300.jpg" alt="Va me manquer !" width="288" height="300" /></a>
-  
-  <p class="wp-caption-text">
-    Va me manquer !
-  </p>
-</div>
-
-Alors pour la dernière nuit de Marinette Pouette ici, on est allé à Shinjuku. Bibi avait cru comprendre, en voyant les shampouineuses du coiffeur d&rsquo;à côté déguisées respectivement en Soubrette sexy, Infirmière sexy, Policière sexy, et Lycéenne sexy (oui ici on sait pas se déguiser en autre chose qu&rsquo;une traînée) que ce soir, à Tokyo, y aurait du déguisés ! Alors qu&rsquo;à cela ne tienne on a décider de bouffer à Shinjuku et de repérer des rigolos.
-
- 
+Alors pour la dernière nuit de Marinette Pouette ici, on est allé à Shinjuku. Bibi avait cru comprendre, en voyant les shampouineuses du coiffeur d&rsquo;à côté déguisées respectivement en Soubrette sexy, Infirmière sexy, Policière sexy, et Lycéenne sexy (oui ici on sait pas se déguiser en autre chose qu&rsquo;une traînée) que ce soir, à Tokyo, y aurait du déguisés ! Alors qu&rsquo;à cela ne tienne on a décider de bouffer à Shinjuku et de repérer des rigolos. 
 
 Finalement, si les coiffeurs font l&rsquo;éffort, à Shinjuku, des déguisements, on en a vue 4 et des minables. Pourtant dans les magasins on a vu plein de trucs rigolo pour l&rsquo;occasion. 
 

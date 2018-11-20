@@ -12,6 +12,7 @@ tags:
   - projet 204
 events:
   - Projet 204
+  - MarieTokyo 2
 residency:
   - Japon
 locations:

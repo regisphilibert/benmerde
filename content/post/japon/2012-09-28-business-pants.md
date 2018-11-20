@@ -14,6 +14,8 @@ tags:
 format: image
 residency:
   - Japon
+events:
+  - Projet 201
 locations:
   - Tokyo
 

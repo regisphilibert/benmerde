@@ -4,7 +4,7 @@ wp_id: 521
 author: philibert
 type: post
 date: 2008-11-05T17:00:45+00:00
-draft: false
+draft: true
 url: /2008/11/sushimasen/
 categories:
   - Non classé

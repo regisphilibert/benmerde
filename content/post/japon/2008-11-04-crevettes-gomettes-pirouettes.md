@@ -31,15 +31,9 @@ Et a acheté des gommettes :) Bon j&rsquo;étaye :
 
 Mariane a bien compris qu&rsquo;elle ne s&rsquo;était pas tapé 12 heures d&rsquo;avion sur un DC10 Lufthansa pour voir le Japon, mais bien pour voir le Projet 204 ! C&rsquo;est donc plein d&rsquo;entrain qu&rsquo;elle s&rsquo;est pliée aux règles indispensables d&rsquo;une telle entreprise. 
 
-BUBBA GUMP ! 
+BUBBA GUMP !
 
-<div id="attachment_509" class="wp-caption alignright" style="max-width: 300px">
-  <a href="{{< aws >}}/uploads/img_4616.jpg" target="_blank"><img class="size-medium wp-image-509 " title="img_4616" src="{{< aws >}}/uploads/img_4616-300x225.jpg" alt="non, là c'est pas des crevettes." width="300" height="225" /></a>
-  
-  <p class="wp-caption-text">
-    Non, là c'est pas des crevettes...
-  </p>
-</div>
+{{< figure remote="img_4616.jpg" >}}Non, là c'est pas des crevettes...{{< /figure >}}
 
 Trève de rigolade hein, c&rsquo;est une chaîne de restaurant incontournable, qui non contente de célébrer gaiement l&rsquo;immortalité du Dieu des ramolos, Forrest Gump, sert les meilleurs plats aux crevettes de tout le littoral ! C&rsquo;est donc un passage obligé pour quiconque visite une ville (31) ou un pays (7) possedant un Bubba Gump. Et Tokyo est la seule ville du monde a en avoir DEUX ! Ah ma chééérie ! 
 

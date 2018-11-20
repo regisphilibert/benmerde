@@ -9,9 +9,9 @@ url: /2010/08/admire-espagne/
 categories:
   - ordinaire
 residency:
-  - Japon
+  - France
 locations:
-  - Tokyo
+  - Alicabte
 
 ---
 11h40, l&rsquo;Espagne se réveille.

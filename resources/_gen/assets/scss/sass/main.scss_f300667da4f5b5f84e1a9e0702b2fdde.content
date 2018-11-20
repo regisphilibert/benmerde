@@ -714,6 +714,10 @@ a.bm-Brand {
     .bm-Entry__thumb img {
       max-width: 10000px; } }
 
+@media (min-width: 1170px) {
+  .bm-Entry__meta .sep {
+    display: none; } }
+
 @media (min-width: 1370px) {
   .bm-Entry__thumb {
     position: absolute;
@@ -825,6 +829,14 @@ a.bm-Brand {
     justify-content: space-around; }
   .bm-Widget--areas .flex__item {
     padding: 0 30px; } }
+
+.bm-Widget--menu ul {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0; }
+  .bm-Widget--menu ul ul {
+    font-size: 0.8em;
+    padding-left: 0.5em; }
 
 .bm-Mosaic {
   display: grid;

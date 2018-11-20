@@ -14,6 +14,8 @@ tags:
   - projet 201
 residency:
   - Japon
+events:
+  - Projet 201
 locations:
   - Tokyo
 

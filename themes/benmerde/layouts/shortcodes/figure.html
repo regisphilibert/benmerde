@@ -1,16 +1,27 @@
 {{- $src := .Get "src" -}}
-{{ $imageResource := (.Site.GetPage "medias").Resources.GetMatch (strings.TrimPrefix "/medias/" $src ) }}
+{{- $remote := 0 -}}
+{{- with .Get "remote" -}}
+	{{- $src = . -}}
+	{{- $remote = 1 -}}
+{{- end -}}
 {{- $wide := ne "" (.Get "wide") -}}
-{{ with $imageResource }}
-	<div class="bm-Media{{ with $wide }} -wide{{ end }}">
-		<picture>
-			{{ range $width, $size := $.Site.Params.imagesizes }}
-				<source srcset="{{ ($imageResource.Resize (printf "%sx" $width)).Permalink }}" media="media='(max-width: {{ $width }}px)'">
-			{{ end }}
-			<img src="{{ ($imageResource.Resize "1000x").Permalink }}" alt="{{ $.Inner }}">
-		</picture>
+<div class="bm-Media{{- with $wide -}} -wide{{- end -}}">
+	<picture>
+		{{- if not $remote -}}
+			{{- with (.Site.GetPage "medias").Resources.GetMatch (strings.TrimPrefix "/medias/" $src ) -}}
+				{{- $imageResource := . -}}
+				{{- range $width, $size := $.Site.Params.imagesizes -}}
+					<source srcset="{{- ($imageResource.Resize (printf "%sx" $width)).Permalink -}}" media="media='(max-width: {{- $width -}}px)'">
+				{{- end -}}
+				<img src="{{- ($imageResource.Resize "1000x").Permalink -}}" alt="{{- $.Inner -}}">
+			{{- end -}}
+		{{- else -}}	
+			<img src="{{- $.Site.Params.aws_url -}}/uploads/{{- $src -}}" alt="{{- $.Inner -}}">
+		{{- end -}}
+	</picture>
+	{{- with $.Inner -}}
 		<figcaption>
-			{{ $.Inner }}
+			{{- . -}}
 		</figcaption>
-	</div>
-{{ end }}
+	{{- end -}}
+</div>

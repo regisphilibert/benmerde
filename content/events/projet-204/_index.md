@@ -1,4 +1,11 @@
 ---
 title: Projet 204
+menu:
+  projets:
+    parent: japon
+    identifier: 204
+    weight: 20
 ---
-Trois ans après le Projet 202! On revient au Japon avec le Projet 204! Un nouvelle chambre au Japon donc... (Y ma douce qu'est [venu]({{< ref "/events/japon-tranquilou" >}}))
+Trois ans après le [Projet 202]({{< ref "/events/projet-202" >}}), je reviens au Japon avec le Projet 204! Un nouvelle chambre à Tokyo donc... 
+Y a ma douce qu'est [venue]({{< ref "/events/japon-tranquilou" >}})!
+Y a la cousine qu'est [revenue]({{< ref "/events/marietokyo-2" >}})!

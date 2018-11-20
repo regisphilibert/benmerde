@@ -13,6 +13,8 @@ tags:
   - tokyo2012
 residency:
   - Japon
+events:
+  - Projet 201
 locations:
   - Tokyo
 

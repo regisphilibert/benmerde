@@ -99,6 +99,13 @@
         }
     }
 }
+@media (min-width:$xl){
+    .bm-Entry__meta{
+        .sep{
+            display: none;
+        }
+    }
+}
 @media (min-width:1370px){
     .bm-Entry__thumb{
         position:absolute;

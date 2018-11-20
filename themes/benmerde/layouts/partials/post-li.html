@@ -21,10 +21,11 @@
                     {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
                 </time>
                 {{ with .Params.locations }}
-                    <span class="coord"> à </span>
-                    {{ range . }}
-                        <a href="{{ "/locations/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
-                    {{ end }}
+                    {{ template "tax" (dict "terms" . "slug" "locations") }}
+                {{ end }}
+                <hr>
+                {{ with .Params.events }}
+                    {{ template "tax" (dict "terms" . "slug" "projet") }}
                 {{ end }}
                 {{ with .Scratch.Get "thumb" }}
                     <div class="desktop-block bm-Entry__thumb">
@@ -50,3 +51,10 @@
         </div>
     </div>
 </article>
+
+{{ define "tax" }}
+    {{ $slug := .slug }}
+    {{ range $index, $value := .terms }}
+        {{ if gt $index 0 }}<span class="sep">, </span>{{ end }}<a style="white-space:nowrap" href="{{ printf "/%s/" $slug | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+    {{ end }}
+{{ end }}

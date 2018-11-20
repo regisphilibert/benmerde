@@ -1,0 +1,25 @@
+{{ $menu := .Widget.menu }}
+{{ $currentPage := .Page }}
+<div class="bm-Widget bm-Widget--menu">
+	<h2>{{ default ($menu | humanize) .Widget.title }}</h2>
+	{{ with index $currentPage.Site.Menus $menu }}
+	<ul>
+		{{ range . }}
+			{{ template "item" . }}
+		{{ end }}
+	</ul>
+	{{ end }}
+</div>
+
+{{ define "item" }}
+<li>
+	<a href="{{ .URL }}">{{ .Name }}</a>
+	{{ if .HasChildren }}
+		<ul>
+			{{ range .Children }}
+				{{ template "item" . }}
+			{{ end }}
+		</ul>
+	{{ end }}
+</li>
+{{ end }}

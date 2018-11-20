@@ -12,6 +12,7 @@ tags:
   - projet 202
 events:
   - Projet 202
+  - MarieTokyo
 residency:
   - Japon
 locations:

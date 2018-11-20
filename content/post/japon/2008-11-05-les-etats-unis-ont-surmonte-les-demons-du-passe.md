@@ -50,15 +50,7 @@ Sinon effectivement, j&rsquo;avais bien prévu hier après avoir gavé ma crevet
   
 C&rsquo;est donc rouge de volonté, qu&rsquo;après notre visite du Ghibli Museum (qui se prononce Jibeuly) nous sommes retourné à Toyosu lieu de l&#8217;embarcadère et accessoirement de&#8230; Bubba Gump. Il fallait attendre le bateau 2h&#8230; Alors oui on y est retourné ! Mais croyez pas que j&rsquo;ai dû insister ! On ne résiste pas à Bubba Gump !
 
- 
-
-<div id="attachment_518" class="wp-caption alignright" style="max-width: 210px">
-  <a href="{{< aws >}}/uploads/img_4679.jpg"><img class="size-medium wp-image-518 " title="img_4679" src="{{< aws >}}/uploads/img_4679-300x225.jpg" alt="Pantone ?" width="210" height="158" /></a>
-  
-  <p class="wp-caption-text">
-    Pantone ?
-  </p>
-</div>
+{{< figure remote="img_4679.jpg" >}}Pantone ?{{< /figure >}}
 
 A part ça, le musée Ghibly, Totoro tout ça, c&rsquo;est sympa, mais un coup de badigeon sur la façade soi-disant multicolore (dixit 1984) ça ferait pas de mal Monsieur Miyazaki ! Pour le reste on a rien le droit de dire, mais je l&rsquo;affirme bien haut : C&rsquo;est petit hein.
 
