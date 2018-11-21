@@ -1,5 +1,6 @@
 ---
 title: Le Japon Tranquilou
+area: japon
 menu:
   projets:
     parent: 204

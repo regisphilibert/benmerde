@@ -11,6 +11,8 @@ categories:
   - ordinaire
 residency:
   - USA
+events:
+  - West Coast 2016
 locations:
   - San Francisco
 

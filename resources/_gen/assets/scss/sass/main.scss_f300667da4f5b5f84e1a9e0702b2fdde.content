@@ -820,11 +820,13 @@ a.bm-Brand {
 .bm-Widget--areas .flex__item {
   padding-right: 15px; }
 
+.bm-Widget--areas .grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; }
+
 @media (min-width: 960px) {
   .bm-Widget h2, .bm-Widget .bm-Widget__title {
     margin-top: 0; }
-  .bm-Widget--areas h2, .bm-Widget--areas .bm-Widget__title {
-    display: none; }
   .bm-Widget--areas .flex {
     justify-content: space-around; }
   .bm-Widget--areas .flex__item {
@@ -837,6 +839,10 @@ a.bm-Brand {
   .bm-Widget--menu ul ul {
     font-size: 0.8em;
     padding-left: 0.5em; }
+
+.bm-Widget--menu .bm-Widget__container > ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr; }
 
 .bm-Mosaic {
   display: grid;

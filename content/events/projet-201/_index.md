@@ -1,5 +1,6 @@
 ---
 title: Projet 201
+area: japon
 menu:
   projets:
     identifier: 201

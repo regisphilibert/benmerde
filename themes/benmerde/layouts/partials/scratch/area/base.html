@@ -7,9 +7,18 @@
 {{ if eq .Section "item" }}
 	{{ $s.Set "area" ($.Site.GetPage "/post/japon" ) }}
 {{ end }}
+{{ if eq .Section "events" }}
+	{{ with .Params.area }}
+		{{ $s.Set "area" ($.Site.GetPage (printf "/post/%s" .)) }}
+	{{ end }}
+{{ end }}
 {{ with $s.Get "area" }}
+	{{ $.Scratch.SetInMap "area" "name" .Permalink }}
 	{{ $.Scratch.SetInMap "area" "permalink" .Permalink }}
 	{{ $.Scratch.SetInMap "area" "slogan" .Params.slogan }}
+	{{ with .Params.slogan_past }}
+		{{ $.Scratch.SetInMap "area" "slogan_past" . }}
+	{{ end }}
 	{{ with .Resources.GetMatch "**header*" }}
 	{{ $.Scratch.SetInMap "area" "logo" .Permalink }}
 	{{ end }}

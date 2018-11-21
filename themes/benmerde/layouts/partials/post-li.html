@@ -23,8 +23,8 @@
                 {{ with .Params.locations }}
                     {{ template "tax" (dict "terms" . "slug" "locations") }}
                 {{ end }}
-                <hr>
                 {{ with .Params.events }}
+                    <hr>
                     {{ template "tax" (dict "terms" . "slug" "projet") }}
                 {{ end }}
                 {{ with .Scratch.Get "thumb" }}

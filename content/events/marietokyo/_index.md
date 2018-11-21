@@ -1,5 +1,6 @@
 ---
 title: MarieTokyo
+area: japon
 menu:
   projets:
     parent: 202

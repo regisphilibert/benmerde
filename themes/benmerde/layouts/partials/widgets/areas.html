@@ -1,12 +1,14 @@
 {{ $areas := (slice "canada" "france" "japon" "perou" "usa") }}
 {{ $page := .Page }}
 <div class="bm-Widget bm-Widget--areas">
-	<h2>où ça&nbsp;?</h2>
-	<div class="flex">
+	{{ with .Widget.title }}
+			<h2>{{ . | safeHTML }}</h2>
+	{{ end }}
+	<div class="grid">
 		{{ range $areas }}
 			{{ $area := $page.Site.GetPage "section" (printf "post/%s" .) }}
 			{{ with $area }}
-				<div class="flex__item">
+				<div class="grid__item">
 					<div class="bm-Area">
 						<a href="{{ .Permalink }}" class="bm-Area__title">
 							{{ .Title }}

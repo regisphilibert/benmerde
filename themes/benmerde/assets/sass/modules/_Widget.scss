@@ -35,6 +35,10 @@
 	.flex__item{
 		padding-right:15px;
 	}
+	.grid{
+		display:grid;
+		grid-template-columns: 1fr 1fr;
+	}
 }
 @media (min-width:$desktop){
 	.bm-Widget{
@@ -43,9 +47,6 @@
 		}
 	}
 	.bm-Widget--areas{
-		h2, .bm-Widget__title{
-			display: none;
-		}
 		.flex{
 			justify-content:space-around;
 		}
@@ -64,6 +65,10 @@
 			font-size:0.8em;
 			padding-left:0.5em;
 		}
+	}
+	.bm-Widget__container > ul{
+		display: grid;
+		grid-template-columns:1fr 1fr
 	}
 }
 

@@ -1,5 +1,6 @@
 ---
 title: Gérard et Corine se font Tokyo
+area: japon
 menu:
   projets:
     parent: 204

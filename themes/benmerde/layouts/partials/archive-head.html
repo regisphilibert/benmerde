@@ -1,11 +1,18 @@
 <div class="bm-Top">
 	<div class="bm-container">
 		<div class="bm-grid">
-			<div class="bm-grid__aside"></div>
+			<div class="bm-grid__aside">
+				{{ with .Params.featured }}
+					<img style="max-width:100%;" src="{{ . }}" alt="">
+				{{ end }}
+			</div>
 			<div class="bm-grid__main">
 				{{ with .Data.Term }}
 					<strong>{{ $.Title }}</strong>			
-				{{ end }}				
+				{{ end }}
+				{{ if eq .Type "item" }}
+					<h2 style="margin-top:0;">{{ .Title }}</h2>
+				{{ end }}			
 				{{ with .Content }}
 					<div class="user-edit">{{ . }}</div>
 				{{ else }}

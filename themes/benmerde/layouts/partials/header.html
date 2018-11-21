@@ -10,7 +10,13 @@
 			</div>
 			<div class="bm-grid__main">
 				<h1>{{ lower .Site.Title }}</h1>
-				{{ with index (.Scratch.Get "area") "slogan" }}
+				{{ $slogan_key := "slogan" }}
+				{{ if not .IsHome }}
+					{{ with index (.Scratch.Get "area") "slogan_past" }}
+						{{ $slogan_key = "slogan_past" }}
+					{{ end }}
+				{{ end }}
+				{{ with index (.Scratch.Get "area") $slogan_key }}
 					<h2>{{ . }}</h2>
 				{{ end }}
 			</div>

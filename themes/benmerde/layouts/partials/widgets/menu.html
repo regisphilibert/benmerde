@@ -1,14 +1,16 @@
 {{ $menu := .Widget.menu }}
 {{ $currentPage := .Page }}
 <div class="bm-Widget bm-Widget--menu">
-	<h2>{{ default ($menu | humanize) .Widget.title }}</h2>
-	{{ with index $currentPage.Site.Menus $menu }}
-	<ul>
-		{{ range . }}
-			{{ template "item" . }}
+	<h2>{{ default ($menu | humanize) .Widget.title | safeHTML }}</h2>
+	<div class="bm-Widget__container">
+		{{ with index $currentPage.Site.Menus $menu }}
+		<ul>
+			{{ range . }}
+				{{ template "item" . }}
+			{{ end }}
+		</ul>
 		{{ end }}
-	</ul>
-	{{ end }}
+	</div>
 </div>
 
 {{ define "item" }}
