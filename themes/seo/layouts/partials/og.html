@@ -9,10 +9,6 @@
 	{{- $og.Set "title" (printf "%s | %s" .Title .Site.Title ) -}}
 {{- end -}}
 
-{{ if eq .Kind "taxonomy" }}
-	{{- $og.Set "title" (printf "Archive for %s | %s" .Title .Site.Title) -}}
-{{ end }}
-
 {{- $og.Set "site_name" .Site.Title -}}
 
 {{- $og.Set "twitter_card" (default "summary" .Params.twitter_card) -}}
@@ -30,7 +26,7 @@
 {{- end -}}
 
 {{ with .Params.featured }}
-	{{- $og.Set "image" (. | absURL) -}}
+	{{- $og.Set "image" (partial "image" (dict "page" $ "image" .)) -}}
 {{ end }}
 
 {{- $og.Set "type" "website" -}}

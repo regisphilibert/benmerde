@@ -1,6 +1,7 @@
 ---
 title: Le Japon Tranquilou
 area: japon
+featured: IMG_0203.jpg
 menu:
   projets:
     parent: 204
