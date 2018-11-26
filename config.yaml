@@ -3,7 +3,9 @@ baseURL: https://benmerde.com
 languageCode: fr-fr
 title: Ben Merde
 MetaDataFormat: yaml
-theme: benmerde
+theme: 
+  - benmerde
+  - seo
 paginate: 10
 disqusShortname: ben-merde
 
@@ -21,6 +23,8 @@ params:
   description: je suis au Canada
   facebookid: 137223813025796
   aws_url: https://s3.us-east-2.amazonaws.com/media.benmerde.com
+
+  twitter_handle: benmerde
 
   algolia:
     vars: ["title", "type", "summary", "permalink", "relpermalink", "area", "humanDate"]

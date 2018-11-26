@@ -12,4 +12,5 @@
     {{ $style := resources.Get "sass/main.scss" | toCSS }}
     <link rel="stylesheet" href="{{ $style.Permalink }}">
     <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0"></script>
+    {{ partial "og" . }}
 </head>
