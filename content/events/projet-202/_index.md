@@ -1,6 +1,6 @@
 ---
 title: Projet 202
-featured: 202.gif
+header_featured: 202.gif
 area: japon
 menu:
   projets:
