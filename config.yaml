@@ -48,3 +48,6 @@ outputFormats:
     isPlainText: true
     mediaType: "application/json"
     notAlternative: true
+
+imaging:
+  quality: 90
