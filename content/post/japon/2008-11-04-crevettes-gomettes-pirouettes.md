@@ -40,6 +40,6 @@ Sinon comme expliqué plus haut, Mariane a acheté un <a title="Oh qu'il est bea
 
 Allez, je rajoute une vidéo puisque ma douce colle des gomettes. Leurs manifs sont toujours funs, même si celle là relève moins des revendications que de la fête de la culture locale… (Ya quand même eu échauffourée avec les autorités, sûrement un « ON VAUT PLUS QUE LA VOIE DES BUS ! »
 
-<iframe frameborder="0" width="480" height="270" src="[https://www.dailymotion.com/embed/video/x7ap50](https://www.dailymotion.com/embed/video/x7ap50 "https://www.dailymotion.com/embed/video/x7ap50")" allowfullscreen allow="autoplay"></iframe>
+<iframe frameborder="0" width="480" height="270" src="https://www.dailymotion.com/embed/video/x7ap50" allowfullscreen allow="autoplay"></iframe>
 
 Oui, c’était bien la musique originale, plusieurs écoles défilaient et toutes utilisaient l’hymne Disney : Zip A Di Doo Da !
