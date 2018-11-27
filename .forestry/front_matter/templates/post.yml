@@ -12,5 +12,3 @@ fields:
 - type: image_gallery
   name: gallery
   label: Gallery
-pages:
-- content/post/usa/yeah-fun.md
