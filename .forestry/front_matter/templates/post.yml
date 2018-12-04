@@ -12,3 +12,5 @@ fields:
 - type: image_gallery
   name: gallery
   label: Gallery
+pages:
+- content/post/canada/gilets-jaunes-libres.md
