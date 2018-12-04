@@ -1,7 +1,8 @@
 ---
 title: Gilets Jaunes et carré de soie
 date: 2018-12-04 14:54:56 -0500
-locations: ["Montréal"]
+locations:
+- Montréal
 gallery: []
 
 ---
@@ -19,7 +20,7 @@ On doit donc se méfier de ce genre de regroupement qui parait bien moins sponta
 
 En tête de proue on trouve l'ancien élu UMP Benjamin Cauchy. Il était porte-parole du mouvement avant d'être rejeté par les Gilets Jaunes pour ses affiliations politiques[^1]. Depuis il tente de récupérer le mouvement. D'abord avec le lancement raté d'un parti, les Citrons Jaunes (le language Benjamin, le language !), puis plus heureux avec les Gilets Jaunes « Libres ». 
 
-Benjamin est donc un habitué des cercle politiques et des plateaux télés, tout comme son acolyte Jacline Mouraud !
+Benjamin est donc un habitué des cercles politiques et des plateaux télés, tout comme son acolyte Jacline Mouraud !
 
 La deuxième figure des « libres » c’est la madame très bien coiffée qui agite son doigt sur [YouTube](https://www.youtube.com/watch?v=06pOTxTvnBU). Méfiez-vous de son ton Bourgeoise-Cuisine-TV, elle n'a pas hésité à troquer son carré de soie pour le gilet jaune après avoir voté Macron...
 
