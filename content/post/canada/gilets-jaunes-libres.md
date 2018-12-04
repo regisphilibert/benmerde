@@ -1,7 +1,7 @@
 ---
 title: Gilets Jaunes et carré de soie
 date: 2018-12-04 14:54:56 -0500
-locations: []
+locations: ["Montréal"]
 gallery: []
 
 ---
