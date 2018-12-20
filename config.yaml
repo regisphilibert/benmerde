@@ -6,6 +6,7 @@ MetaDataFormat: yaml
 theme: 
   - benmerde
   - seo
+  - juliette-hugo-component
 paginate: 10
 disqusShortname: ben-merde
 
