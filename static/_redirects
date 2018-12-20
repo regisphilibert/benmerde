@@ -1,2 +1,0 @@
-# Every endpoint redirect to its /index.json
-/api/* /:splat/index.json 200

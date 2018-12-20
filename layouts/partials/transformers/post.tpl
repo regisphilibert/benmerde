@@ -4,4 +4,4 @@
 	{{- with index $.Params $key }}
 		{{- $.Scratch.SetInMap "item" $display . -}}
 	{{- end -}}	
-{{ end }}
+{{- end -}}
