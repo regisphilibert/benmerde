@@ -6,7 +6,6 @@ MetaDataFormat: yaml
 theme: 
   - benmerde
   - seo
-  - juliette-hugo-component
 paginate: 10
 disqusShortname: ben-merde
 
@@ -16,11 +15,11 @@ blackfriday:
   hrefTargetBlank: true
 
 outputs:
-  home: [HTML, RSS, Algolia, redirect_netlify]
-  page: [HTML, JSON]
-  section: [HTML, JSON]
+  home: [HTML, RSS, Algolia]
+  page: [HTML]
+  section: [HTML]
 params:
-  area: canada
+  area: usa
   authorname: John Doe
   description: je suis au Canada
   facebookid: 137223813025796
@@ -35,9 +34,6 @@ params:
   imagesizes:
     '500': small
     '750': medium
-
-  juliette:
-    slug: api/v1
 
 taxonomies:
   location: locations
