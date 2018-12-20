@@ -18,6 +18,7 @@ blackfriday:
 outputs:
   home: [HTML, RSS, Algolia, redirect_netlify]
   page: [HTML, JSON]
+  section: [HTML, JSON]
 params:
   area: canada
   authorname: John Doe
