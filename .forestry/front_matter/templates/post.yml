@@ -13,4 +13,5 @@ fields:
   name: gallery
   label: Gallery
 pages:
+- content/post/usa/allez.md
 - content/post/canada/gilets-jaunes-libres.md
