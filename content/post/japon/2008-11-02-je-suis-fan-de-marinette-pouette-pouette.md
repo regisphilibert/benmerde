@@ -17,8 +17,8 @@ residency:
   - Japon
 locations:
   - Tokyo
-
 --- 
+
 {{< figure remote="img_3620.jpg" >}}ici avec Camilla Parker Bowles{{< /figure >}}
 
 Bon j&rsquo;avais prévenu que le mois « visites » ne serait pas forcément enrichissant pour le blog. J&rsquo;aurais pu monter plus de films avec Marie, on aurait voulu tous les deux, on avait prévu, mais ça voulait aussi dire de longues sessions, bloqué devant l&rsquo;ordi pendant qu&rsquo;elle attendait dans son coin. Et faut bien reconnaître que faire des films, c&rsquo;est toujours plus facile quand on bourlingue pas toute la journée avec sa « copain-comme-cousin.
