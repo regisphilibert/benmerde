@@ -37,4 +37,4 @@ public_path: "/medias"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
-version: '0.51'
+version: '0.53'
