@@ -11,3 +11,7 @@
 
 [context.branch-deploy.environment]
   HUGO_VERSION = "0.50"
+
+[context.nola.environment]
+  HUGO_VERSION = "0.50"
+  command = "hugo -e nola"
