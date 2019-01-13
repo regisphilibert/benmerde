@@ -18,7 +18,6 @@ residency:
   - Japon
 locations:
   - Tokyo
-
 --- 
 
 
