@@ -14,6 +14,8 @@ fields:
 - type: tag_list
   name: locations
   label: locations
+  default:
+  - USA
 - type: tag_list
   name: events
   label: Projets
