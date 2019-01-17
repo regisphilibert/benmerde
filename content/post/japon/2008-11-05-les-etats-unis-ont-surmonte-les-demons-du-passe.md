@@ -18,8 +18,7 @@ residency:
   - Japon
 locations:
   - Tokyo
---- 
-
+---
 
 .
 

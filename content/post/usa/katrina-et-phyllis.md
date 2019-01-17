@@ -1,6 +1,6 @@
 ---
 title: Katrina et Phyllis
-date: 2018-01-21T21:40:32+00:00
+date: 2018-12-21T21:40:32+00:00
 residency:
   - USA
 events:
@@ -11,7 +11,7 @@ locations:
 
 On arrive à la Nouvelle-Orléans assez tard, et dès la sortie du terminal, on passe devant un mur de magasins fermés, pour tomber dans le grand Hall où Spike Lee a interviewé Phyllis Montana.
 
-Il y a deux oeuvres visuelles majeures qui m’on fait découvrir la Nouvelle-Orléans:
+Il y a deux oeuvres visuelles majeures qui m’on fait découvrir la Nouvelle-Orléans :
 Le doc en quatre patrie de Spike Lee, « When The Levees Broke » et la série de David Simon, « Trémé ».
 C’est depuis la deuxième, la fiction donc, diffusée début des années 2010 que je rêve de voir cette ville en vraie. Mais pendant que ce fantasme se concrétisait il y a quelques mois, j’ai décidé de regarder la première, ce doc pleins de néo-orléanais écorchés vifs, qui te parlent de leur vie et de leurs morts, à peine un an après Katrina. Et dans ce doc il y a une témoin assez marquante, tellement marquante que David Simon a voulue l’embauchée pour jouer dans sa série, elle aussi mettant en avant des vies post-Katrina. 
 

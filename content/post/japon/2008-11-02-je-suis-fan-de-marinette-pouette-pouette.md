@@ -17,7 +17,7 @@ residency:
   - Japon
 locations:
   - Tokyo
---- 
+---
 
 {{< figure remote="img_3620.jpg" >}}ici avec Camilla Parker Bowles{{< /figure >}}
 
