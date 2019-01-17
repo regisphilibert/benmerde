@@ -3,6 +3,11 @@ label: Post
 hide_body: false
 is_partial: false
 fields:
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
 - type: text
   name: title
   label: Title
@@ -12,14 +17,11 @@ fields:
 - type: tag_list
   name: events
   label: Projets
+  default:
+  - nola
 - type: image_gallery
   name: gallery
   label: Gallery
-- type: datetime
-  name: date
-  label: Date
-  config:
-    date_format: DD/MM/YYYY
 pages:
 - content/post/canada/gilets-jaunes-libres.md
 - content/post/usa/allez.md
