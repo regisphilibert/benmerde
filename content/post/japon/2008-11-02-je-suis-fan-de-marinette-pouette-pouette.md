@@ -1,5 +1,5 @@
 ---
-title: Je suis Fan de Marinette Pouette Pouette !
+title: Je suis Fan de Marinette Pouette Pouette
 wp_id: 2640
 author: philibert
 type: post
@@ -37,9 +37,9 @@ On peut visiter un pays et en revenir avec les mêmes souvenirs que Jean-Michel 
 
 Et je répondrai fièrement comme elle le feront, je l&rsquo;espère, à ces réminiscences du touriste lambda rencontré en soirée :
   
--- Ah non j&rsquo;ai pas vu ça !
--- Ah ça non plus ! »
--- Par contre je sais comment plier mes courses dans l&rsquo;espace réservé au Japon ! Je sais comment commander ce que je veux dans un troquet au Japon ! Je sais comment trier mes poubelles au Japon ! J&rsquo;ai vu comment fonctionne un hopital ou un grand magasin ou la poste au Japon ! Je connais le coup de la vie au Japon.
+--- Ah non j&rsquo;ai pas vu ça !
+--- Ah ça non plus ! »
+--- Par contre je sais comment plier mes courses dans l&rsquo;espace réservé au Japon ! Je sais comment commander ce que je veux dans un troquet au Japon ! Je sais comment trier mes poubelles au Japon ! J&rsquo;ai vu comment fonctionne un hopital ou un grand magasin ou la poste au Japon ! Je connais le coup de la vie au Japon.
 
 D&rsquo;ailleurs on a pris pas mal de photo plus ou moins sympa, avec souvent nos bouilles&#8230; c&rsquo;est pour la famille. Y a donc un nouveau Roll Marie, le deuxième, le dernier. Il est gros hein, assez gros pour en faire deux sur Facebook.
 

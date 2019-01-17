@@ -9,9 +9,17 @@ fields:
 - type: tag_list
   name: locations
   label: locations
+- type: tag_list
+  name: events
+  label: Projets
 - type: image_gallery
   name: gallery
   label: Gallery
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
 pages:
 - content/post/canada/gilets-jaunes-libres.md
 - content/post/usa/allez.md
