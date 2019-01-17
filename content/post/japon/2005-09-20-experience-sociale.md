@@ -38,4 +38,4 @@ Bref, le graillon du coin. Mais muni de mon Japan Speaking Buddy, je ne craignai
 
 Il parlait aussi bien Anglais que Jackie Sardou mais au moins on pouvait se comprendre, enfin moi. Bref, lui et sa femme on tenté de nous raconter leur vie, avec quelques pauses japonaises traduites par Triston (oui la rubrique des noms et prénoms arrive). Et c&rsquo;était très sympa, on y retournera je pense, on le reverra je pense. Bref, voilà je ne serai pas cynique ce soir, il m&rsquo;a bien plus le Susumu San. (Il va ouvrir un bar le mois prochain qui s&rsquo;appelera THE GHETTO, rapport à un bar qui lui plaisait bien à San Fransisco&#8230; L&rsquo;imagerie, ce sera des Cochons qui boivent de la bière, OUAIS ! GENIAL SUSUMU) On va lui ramener quelques Gaijin, pas à Susumu, juste au patron du rad, et à Susumu quand il aura SON rad.
 
-Ah j&rsquo;ai mis en ligne une archive des objets du jour. Me disant si y en a qu&rsquo;en on raté. Donc voilà.
+Ah j&rsquo;ai mis en ligne une [archive des objets du jour]({{< ref "/item" >}}). Me disant si y en a qu&rsquo;en on raté. Donc voilà.
