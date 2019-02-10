@@ -1,5 +1,5 @@
 ---
-title: Joyeux Nola
+title: Joyeux NOLA
 slug: nola
 area: usa
 menu:
@@ -9,4 +9,4 @@ menu:
     weight: 2
 ---
 
-Une semaine à la Nouvelle-Orléans en 2018.
+Un Noël à la Nouvelle-Orléans. On fête pas trop Jésus mais beaucoup la résiliance des néo-orléanais et leur culture atypique !
