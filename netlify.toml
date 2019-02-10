@@ -3,11 +3,15 @@
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.50"
+  HUGO_VERSION = "0.53"
   HUGO_ENV = "netlify"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.50"
+  HUGO_VERSION = "0.53"
 
 [context.branch-deploy.environment]
-  HUGO_VERSION = "0.50"
+  HUGO_VERSION = "0.53"
+
+[context.nola.environment]
+  HUGO_VERSION = "0.53"
+  command = "hugo -e nola"

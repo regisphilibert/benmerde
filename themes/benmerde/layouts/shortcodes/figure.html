@@ -5,7 +5,7 @@
 	{{- $remote = 1 -}}
 {{- end -}}
 {{- $wide := ne "" (.Get "wide") -}}
-<div class="bm-Media{{- with $wide -}} -wide{{- end -}}">
+<div class="bm-Media{{- with $wide }} -wide{{- end -}}">
 	<picture>
 		{{- if not $remote -}}
 			{{- with (.Site.GetPage "medias").Resources.GetMatch (strings.TrimPrefix "/medias/" $src ) -}}
@@ -21,7 +21,7 @@
 	</picture>
 	{{- with $.Inner -}}
 		<figcaption>
-			{{- . -}}
+			{{- . | markdownify -}}
 		</figcaption>
 	{{- end -}}
 </div>

@@ -55,6 +55,10 @@
 {{ define "tax" }}
     {{ $slug := .slug }}
     {{ range $index, $value := .terms }}
-        {{ if gt $index 0 }}<span class="sep">, </span>{{ end }}<a style="white-space:nowrap" href="{{ printf "/%s/" $slug | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+        {{ $name := . }}
+        {{ if eq . "nola" }}
+            {{ $name = "Joyeux NOLA" }}
+        {{ end }}
+        {{ if gt $index 0 }}<span class="sep">, </span>{{ end }}<a style="white-space:nowrap" href="{{ printf "/%s/" $slug | relLangURL }}{{ . | urlize }}">{{ $name }}</a>
     {{ end }}
 {{ end }}

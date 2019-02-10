@@ -947,10 +947,10 @@ a.bm-Brand {
     float: left;
     width: 74.18033%; }
   .bm-Media.-wide > figcaption {
-    float: right;
-    width: 22.54098%;
-    border-top-width: 2px;
-    padding: 0.5em 0; }
+    position: relative;
+    max-width: 100%;
+    bottom: auto;
+    left: auto; }
   .bm-Media.-wide.-portrait .let-your-conscience-be-your-guide, .bm-Media.-wide.-portrait .bm-Media__video {
     width: 48.36066%;
     margin: 0 3.27869%;

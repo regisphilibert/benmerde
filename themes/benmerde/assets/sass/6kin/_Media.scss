@@ -91,10 +91,10 @@
             width: 74.18033%;
         }
         & > figcaption{
-            float: right;
-            width: 22.54098%;
-            border-top-width:2px;
-            padding:0.5em 0;
+            position: relative;
+            max-width: 100%;
+            bottom: auto;
+            left: auto;
         }
         &.-portrait{
             .let-your-conscience-be-your-guide, .bm-Media__video{

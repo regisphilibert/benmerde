@@ -3,14 +3,41 @@ label: Post
 hide_body: false
 is_partial: false
 fields:
+- type: datetime
+  name: date
+  label: Date
+  config:
+    date_format: DD/MM/YYYY
 - type: text
   name: title
   label: Title
 - type: tag_list
   name: locations
   label: locations
+  default:
+  - Nouvelle-Orléans
+- type: tag_list
+  name: events
+  label: Projets
+  default:
+  - nola
 - type: image_gallery
   name: gallery
   label: Gallery
 pages:
 - content/post/canada/gilets-jaunes-libres.md
+- content/post/usa/allez.md
+- content/post/usa/aquarium.md
+- content/post/usa/dookie.md
+- content/post/usa/second-line.md
+- content/post/usa/tremé-à-tout-prix.md
+- content/post/usa/tramway-et-lutte-sociale.md
+- content/post/usa/armstrong-jazz.md
+- content/post/usa/bayou.md
+- content/post/usa/fritzel.md
+- content/post/usa/musees-du-sud.md
+- content/post/usa/vieux-carré.md
+- content/post/usa/city-park.md
+- content/post/usa/journee-nola.md
+- content/post/usa/survivance.md
+- content/post/usa/st-augustine.md
