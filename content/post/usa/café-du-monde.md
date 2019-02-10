@@ -4,7 +4,7 @@ events:
 date: 2018-12-23 03:00:00 +0000
 title: Café du Monde
 locations:
-- USA
+- Nouvelle-Orléans
 gallery:
 - "/medias/IMG_9872.jpeg"
 - "/medias/IMG_9879.jpeg"

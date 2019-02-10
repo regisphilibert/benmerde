@@ -15,7 +15,7 @@ fields:
   name: locations
   label: locations
   default:
-  - USA
+  - Nouvelle-Orléans
 - type: tag_list
   name: events
   label: Projets
@@ -27,5 +27,11 @@ fields:
 pages:
 - content/post/canada/gilets-jaunes-libres.md
 - content/post/usa/allez.md
+- content/post/usa/second-line.md
+- content/post/usa/cimetière.md
+- content/post/usa/tramway-et-lutte-sociale.md
+- content/post/usa/armstrong-jazz.md
+- content/post/usa/fritzel.md
+- content/post/usa/bayou.md
 - content/post/usa/café-du-monde.md
 - content/post/usa/st-augustine.md
