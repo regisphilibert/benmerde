@@ -6,12 +6,12 @@ events:
 date: 2018-12-26 21:00:00 -0500
 title: Backstreets
 gallery:
-- "/medias/IMG_9998-1.jpeg"
+- "/medias/IMG_9967-1.jpeg"
+- "/medias/IMG_2613-1.jpeg"
 - "/medias/IMG_9994-1.jpeg"
 - "/medias/IMG_9982.jpeg"
+- "/medias/IMG_9998-1.jpeg"
 - "/medias/IMG_2635.jpeg"
-- "/medias/IMG_2613-1.jpeg"
-- "/medias/IMG_9967-1.jpeg"
 - "/medias/IMG_1858-1.jpg"
 
 ---

@@ -3,10 +3,8 @@ locations:
 - Nouvelle-Orléans
 events:
 - nola
-date: 2018-12-24 02:00:00 +0000
+date: 2018-12-23 19:00:00 -0500
 title: Armstrong Jazz
-gallery:
-- "/medias/IMG_2575.jpeg"
 
 ---
 Il y a un parc public au-dessus du French Quarter. Il y a deux choses importantes liées à ce parc et on a pu voir les restes physiques qui les illustrent.
@@ -32,4 +30,6 @@ Encore une fois, le scat c’est pas juste des sons inintelligibles posé sur un
 
 Armstrong est un des jazzman les plus célèbres peut-être parce qu’il a su divertir l’homme blanc sans trop lui rappeler à quel point il lui était supérieur, sans trop le faire culpabiliser aussi. Ou alors parce qu’il se moquait des codes des blancs autant que de ceux des noirs…
 
-Dans tous les cas, libre à soi de célébrer l’icône comme on veut mais en regardant une statue, on se mouille pas trop.![](/medias/IMG_2575-1.jpeg)
+Dans tous les cas, libre à soi de célébrer l’icône comme on veut mais en regardant une statue, on se mouille pas trop.
+
+{{< figure src="IMG_2575.jpeg" >}}

@@ -32,7 +32,7 @@ Ce qui explique que les célèbres galeries en fer forgées soient espagnoles et
 C’est donc ça le vieux carré. Des touristes qui évoluent dans un décor édulcoré et retravaillé pour s’adapter à la culture re-packagée, facile à vendre, dont on a enveloppée tout le quartier. Et le plus triste c’est que cette culture polissée déborde du _French Quarter_ ! Elle n’atteint pas que les touristes et les gentrificateurs, pour pas que ça fasse trop salle, on cache aussi les pauvres derrière. Après Katrina, la ville, bien contente de voir tous ces pauvres relocalisés aux quatre coins du pays, en a profité pour raser complètement ses logements sociaux. Ils n’avaient pas été inondés, juste abandonnés par leurs occupants. Mais on s’en fout, on les ferme en prétextant de l’insalubrité, on revient après cinq ans constater cette fois une véritable insalubrité (tu m’étonnes, cinq ans !) et on rase. Et ce qu’on a construit à la place a tout d’un hotel Disney. Une petite ville sur le thème de la Nouvelle-Orléans des guides touristiques. 
 
 {{< figure src="comparatif-nola-disney.jpg" wide="true">}}
-Les gens heureux déguisé en Cosby Show? Disney World. 
+Les gens heureux déguisés en Cosby Show? Disney World. 
 Les rues désertes? NOLA.
 {{< /figure >}}
 

@@ -1,5 +1,6 @@
 ---
 title: Joyeux Nola
+slug: nola
 area: usa
 menu:
   projets:

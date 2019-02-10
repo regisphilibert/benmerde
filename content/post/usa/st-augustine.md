@@ -3,10 +3,8 @@ locations:
 - Nouvelle-Orléans
 events:
 - nola
-date: 2018-12-24 10:00:00 -0500
+date: 2018-12-23 10:00:00 -0500
 title: St. Augustine
-gallery:
-- "/medias/IMG_1753.jpg"
 
 ---
 On a marché jusqu’à l’église Saint Augustine ou nous attendait une petite messe pas piqué des vers !
@@ -29,3 +27,5 @@ Régulièrement pendant l’office la mère avait tenté de se rassurer en levan
 On laissera chacun interpréter librement cette parabole. 
 
 Chanson !
+
+{{< figure src="IMG_1753.jpg" >}}

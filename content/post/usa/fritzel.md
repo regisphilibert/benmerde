@@ -5,11 +5,9 @@ events:
 - nola
 date: 2018-12-24 21:00:00 -0500
 title: Fritzel
-gallery:
-- "/medias/IMG_9932.jpeg"
 
 ---
-![](/medias/IMG_9932.jpeg)Après le détour par le parc, on est retourné dans le French Quarter où Mariane a erré près d’une heure dans un magasin vaudou qui vendait des grigris mais pas que ! On s’est par la suite posé dans le seul bar tranquille du Quarter: Fritzel. 
+Après le détour par le parc, on est retourné dans le French Quarter où Mariane a erré près d’une heure dans un magasin vaudou qui vendait des grigris mais pas que ! On s’est par la suite posé dans le seul bar tranquille du Quarter: Fritzel. 
 
 C’est un bar assez petit et qui propose des soirées jazz traditionnel pas si courantes dans le French Quarter, surtout quand tu te sens pas trop de faire l’heure de queue du _Preservation Hall_.
 
@@ -19,3 +17,5 @@ Le Jazz m’avais jamais trop touché jusqu’à ce soir-là où j’ai pu voir 
 
 On a pu aussi découvrir la loi la plus importante des commandements de la Nouvelle-Orléans, le one-drink-per-set. 
 Les groupes chantent a peu près trois quarts d’heure puis après avoir fait passer le panier à dons, font un break, c’est la fin du set. Si tu restes, faut reprendre un verre. On a pris deux cocas pour le deuxième set parce qu’avant qu’arrive John et Mike, on s’était tapé au moins trois consos…
+
+{{< figure src="IMG_9932.jpeg" >}}

@@ -5,9 +5,7 @@ date: 2018-12-23 03:00:00 -0500
 title: Café du Monde
 locations:
 - Nouvelle-Orléans
-gallery:
-- "/medias/IMG_9872.jpeg"
-- "/medias/IMG_9879.jpeg"
+
 
 ---
 La première journée a été très touristique, plongée dans le French Quarter (dont on parlera plus tard) et ses nombreux bars et magasins.
@@ -25,3 +23,5 @@ On a fini la journée dans le seul endroit a peu près câlme et chaud du coin, 
 Le Café du Monde c’est un peu la Fontaine de Trevi de la Nouvelle-Orléans: c’est ouvert tous les jours 24h/24, et vu le brassage t’as interêt à t’y pointer à trois heure du matin ! Faut voir une immense terrasse couverte entourée d’arcades rivoliennes au fond de laquelle se cache un espace vitré pas plus grand qu’une salle d’attente SNCF. Là dedans des dizaines de serveurs s’animent derrière la file d’attente des toilettes. 
 Au « du Monde », comme ils disent, tous le monde prend le Café au Lait et Beignets. Une fois que t’as extirpé tes machins de là en les secouant bien, tu te retrouves avec un bon centimètre de poudreuse ! Poudreuse qui, quand elle n’arrive pas directement dans le sang des touristes, atterrit généralement sur le par terre.
 C’est pas l’endroit le plus typique de la Nouvelle-Orléans, mais c’est connu et apprécié des locaux, pis on y avait chaud et les bugnes étaient bonnes, alors on est resté regarder les serveurs trimballer leurs montagnes de beignets pendant le carrelage se transformait en une scène Scarface.
+
+{{< figure src="IMG_9879.jpeg" >}}

@@ -5,8 +5,6 @@ events:
 - nola
 date: 2018-12-27 15:00:00 +0500
 title: Musées du Sud
-gallery:
-- "/medias/IMG_0017.jpeg"
 
 ---
 Ensuite on s’est dirigé tranquillement vers le Ogden Southern Arts Museum où un concert devait avoir lieu à 18h. (C’était 14h).
@@ -15,3 +13,5 @@ Oui, j’aime bien m’intéresser aux deux côtés de l’histoire, les gagnant
 Alors tant que tu ne fouilles pas trop dans le fond des yeux du staff bénévole qui considère peut-être encore l’esclavagisme comme une « tradition » ; tant que t’oublies pas que la pérennité de cette institution nécessitait en plus de lois racistes, l’écrasement continue de tout un peuple ; et que t’essayes pas trop de faire le parallèle avec les autres formes d’exploitations modernes ; tu peux marcher entre les vitrines de fusils et de casquettes fripées qui ornaient des morts autant dupés par leur élites gouvernantes que nos vénérés poilus.
 
 Le [Musée Ogden des arts du Sud](Ogden Museum of Southern Art), c’est des arts du sud de toutes les époques, mais beaucoup de photos récentes quand même. Et tous les Jeudi, il y a un concert offert aux visiteurs du musée. Ce soir-là c’était un illustre groupe du Colorado qui avait le mérite de featurer un trompettiste local visiblement assez populaire. Et moi ça me détend drôlement de regarder un musicien jouer de son instrument, surtout quand c’est pas une guitar, une basse ou une batterie qu’on a tellement l’habitude de voir partout. Après une grosse heure de Colorado et d’Eric Benny Bloom on s’est extirpé de la foule vieillissante pour retraverser toute la ville, et tout le French Quarter jusqu’au Faubourg Marigny.
+
+![](/medias/IMG_0017.jpeg)
