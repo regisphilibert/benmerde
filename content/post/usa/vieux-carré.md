@@ -5,8 +5,12 @@ events:
 - nola
 date: 2018-12-26 16:00:00 -0500
 title: Vieux carré
-gallery: []
-draft: false
+gallery:
+- "/medias/IMG_1741.jpg"
+- "/medias/IMG_1735-1.jpg"
+- "/medias/IMG_1730-1.jpg"
+- "/medias/IMG_1738.jpg"
+- "/medias/IMG_1705.jpg"
 
 ---
 Le vieux carré qu’ils prononcent tant bien que mal « vou qeurè » est aussi appelé le _French Quarter_. C’est un rectangle adossé à un coude du Mississippi et qui forme la vielle ville. La vieille ville,  comme partout dans le monde, c’est la zone hautement touristique du coin. Et comme ici tout le monde te dit que le reste de la ville est dangereux ou ne vaut pas le coup ben des millions de couillons se retrouvent bloqués dans l’enceinte du _French Quarter_. Comme on s’y attend, il est jonché des ces détails mercantiles si peu authentiques qui nourrissent les besoins bien plates des touristes.
