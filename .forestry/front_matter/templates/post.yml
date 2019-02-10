@@ -3,11 +3,6 @@ label: Post
 hide_body: false
 is_partial: false
 fields:
-- type: datetime
-  name: date
-  label: Date
-  config:
-    date_format: DD/MM/YYYY
 - type: text
   name: title
   label: Title
