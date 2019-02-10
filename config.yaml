@@ -19,7 +19,7 @@ outputs:
   page: [HTML]
   section: [HTML]
 params:
-  area: usa
+  area: canada
   authorname: John Doe
   description: je suis au Canada
   facebookid: 137223813025796

@@ -9,4 +9,4 @@ menu:
     weight: 2
 ---
 
-Enfin la Nouvelle-Orléans!
+Une semaine à la Nouvelle-Orléans en 2018.
