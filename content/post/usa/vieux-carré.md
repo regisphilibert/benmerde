@@ -3,10 +3,10 @@ locations:
 - Nouvelle-Orléans
 events:
 - nola
-date: 2018-12-26 04:00:00 +0000
+date: 2018-12-26 16:00:00 -0500
 title: Vieux carré
 gallery: []
-draft: true
+draft: false
 
 ---
 Le vieux carré qu’ils prononcent tant bien que mal « vou qeurè » est aussi appelé le _French Quarter_. C’est un rectangle adossé à un coude du Mississippi et qui forme la vielle ville. La vieille ville,  comme partout dans le monde, c’est la zone hautement touristique du coin. Et comme ici tout le monde te dit que le reste de la ville est dangereux ou ne vaut pas le coup ben des millions de couillons se retrouvent bloqués dans l’enceinte du _French Quarter_. Comme on s’y attend, il est jonché des ces détails mercantiles si peu authentiques qui nourrissent les besoins bien plates des touristes.
@@ -27,8 +27,12 @@ Ce qui explique que les célèbres galeries en fer forgées soient espagnoles et
 
 C’est donc ça le vieux carré. Des touristes qui évoluent dans un décor édulcoré et retravaillé pour s’adapter à la culture re-packagée, facile à vendre, dont on a enveloppée tout le quartier. Et le plus triste c’est que cette culture polissée déborde du _French Quarter_ ! Elle n’atteint pas que les touristes et les gentrificateurs, pour pas que ça fasse trop salle, on cache aussi les pauvres derrière. Après Katrina, la ville, bien contente de voir tous ces pauvres relocalisés aux quatre coins du pays, en a profité pour raser complètement ses logements sociaux. Ils n’avaient pas été inondés, juste abandonnés par leurs occupants. Mais on s’en fout, on les ferme en prétextant de l’insalubrité, on revient après cinq ans constater cette fois une véritable insalubrité (tu m’étonnes, cinq ans !) et on rase. Et ce qu’on a construit à la place a tout d’un hotel Disney. Une petite ville sur le thème de la Nouvelle-Orléans des guides touristiques. 
 
-(glisser image comparative)
+{{< figure src="comparatif-nola-disney.jpg" wide="true">}}
+Les gens heureux déguisé en Cosby Show? Disney World. 
+Les rues désertes? NOLA.
+{{< /figure >}}
 
 C’est chouette, ça choque pas les touristes dans leurs Uber (nous). Pis ça doit bien aider l’ego de ceux qui vivent dedans tiens ! Se faire servir cette Louisiane de pacotille alors qu’on refuse de t’intégrer à la vraie depuis 300 ans. 
 — Pour pas choquer les privilégies, voulez-vous bien vous déguiser comme ils aiment ? Pis on arrête les barbecues, merci.
+
 C’est un peu comme si nos pauvres issus de l’immigration, on les parquait dans des jolis villages d’Astérix…

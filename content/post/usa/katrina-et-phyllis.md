@@ -1,6 +1,6 @@
 ---
 title: Katrina et Phyllis
-date: 2018-12-21 21:40:32 +0000
+date: 2018-12-21 21:40:32 +0500
 residency:
 - USA
 events:

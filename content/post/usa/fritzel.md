@@ -3,7 +3,7 @@ locations:
 - Nouvelle-Orléans
 events:
 - nola
-date: 2018-12-24 03:00:00 +0000
+date: 2018-12-24 21:00:00 -0500
 title: Fritzel
 gallery:
 - "/medias/IMG_9932.jpeg"

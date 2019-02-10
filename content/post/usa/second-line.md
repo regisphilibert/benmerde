@@ -3,7 +3,7 @@ locations:
 - Nouvelle-Orléans
 events:
 - nola
-date: 2018-12-23 17:00:00 +0000
+date: 2018-12-23 14:00:00 -0500
 title: Second Line
 gallery:
 - "/medias/IMG_9887.jpeg"

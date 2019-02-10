@@ -3,7 +3,7 @@ locations:
 - Nouvelle-Orléans
 events:
 - nola
-date: 2018-12-25 05:00:00 +0000
+date: 2018-12-25 17:00:00 -0500
 title: City Park
 gallery:
 - "/medias/IMG_9959.jpeg"

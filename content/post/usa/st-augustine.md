@@ -3,7 +3,7 @@ locations:
 - Nouvelle-Orléans
 events:
 - nola
-date: 2018-12-24 02:00:00 +0000
+date: 2018-12-24 10:00:00 -0500
 title: St. Augustine
 gallery:
 - "/medias/IMG_1753.jpg"

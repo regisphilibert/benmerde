@@ -3,7 +3,7 @@ locations:
 - Nouvelle-Orléans
 events:
 - nola
-date: 2018-12-23 21:00:00 +0000
+date: 2018-12-23 16:00:00 -0500
 title: Tramway et lutte sociale
 gallery:
 - "/medias/IMG_9895.jpeg"

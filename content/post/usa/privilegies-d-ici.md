@@ -3,7 +3,7 @@ locations:
 - Nouvelle-Orléans
 events:
 - nola
-date: 2018-12-25 19:22:05 +0000
+date: 2018-12-25 12:22:05 -0500
 title: Privilégiés d’ici
 gallery:
 - "/medias/IMG_1840-1.jpg"

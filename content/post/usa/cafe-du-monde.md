@@ -1,7 +1,7 @@
 ---
 events:
 - nola
-date: 2018-12-23 03:00:00 +0000
+date: 2018-12-23 03:00:00 -0500
 title: Café du Monde
 locations:
 - Nouvelle-Orléans
