@@ -5,8 +5,8 @@ events:
 - nola
 date: 2018-12-27 05:00:00 +0000
 title: Musées du Sud
-gallery: []
-draft: true
+gallery:
+- "/medias/IMG_0017.jpeg"
 
 ---
 Ensuite on s’est dirigé tranquillement vers le Ogden Southern Arts Museum où un concert devait avoir lieu à 18h. (C’était 14h).
