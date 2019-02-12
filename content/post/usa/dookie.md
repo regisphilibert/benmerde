@@ -5,6 +5,7 @@ events:
 - nola
 date: 2018-12-26 05:00:00 +0000
 title: Dookie
+gallery: []
 
 ---
 On devait depuis le début du séjour manger chez Dookie Chase qui par chance se trouvait à quelques blocs de notre chez-nous. Fermeture noëliques et horaires d’ouverture serrées n’ont pas eu raison de nous et ce jour-là, dès 11h, on se tenait au bout de la queue formée dans le couloir de l’établissement. Pendant l’attente tu peux voir des photos de célébrités dont une assez mythique d’Obama qui ajuste une serviette à son cou. Évidemment qu’il a fait son petit moment Dookie, Obama. Après avoir fait campagne contre son prédécesseur et sa gestion peu inspirée de Katrina, il pouvait pas rater l’opportunité photo sur une chaise jaune et rouge.
@@ -15,7 +16,7 @@ Pourquoi si populaire ? C’est la deuxième chose : là-bas, tu peux, toute l�
 Ça veut pas dire que t’y vas tous les jours, mais ça veut dire que pour le baptême du petit, l’anniversaire de la grand mère ou les fiançailles de la grande, tu peux convier ta famille dans un des restos les plus réputés de la ville sans hypothéquer ta maison. T’ajoutes à ça le combat actuel pour le droit de vote des noirs mené par leurs fondateurs et on peut vraiment dire que Leah Chase et son défunt mari Dookie Chase Jr. se foutent pas de la gueule du quartier quand ils se disent engagés socialement.
 Alors si en plus il me font du dirty rice et du poulet frit pour une bouchée de pain !
 
-Pour la bouffe, c’est très typique d’ici et je citerai ces paroles de Léo Ferré sur un endroit qui ressemble à la Louisiane :
+Pour la bouffe, c’est très typique d’ici et je citerai ces paroles de Nino Ferrer sur un endroit qui ressemble à la Louisiane :
 
 > On dirait le sud  
 > des pattes et du riz  
