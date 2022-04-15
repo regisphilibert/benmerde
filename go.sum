@@ -1,0 +1,10 @@
+github.com/theNewDynamic/huge v0.1.5 h1:lcEW40qYaSxmYZpAa+2nCOLnz/kerCiR0NoIw3j+Mpc=
+github.com/theNewDynamic/huge v0.1.5/go.mod h1:wZCHbuGglX7Iwa2xbJ/FcDIUzUsMGW6CyLboOp5iKR8=
+github.com/theNewDynamic/hugo-module-tnd-imgix v0.2.2 h1:QyvV5FgRFNX6ZbMkB9uE2b5lnoCzVWlWSfM+ic1fYGc=
+github.com/theNewDynamic/hugo-module-tnd-imgix v0.2.2/go.mod h1:6P3SwYL7H/KccxwrB7BDl+wJW2qzaLTnVDf9m+Uj/Uo=
+github.com/theNewDynamic/hugo-module-tnd-media v0.0.0-20220330175441-4aeb80c7e616 h1:GpFzF5XI8aiC3Wce6rhIcV8/XFI8qmJ1v49TyewkeOI=
+github.com/theNewDynamic/hugo-module-tnd-media v0.0.0-20220330175441-4aeb80c7e616/go.mod h1:5kGUg8NNAfXvsiXl2y910hJEjMkfQbmO1m1vXcehZiA=
+github.com/theNewDynamic/hugo-module-tnd-seo v0.1.10 h1:wmYG3ybNYFOjtlxuAigeEDE6enxgxbjUZLvauRfhMiI=
+github.com/theNewDynamic/hugo-module-tnd-seo v0.1.10/go.mod h1:VY3Qvzif9T0Z0rjR85ufUQE1wrS/M5VZC9Dx1V8Vo8Y=
+github.com/theNewDynamic/hugo-module-tnd-tags v0.0.0-20210820151839-aaac3b65c97e h1:TPtoidPrSDO6Tr8mJAQQ5dTE5ncjJtyCehmFxhvCJvA=
+github.com/theNewDynamic/hugo-module-tnd-tags v0.0.0-20210820151839-aaac3b65c97e/go.mod h1:fuXjv9Nbt2hi6oaOVAqhPRrS4hL9uYcwroo6V/Mw7Uk=

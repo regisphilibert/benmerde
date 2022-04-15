@@ -1,0 +1,16 @@
+{{ $s := newScratch }}
+{{ $s.Set "data" dict }}
+
+{{ $s.SetInMap "data" "objectID" $.File.UniqueID }}
+{{ $s.SetInMap "data" "title" .Title }}
+{{ $s.SetInMap "data" "categories" .Params.categories }}
+{{ with .Params.residency }}
+  {{ with index . 0 }}
+    {{ $s.SetInMap "data" "area" . }}
+  {{ end }}
+{{ end }}
+{{ $s.SetInMap "data" "locations" .Params.locations }}
+{{ $s.SetInMap "data" "relpermalink" .RelPermalink }}
+{{ $s.SetInMap "data" "summary" .Summary }}
+{{ $s.SetInMap "data" "type" .Type }}
+{{ return $s.Get "data" }}
