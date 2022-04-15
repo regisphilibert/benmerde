@@ -1,5 +1,6 @@
 {{ define "main" }}
-	{{ range $index, $page := (.Paginate (where .Data.Pages "Type" "post")).Pages }}
+	{{ $pages := site.RegularPages }}
+	{{ range $index, $page := (.Paginate (where $pages "Type" "post")).Pages }}
 		{{ partialCached "post-li" . (printf "%x" .Title) }}
 	{{ end }}
 	<div class="bm-container">

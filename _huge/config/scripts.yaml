@@ -1,0 +1,3 @@
+scripts:
+- name: main
+  path: js/main.js

@@ -3,17 +3,8 @@ baseURL: https://benmerde.com
 languageCode: fr-fr
 title: Ben Merde
 MetaDataFormat: yaml
-theme: 
-  - benmerde
-  - seo
 paginate: 10
 disqusShortname: ben-merde
-
-blackfriday:
-  extensions:
-    - hardLineBreak
-  hrefTargetBlank: true
-
 outputs:
   home: [HTML, RSS, Algolia]
   page: [HTML]
