@@ -6,3 +6,4 @@ production
 themes/benmerde/assets/js/algolia.config.js
 bin
 .hugo_build.lock
+.DS_Store
