@@ -1,6 +1,11 @@
 [build]
   publish = "public"
-  command = "hugo && npx pagefind"
+  command = """
+    hugo
+    curl -sLO https://pagefind.app/install.sh
+    sh install.sh
+    ./pagefind --site public
+  """
 
 [build.environment]
   HUGO_VERSION = "0.147.8"
