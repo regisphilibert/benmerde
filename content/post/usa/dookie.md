@@ -18,12 +18,12 @@ Alors si en plus il me font du dirty rice et du poulet frit pour une bouchée de
 
 Pour la bouffe, c’est très typique d’ici et je citerai ces paroles de Nino Ferrer sur un endroit qui ressemble à la Louisiane :
 
-> On dirait le sud  
-> des pattes et du riz  
-> y a rien qu’est pas frit  
-> y a rien qu’est pas sucrééééééééééé  
-> .  
-> .  
+> On dirait le sud
+> des pattes et du riz
+> y a rien qu’est pas frit
+> y a rien qu’est pas sucrééééééééééé
+> .
+> .
 > et toujours épicés!
 
-{{< figure src="446692685_02-1.jpg" >}}
+{{< figure src="446692685_02-1.jpg" />}}

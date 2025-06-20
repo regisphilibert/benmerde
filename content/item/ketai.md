@@ -10,9 +10,9 @@ price:
 
 ---
 
-Mon horrible moche portable ! Si, si cliquez [ici]({{< imgSrc "ketai.jpg" >}}), verrez qu'il est bien laid. Ici ils appellent ça Ketai, ici ils les aiment très gros et pas vraiment beaux. 
+Mon horrible moche portable ! Si, si cliquez [ici]({{< imgSrc "ketai.jpg" >}}), verrez qu'il est bien laid. Ici ils appellent ça Ketai, ici ils les aiment très gros et pas vraiment beaux.
 
-Mais je dois dire que celui-là est un des plus moches. Le truc c'est que les téléphones à carte, y en a pas beaucoup, je crois qu'il n'y a que Vodafone qui en fait, et j'ai quand même eu du mal [(voir le blog du jour)]({{< ref "/2005-09-17-mon-keitai.md" >}})
+Mais je dois dire que celui-là est un des plus moches. Le truc c'est que les téléphones à carte, y en a pas beaucoup, je crois qu'il n'y a que Vodafone qui en fait, et j'ai quand même eu du mal [(voir le blog du jour)]({{< ref "2005-09-17-mon-keitai.md" >}})
 Bref, il fait appareil photo 2mega, lampe de poche, il lit les codes-barres! Et bien d'autres encore !
 
 Allez, je l'aime bien quand même.

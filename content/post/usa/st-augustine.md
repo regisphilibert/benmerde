@@ -21,11 +21,11 @@ Chanson !
 À la fin de la messe, on demande à ceux qui fêtent leur anniversaire cette semaine de se lever. Une humble petite vieille à chapeau (très très vieille genre « Rosa Park est vivante ? ») et qui a reçu avant la messe des bisous et des hugs de toute la congrégation s’est hissée sur ses petits bas gris. Tout le monde l’a applaudie avant de lui chanter un « Happy Birthdaaayyyyyy, Happy Birthday tooooo youuuuu ! ».
 Après c’était le tour des anniversaires de mariage, on leur a pas chanté Happy Birthday mais ils ont eu une petite interview du prêtre.
 Devant nous, un couple bien mis et que les deux fistons avaient rejoint juste avant le début de la messe fêtaient leur trente-deux ans de mariage. Ils n’ont participé à aucun rituel pendant la messe, et ne devaient donc pas être très catholiques, mais ils étaient contents d’être là.
-Leurs fils, eux, avaient l’air d’en chier. Ces deux jeunes rouquins avaient un peu trop profité de NOLA la veille et peiné à s’habiller convenablement pour rejoindre papa-maman à la messe de 10h. 
-Régulièrement pendant l’office la mère avait tenté de se rassurer en levant un pouce timide au gamin quand il se prenait la tête dans les mains. Il hochait alors sa tête douloureuse puis se redressait en regardant au loin. 
+Leurs fils, eux, avaient l’air d’en chier. Ces deux jeunes rouquins avaient un peu trop profité de NOLA la veille et peiné à s’habiller convenablement pour rejoindre papa-maman à la messe de 10h.
+Régulièrement pendant l’office la mère avait tenté de se rassurer en levant un pouce timide au gamin quand il se prenait la tête dans les mains. Il hochait alors sa tête douloureuse puis se redressait en regardant au loin.
 
-On laissera chacun interpréter librement cette parabole. 
+On laissera chacun interpréter librement cette parabole.
 
 Chanson !
 
-{{< figure src="IMG_1753.jpg" >}}
+{{< figure src="IMG_1753.jpg" />}}
