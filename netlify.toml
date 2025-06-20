@@ -6,7 +6,7 @@
   HUGO_VERSION = "0.147.8"
   HUGO_ENV = "staging"
   GO_VERSION = "1.14"
-  NODE_VERSION = "14.13.0"
+  NODE_VERSION = "20.9.0"
 [context.production.environment]
   HUGO_ENV = "production"
 
