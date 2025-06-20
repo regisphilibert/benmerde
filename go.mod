@@ -1,7 +1,7 @@
 module github.com/regisphilibert/benmerde
 
 go 1.14
-replace github.com/theNewDynamic/huge => /Users/regisphilibert/Boulot/tnd/huge
+
 require (
 	github.com/theNewDynamic/huge v0.1.5 // indirect
 	github.com/theNewDynamic/hugo-module-tnd-imgix v0.2.2 // indirect
