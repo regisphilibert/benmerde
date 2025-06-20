@@ -4,7 +4,9 @@
   <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
   <meta name="env" content="{{ partialCached "huge/env/Get" "Get" }}">
   <link href="https://fonts.googleapis.com/css?family=Neuton:300,400,400i,700" rel="stylesheet">
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="/pagefind/pagefind-ui.js"></script>
+  {{ partial "head-search" . }}
   {{ partialCached "huge/styles/tags" "main" "main" }}
-  <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0"></script>
   {{ partial "huge/seo/tags" . }}
 </head>

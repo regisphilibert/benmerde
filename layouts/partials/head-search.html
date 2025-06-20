@@ -1,0 +1,43 @@
+
+  {{ with .Type }}
+    {{ $typeLabel := cond (eq . "post") "Article" "Objet du Jour" }}
+    <meta data-pagefind-filter="Quoi:{{ $typeLabel }}">
+  {{ end }}
+  {{ $residencies := slice "Japon" }}
+  {{ $event := "" }}
+  {{ if eq .Type "item" }}
+    {{ $event = "Projet 202" }}
+    {{ with .Params.price }}
+      {{ $price := . }}
+      {{ if reflect.IsMap . }}
+        {{ with .yen }}
+          {{ $price = print . "¥" }}
+        {{ end }}
+      {{ end }}
+      <meta data-pagefind-meta="Ça coute:{{ $price }}">
+    {{ end }}
+    {{ with .Params.mass }}
+      {{ $mass := partial "func/mass" . }}
+      <meta data-pagefind-meta="Ça pèse:{{ $mass }}">
+    {{ end }}
+  {{ else if (eq .Type "post") }}
+    {{ with .Params.events }}
+      {{ range . }}
+        <meta data-pagefind-meta="Quel projet:{{ . }}">
+      {{ end }}
+    {{ end }}
+    {{ with .Params.residency }}
+      {{ $residencies = . }}
+    {{ end }}
+    {{ with .Params.locations }}
+      {{ range . }}
+        <meta data-pagefind-meta="Ville:{{ . }}">
+      {{ end }}
+    {{ end }}
+  {{ end }}
+  {{ with $residencies }}
+    {{ range . }}
+      <meta data-pagefind-meta="Pays:{{ . }}">
+      <meta data-pagefind-filter="Pays:{{ . }}">
+    {{ end }}
+  {{ end }}

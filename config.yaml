@@ -19,14 +19,13 @@ params:
 
   twitter_handle: benmerde
 
-  algolia:
-    vars: ["title", "type", "summary", "permalink", "relpermalink", "area", "humanDate"]
-    params: ["locations", "categories"]
-
   imagesizes:
     '500': small
     '750': medium
-
+build:
+  cachebusters:
+    - source: scss
+      target: css
 taxonomies:
   location: locations
   event: events

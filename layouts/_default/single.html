@@ -1,5 +1,7 @@
 {{ define "main" }}
+<div data-pagefind-body>
 	{{ partialCached "post-li" . (printf "%x" .Title) }}
 	{{ partial "post-nav" . }}
 	{{ partial "comments" . }}
+</div>
 {{ end }}

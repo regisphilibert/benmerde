@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="bm-container">
+<div class="bm-container" data-pagefind-body>
 	<div class="bm-Item">
 		<div class="bm-grid__aside mobile-block tablet-block" style="float:right;margin-left:1em;margin-bottom:1em;">
             <p>
@@ -8,19 +8,15 @@
     	</div>
 		<div class="bm-grid">
             <div class="bm-grid__main">
-    			<div class="bm-Item__title">
+    			<div class="bm-Item__title" data-pagefind-meta="title" >
 					{{ .Title }}
 				</div>
 				<table class="bm-Item__table">
-					{{ with .Params.mass }} 
+					{{ with .Params.mass }}
 						<tr>
 							<td>Poids:</td>
 							<td>
-								{{ if eq (printf "%T" .) "string" }}
-									{{ . }}
-								{{ else }}
-									{{ partial "func/mass" . }}
-								{{ end }}
+								{{ partial "func/mass" .}}
 							</td>
 						</tr>
 					{{ end }}
