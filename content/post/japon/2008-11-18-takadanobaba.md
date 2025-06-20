@@ -27,11 +27,11 @@ Par contre, il y a des tas de quartiers moins connus de Tokyo et donc qui mérit
 TAKADANOBABA !
 
 Alors lui il est surtout connu pour sa proximité avec deux grosses universités (<a title="Waseda" href="https://fr.wikipedia.org/wiki/Université_Waseda" target="_blank">Waseda</a> et <a title="Gakushuin" href="https://fr.wikipedia.org/wiki/Gakushuin" target="_blank">Gakushuin</a>) ce qui en fait un coin bourrés d&rsquo;étudiants bourrés. Mais c&rsquo;est pas ce qui m&rsquo;éclate moi !
-  
-Moi ce qui m&rsquo;éclate c&rsquo;est ça : [audio:takadanobaba.mp3]
+
+Moi ce qui m&rsquo;éclate c&rsquo;est ça : {{< audio "takadanobaba.mp3" >}}
 
 Cette musique de notre (ma peut-être) enfance entendue à la fermeture des portes du train, pour on ne sait quel raison, dans cette station au nom rigolo&#8230; 
-  
+
 Astro Boy ! Mighty Atom ! ou Astro le Petit Robot pour les francophiles amis des « petites » choses&#8230; la fermeture des portes lui est dédiée&#8230;
 
 L&rsquo;histoire c&rsquo;est que Astro Boy serait né en l&rsquo;an 2003 (Blade Runner, Retour vers le Futur, Star Trek, oui Tezuka s&rsquo;est trompé aussi !) dans le quartier de&#8230; TAKADANOBABA !
@@ -48,7 +48,7 @@ Sinon dans le quartier on trouve curieusement beaucoup de restos Indiens et une 
 
 <div id="attachment_404" class="wp-caption aligncenter" style="max-width: 300px">
   <a href="{{< aws >}}/uploads/img_3340.jpg"><img class="size-medium wp-image-404 " title="img_3340" src="{{< aws >}}/uploads/img_3340.jpg" alt="Notez qu'on voit jamais le drapeau chez nous." width="300" height="225" /></a>
-  
+
   <p class="wp-caption-text">
     Notez qu'ont voit jamais le drapeau chez nous.
   </p>
@@ -56,14 +56,14 @@ Sinon dans le quartier on trouve curieusement beaucoup de restos Indiens et une 
 
 <div id="attachment_403" class="wp-caption aligncenter" style="max-width: 300px">
   <a href="{{< aws >}}/uploads/img_3335.jpg"><img class="size-medium wp-image-403 " title="img_3335" src="{{< aws >}}/uploads/img_3335.jpg" alt="Je le sais, c'est tout..." width="300" height="225" /></a>
-  
+
   <p class="wp-caption-text">
     Non, Picsou il est né à Glasgow. Je le sais, c'est tout.
   </p>
 </div>
 
 Les enseignes indiennes c&rsquo;est à cause de la communauté Birmane installée en force à Baba et du fait que monter un resto de bouffe birmane, je suppose, ne fait rêver personne, même pas un Birman.
-  
+
 D&rsquo;où le célèbre dicton Japonais « ビルマニ現インド在活ベルギニ動をフランス停止させらレストランです » (le Birman est au resto Indien, ce que le Belge est au resto Français).
 
 <p style="text-align: left;">
