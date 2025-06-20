@@ -4,6 +4,34 @@
   <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
   <meta name="env" content="{{ partialCached "huge/env/Get" "Get" }}">
   <link href="https://fonts.googleapis.com/css?family=Neuton:300,400,400i,700" rel="stylesheet">
+  <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+  <script src="/pagefind/pagefind-ui.js"></script>
+
+  {{ with .Type }}
+      {{ $typeLabel := cond (eq . "post") "Article" "Objet du Jour" }}
+      <meta data-pagefind-filter="Quoi:{{ $typeLabel }}">
+  {{ end }}
+  {{ $country := "Japon" }}
+  {{ if eq .Type "item" }}
+    {{ with .Params.price }}
+      {{ $price := . }}
+      {{ if reflect.IsMap . }}
+        {{ with .yen }}
+          {{ $price = . }}
+        {{ end }}
+      {{ end }}
+      <meta data-pagefind-meta="Combien?:{{ $price }}¥">
+    {{ end }}
+    {{ with .Params.mass }}
+      <meta data-pagefind-meta="Ça pèse:{{ . }}g">
+    {{ end }}
+  {{ else if (eq .Type "post") }}
+    {{ with .Parent }}
+      {{ $country = .Title }}
+    {{ end }}
+  {{ end }}
+  <meta data-pagefind-meta="Pays:{{ $country }}">
+  <meta data-pagefind-filter="Pays:{{ $country }}">
   {{ partialCached "huge/styles/tags" "main" "main" }}
   <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0"></script>
   {{ partial "huge/seo/tags" . }}

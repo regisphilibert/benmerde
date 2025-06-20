@@ -4,14 +4,14 @@
 <article class="bm-Entry bm-Entry--center">
     <div class="bm-container">
         <div class="bm-grid">
-            <h1 class="bm-grid__main bm-Entry__title">
+            <h1 data-pagefind-meta="title" class="bm-grid__main bm-Entry__title">
                   <a href="{{ .Permalink }}">{{ .Title }}</a>
             </h1>
             {{ with $.Scratch.Get "area_li" }}
                 {{ with index . "logo" }}
                     <div class="bm-grid__aside bm-Entry__icon">
                          <img src='{{ . }}' alt="">
-                    </div> 
+                    </div>
                 {{ end }}
             {{ end }}
         </div>
