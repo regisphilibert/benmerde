@@ -8,8 +8,6 @@ const algoliaOptions = {
   urlSync: false
 };
 
-console.log('yee');
-
 $('.header-search').click(function(){
   $('.bm-Search').addClass('animating').slideToggle(200, function(){
     $(this).removeClass('animating')

@@ -1,14 +1,14 @@
 <div class="bm-Top">
 	<div class="bm-container">
 		<div class="bm-Entry__navigation">
-		{{ with .PrevPage }}
+		{{ with .Prev }}
 			{{ if eq .Section  "post" }}
 				<span>< <a href="{{ .Permalink }}">{{ .Title }}</a></span>
 			{{ end }}
 		{{ else }}
 			<span>&nbsp;</span>
 		{{ end }}
-		{{ with .NextPage }}
+		{{ with .Next }}
 			{{ if eq .Section  "post" }}
 				<span><a href="{{ .Permalink }}">{{ .Title }}</a> ></span>
 			{{ end }}

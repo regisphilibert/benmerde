@@ -8,18 +8,18 @@ title: Armstrong Jazz
 
 ---
 Il y a un parc public au-dessus du French Quarter. Il y a deux choses importantes liées à ce parc et on a pu voir les restes physiques qui les illustrent.
-Congo Square c’est un endroit historique où au 18ème siècle, les minorités de couleur de Louisiane pouvaient se retrouver librement. C’est pas anodin à cette époque-là et c’est assez unique à la Nouvelle-Orléans, une ville très cosmopolite où se mélangeaient, créoles, noirs libres, noirs esclaves, amérindiens, européens et blanc-bec du coin. 
+Congo Square c’est un endroit historique où au 18ème siècle, les minorités de couleur de Louisiane pouvaient se retrouver librement. C’est pas anodin à cette époque-là et c’est assez unique à la Nouvelle-Orléans, une ville très cosmopolite où se mélangeaient, créoles, noirs libres, noirs esclaves, amérindiens, européens et blanc-bec du coin.
 Sur Congo Square, en plus de marchander et discuter, on pouvait évidemment faire de la musique, de la musique autre que les bourrées codifiées de l’homme blanc. Chacun bricolait un machin vaguement inspiré d’un instruments de sa région d’origine et en jouait au milieu des autres.  Beaucoup d’instruments africains criaient au-dessus des arbres bien taillés du Square. Cette musique libérées des codes créatifs imposés par les blancs, associés au blues déjà populaire dans les classes pauvres du Sud, donnera naissance au jazz et à tous ses enfants : swing, rythm and blues, bebop, rock & roll etc…
 
 Et l’homme qui a le plus émancipé le déjà très libéré jazz se tient, trompette et mouchoir à la main, au centre du parc qui porte son nom. Alors après avoir vu Congo Square, où par chance quelques locaux jouaient du tam-tam sous les phares de leurs bagnoles (à défaut des lanternes de l’époque), on est allé observer la statue du Pops de New Orleans, Louis Armstrong.
 
 Bon le machin est en bronze et mal éclairé, alors plutôt qu’une critique sculpturale, est-ce que ça serait pas le moment de _dropper _sa petite science sur le bonhomme ? Je connais pas grand chose, on serait déçu, mais j’ai quand même pu retenir peut-être l’essence du phénomène après quelques bouquins et documentaires plus cette visite du berceau.
 
-L’homme blanc impose des codes à tous et les arts n’y coupent pas. Pour un blanc, si tu suis les conventions artistiques, t’as peut-être une infime chance de devenir populaire, de vivre de ton art, d’avoir ta statue dans un parc. 
+L’homme blanc impose des codes à tous et les arts n’y coupent pas. Pour un blanc, si tu suis les conventions artistiques, t’as peut-être une infime chance de devenir populaire, de vivre de ton art, d’avoir ta statue dans un parc.
 Mais jusqu’à aujourd’hui, en suivant les codes de l’homme blanc, les hommes et les femmes noirs, et ça vaut pour certaines autres minorités choisies, n’ont aucune chance d’atteindre tout ça. Un noir n’a pas besoin de connaître les règles du jeu puisqu’il a pas le droit de jouer: disqualifié pour faciès à l’entrée de la salle.
 
 On aurait jamais vu un musicien noir se faire applaudir à la fin d’une opérette au XIXème, pas plus qu’au XXème.
-Alors, prisonniers de toutes les autres lois, la personne de couleur, esclave ou libre, se trouve affranchie de celles qui touchent à l’art en général. 
+Alors, prisonniers de toutes les autres lois, la personne de couleur, esclave ou libre, se trouve affranchie de celles qui touchent à l’art en général.
 Elle fait ce qu’elle aime. Elle improvise des solos, n’écrit pas forcément ses compos, cale des notes improbables dans une mélodie bien rodée et plus tard, comme Louis, tease ses instruments, leurs crie des « Oh Yeah » des « Hein hein » pour finir par prendre la place d’un instrument avec sa bouche nue: Zip-a-dee-daaaaaaaa-ziiiiiiii! 🤨
 
 Et là, il me semble que n’importe quel blanc limité par les codes crierait à la triche, mais si tu t’en tamponnes des convenances à machin, tu peux simplement entendre cette confiance alors rarement égalée s’envoler au-dessus des grésillements des disques d’Armstrong, Thelonious Monk, Sonny Rollins et autre joyeux _name dropping_ !
@@ -32,4 +32,4 @@ Armstrong est un des jazzman les plus célèbres peut-être parce qu’il a su d
 
 Dans tous les cas, libre à soi de célébrer l’icône comme on veut mais en regardant une statue, on se mouille pas trop.
 
-{{< figure src="IMG_2575.jpeg" >}}
+{{< figure src="IMG_2575.jpeg" />}}

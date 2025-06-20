@@ -1,2 +1,2 @@
 {{- $rate :=  0.00720 -}}
-{{- mul (int . ) $rate | lang.NumFmt 2 -}}
+{{- mul (int . ) $rate | lang.FormatNumber 2 -}}
