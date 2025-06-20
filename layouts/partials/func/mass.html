@@ -1,5 +1,10 @@
-{{- if ge . 1000 -}}
-	{{- div (float .) 1000 -}}kg
-{{- else -}}
-	{{- . -}}g
-{{- end -}}
+{{ $mass := . }}
+{{ if ne (printf "%T" .) "string" }}
+	{{ if ge . 1000 }}
+	{{ $mass = print (div (float .) 1000) "kg"}}
+	{{ else }}
+		{{ $mass = print $mass "g" }}
+	{{ end }}
+{{ end }}
+
+{{ return $mass }}

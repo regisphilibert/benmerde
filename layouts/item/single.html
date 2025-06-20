@@ -16,11 +16,7 @@
 						<tr>
 							<td>Poids:</td>
 							<td>
-								{{ if eq (printf "%T" .) "string" }}
-									{{ . }}
-								{{ else }}
-									{{ partial "func/mass" . }}
-								{{ end }}
+								{{ partial "func/mass" .}}
 							</td>
 						</tr>
 					{{ end }}

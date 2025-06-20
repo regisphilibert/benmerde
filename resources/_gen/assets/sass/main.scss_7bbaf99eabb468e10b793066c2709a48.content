@@ -447,15 +447,38 @@ hr {
 .bm-Bottom {
   border-top: 1px solid #930b09; }
 
+:root {
+  --pagefind-ui-border-width: 0;
+  --pagefind-ui-border-radius: 8px; }
+
 .bm-Search {
   position: relative;
   display: none; }
+  .bm-Search .pagefind-ui__form:before {
+    display: none !important;
+    background-color: #930b09; }
+  .bm-Search .pagefind-ui__search-input {
+    font-family: 'Georgia';
+    font-weight: normal;
+    padding: 0.3rem 0.3rem !important;
+    max-width: calc(100% - 90px) !important; }
+    .bm-Search .pagefind-ui__search-input::placeholder {
+      color: black;
+      opacity: .6; }
   .bm-Search.animating {
+    border-bottom: 1px solid #930b09; }
+  .bm-Search input {
+    border: 0; }
+  .bm-Search .pagefind-ui__button {
+    border: 1px solid #930b09; }
+    .bm-Search .pagefind-ui__button:hover {
+      background: #930b09;
+      color: white; }
+  .bm-Search .pagefind-ui__result + .pagefind-ui__result {
     border-bottom: 1px solid #930b09; }
   .bm-Search .bm-Search__box {
     position: relative;
     z-index: 1000;
-    padding: 10px;
     border-bottom: 1px solid #930b09;
     background: white; }
   .bm-Search .bm-Search__box__input {
@@ -465,19 +488,27 @@ hr {
     outline: none;
     font-family: inherit;
     border: 0; }
-  .bm-Search .ais-search-box--magnifier-wrapper {
+  .bm-Search .magnifier {
     position: absolute;
     overflow: hidden;
     height: 100%;
     top: 0;
     right: 0; }
-    .bm-Search .ais-search-box--magnifier-wrapper .ais-search-box--magnifier {
-      margin-top: -7px;
+  .bm-Search .magnifier__icon {
+    margin-top: -7px;
+    width: 40px; }
+    .bm-Search .magnifier__icon svg {
+      fill: #930b09; }
+  @media (min-width: 960px) {
+    .bm-Search .pagefind-ui__search-input {
+      font-size: 1.5em; }
+    .bm-Search .magnifier__icon {
       width: 96px;
-      height: 79px; }
-      .bm-Search .ais-search-box--magnifier-wrapper .ais-search-box--magnifier svg {
-        fill: #930b09; }
-
+      height: 85px; }
+    .bm-Search .bm-Search__box {
+      padding: 10px; }
+    .bm-Search .pagefind-ui__search-clear {
+      margin-right: 90px !important; } }
 .bm-Footer {
   background-color: var(--layoutColor);
   color: white; }
