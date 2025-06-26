@@ -34,18 +34,18 @@ Petite intro carte postale pour vous dire que ce week-end a été bien calme, ma
 
 <div id="attachment_199" class="wp-caption " style="max-width: 240px">
   <a href="{{< aws >}}/uploads/img_2175.jpg"><img class="size-medium wp-image-199 " title="img_2175" src="{{< aws >}}/uploads/img_2175.jpg" alt="Guitars Yamaha et boules de gomme..." width="240" height="180" /></a>
-  
+
   <p class="wp-caption-text">
     Guitars Yamaha et boules de gomme...
   </p>
 </div>
 
 En effet, ce dernier, fort content de sa soirée Country, ne comprenait plus trop ce qu&rsquo;il foutait à 00h30 dans une boîte gay au fin fond de Shinjuku.
-  
+
 Après avoir croisé quelques regard malsain pendant 4 bonnes minutes, il decide donc de saluer la compagnie (la copine de McMillan plus Brendan, un type très sympa qui voulait se faire une boîte gay à Tokyo depuis longtemps, et dont le rêve s&rsquo;est malheureusement exaucé ce soir-là), alors je repars (ouais on va reprendre la 1e personne) et j&rsquo;attends mon train une bonne demi-heure en compagnie de 2500 japonais.
-  
-[audio:quaibonde.mp3]
-  
+
+{{< audio "quaibonde.mp3" >}}
+
 Ils essayaient de monter dans le train d&rsquo;en face eux (enfin ils essayent pas vraiment, ils s&rsquo;aglutinaient contre les portes déjà débordante de japono et puis attendaient tranquillement qu&rsquo;on les pousses vers l&rsquo;intérieur&#8230; Ce soir-là personne n&rsquo;est venu.) Bref bien à l&rsquo;aise dans mon train, j&rsquo;ai vu défiler ces yeux mi-clos écrasés contre vitres et aisselles, j&rsquo;ai pas fait coucou.
 
 Pour faire court, le train n&rsquo;allait pas jusqu&rsquo;à ma station, il s&rsquo;est arrêté pour la nuit en plein milieu du trajet (à <a title="Wikipedia : Ikebukuro" href="https://fr.wikipedia.org/wiki/Ikebukuro" target="_blank">Ikebukuro</a> pour les initiés) et à l&rsquo;autre bout de la ville de mon chez moi ! Alors comment, j&rsquo;y rentre moi, chez moi ?
