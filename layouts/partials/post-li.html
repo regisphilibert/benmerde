@@ -17,9 +17,12 @@
         </div>
         <div class="bm-grid">
             <div class="bm-grid__aside bm-Entry__meta">
-                <time class="bm-Entry__time" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
-                    {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
+                {{ with .Date }}
+                <time class="bm-Entry__time" datetime="{{ .Format "2006-01-02T15:04:05Z07:00" | safeHTML }}">
+                    {{ .Day }} {{ index $.Site.Data.mois (printf "%d" .Month) }} {{ .Year }}
                 </time>
+                {{ end }}
+
                 {{ with .Params.locations }}
                     {{ template "tax" (dict "terms" . "slug" "locations") }}
                 {{ end }}
